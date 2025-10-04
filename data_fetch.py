@@ -1,8 +1,8 @@
-from flask import Flask, jsonify
+from flask import Flask, jsonify, send_from_directory
 import json
 import os
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='public', static_url_path='')
 
 @app.route('/api/data')
 def get_data():
@@ -14,6 +14,10 @@ def get_data():
     
     # Send JSON to the frontend
     return jsonify(data)
+
+@app.route('/')
+def index():
+    return send_from_directory('public', 'index.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
