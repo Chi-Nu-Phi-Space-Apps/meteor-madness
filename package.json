@@ -1,0 +1,22 @@
+{
+  "name": "meteor-madness",
+  "version": "1.0.0",
+  "description": "Chi Nu Phi NASA Space Apps",
+  "homepage": "https://github.com/Chi-Nu-Phi-Space-Apps/meteor-madness#readme",
+  "bugs": {
+    "url": "https://github.com/Chi-Nu-Phi-Space-Apps/meteor-madness/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chi-Nu-Phi-Space-Apps/meteor-madness.git"
+  },
+  "license": "MIT",
+  "author": "Chi Nu Phi",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "~5.9.3"
+  }
+}
