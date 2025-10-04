@@ -2,8 +2,9 @@
 Asteroid Impact Simulation
 
 This script reads NASA asteroid data (from asteroid_data.csv),
-simulates random Earth entry and impact points for asteroids, 
-and outputs it in a file called simulated astroid impacts
+simulates random Earth entry and impact points for 
+asteroids based on provided dataset. Creates a 
+plot in data folder.
 
 """
 
@@ -14,8 +15,7 @@ import random
 import matplotlib.pyplot as plt
 
 # CONFIGURATION
-INPUT_FILE = "asteroid_data.csv"
-OUTPUT_FILE = "simulated_asteroid_impacts.csv"
+INPUT_FILE = "data/asteroid_data.csv"
 
 # Physical constants
 R_EARTH = 6371.0      # km
@@ -99,8 +99,6 @@ def main():
     results = [simulate_impact(row) for _, row in df.head(50).iterrows()]
 
     sim_df = pd.DataFrame(results)
-    sim_df.to_csv(OUTPUT_FILE, index=False)
-    print(f"💾 Results saved to {OUTPUT_FILE}")
 
     # Optional visualization
     plt.figure(figsize=(10, 5))

@@ -1,15 +1,18 @@
-#!/usr/bin/env python
-# coding: utf-8
+"""
+Asteroid Impact Prediction
 
-# In[3]:
+This script reads NASA asteroid data (from asteroid_data.csv),
+simulates Earth entry and impact points for asteroids 
+provided in dataset. Creates a plot in front end.
 
+"""
 
 import pandas as pd
 import numpy as np
 import math
 import random
 
-df = pd.read_csv("asteroid_data.csv")
+df = pd.read_csv("data/asteroid_data.csv")
 
 # Rename key columns
 df = df.rename(columns={
