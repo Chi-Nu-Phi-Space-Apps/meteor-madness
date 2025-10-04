@@ -86,22 +86,30 @@ def simulate_impact(row):
 sim_df = df.head(50).apply(simulate_impact, axis=1)  # simulate first 50 for speed
 
 # --- Save results ---
-#sim_df.to_csv("simulated_asteroid_impacts.csv", index=False)
+sim_df.to_csv("simulated_asteroid_impacts.csv", index=False)
 sim_df.head()
 
 
 # In[4]:
 
 
+import os
 import matplotlib.pyplot as plt
 
-plt.figure(figsize=(10,5))
+fig_path = os.path.join("data", "impact_map.png")
+
+plt.figure(figsize=(10, 5))
 plt.scatter(sim_df['impact_lon'], sim_df['impact_lat'], s=20, color='red', alpha=0.7)
 plt.title("Simulated Asteroid Impact Locations")
 plt.xlabel("Longitude")
 plt.ylabel("Latitude")
 plt.grid(True)
-plt.show()
+
+# Save it to the GitHub data folder
+plt.savefig(fig_path, dpi=300)
+plt.close()
+
+print(f"✅ Plot saved to: {fig_path}")
 
 
 # In[ ]:
