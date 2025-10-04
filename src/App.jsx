@@ -1,5 +1,6 @@
 import React from "react";
-import Dropdown from "./Dropdown";
+import Game from "./Game";
+import Instructions from "./Instructions";
 
 export default function App() {
   const [data, setData] = React.useState(null);
@@ -36,8 +37,10 @@ export default function App() {
 
   return (
     <div>
-      <p>Pick an asteroid to guess!</p>
-      <Dropdown data={data} />
+      <h2 style={{textAlign: "center"}}>Asteroid Mania!</h2>
+      {/* TODO: short description of the game here */}
+      <Game data={data} />
+      <Instructions />
     </div>
   );
 }
