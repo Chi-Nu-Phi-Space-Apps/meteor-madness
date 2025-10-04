@@ -37,8 +37,11 @@ export default function App() {
 
   return (
     <div>
-      <h2 style={{textAlign: "center"}}>Asteroid Mania!</h2>
-      {/* TODO: short description of the game here */}
+      <h1>Chi Nu Phi Meteor Madness!</h1>
+      <p>
+        Have you wondered what asteroid impacts could actually result in?
+        Try your hand at a GeoGuessr-style game complete with real data!
+      </p>
       <Game data={data} />
       <Instructions />
     </div>
