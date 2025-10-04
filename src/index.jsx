@@ -1,6 +1,9 @@
-const contentDiv = document.getElementById("content");
+import React from "react";
+import ReactDOM from "react-dom/client";
+import { App } from "./App";
 
-const pTag = contentDiv.appendChild(document.createElement("p"));
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(<App />)
 
 let data;
 
@@ -34,4 +37,4 @@ async function main() {
   // pTag.innerHTML = str;
 }
 
-main();
+// main();
