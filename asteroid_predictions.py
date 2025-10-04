@@ -86,7 +86,7 @@ def simulate_impact(row):
 sim_df = df.head(50).apply(simulate_impact, axis=1)  # simulate first 50 for speed
 
 # --- Save results ---
-#sim_df.to_csv("simulated_asteroid_impacts.csv", index=False)
+sim_df.to_csv("simulated_asteroid_impacts.csv", index=False)
 sim_df.head()
 
 
