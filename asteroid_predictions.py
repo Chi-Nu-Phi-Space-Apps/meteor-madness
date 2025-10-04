@@ -6,21 +6,23 @@ simulates Earth entry and impact points for asteroids
 provided in dataset. Creates a plot in front end.
 
 """
-
+#%%
+# Import packages
 import pandas as pd
 import numpy as np
 import math
 import random
 
+# Read in csv data
 df = pd.read_csv("data/asteroid_data.csv")
 
 # Rename key columns
 df = df.rename(columns={
     'close_approach_data/0/relative_velocity/kilometers_per_second': 'velocity_km_s',
-    'estimated_diameter/meters/estimated_diameter_max': 'diameter_m',
-    'name': 'name'
+    'estimated_diameter/meters/estimated_diameter_max': 'diameter_m'
 })
 
+# Drop nans and make velocity and diameter numeric
 df['velocity_km_s'] = pd.to_numeric(df['velocity_km_s'], errors='coerce')
 df['diameter_m'] = pd.to_numeric(df['diameter_m'], errors='coerce')
 df = df.dropna(subset=['velocity_km_s', 'diameter_m'])
@@ -30,14 +32,15 @@ R_EARTH = 6371.0  # km
 V_ESCAPE = 11.186  # km/s
 RHO_AST = 3000.0   # kg/m³
 
+# Calculate asteroid entry speed
 def entry_speed(v_inf_km_s):
-    """Compute entry speed from v_infinity"""
     return math.sqrt(v_inf_km_s**2 + V_ESCAPE**2)
 
+# Simulate asteroid impact
 def simulate_impact(row):
     # Randomized entry parameters
-    entry_angle = random.uniform(15, 60)   # degrees
-    azimuth = random.uniform(0, 360)       # degrees
+    entry_angle = random.uniform(15, 60)
+    azimuth = random.uniform(0, 360)      
     entry_lat = random.uniform(-90, 90)
     entry_lon = random.uniform(-180, 180)
     
