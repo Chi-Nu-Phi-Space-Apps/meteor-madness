@@ -12,3 +12,17 @@
   width: 80%;
   box-sizing: border-box;
 }
+
+body {
+  background-color: #2F4F4F;
+  color: #F0FFFF;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+p {
+  text-align: center;
+}
