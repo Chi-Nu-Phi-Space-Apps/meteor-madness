@@ -1,15 +1,17 @@
 import React from "react";
 import Picker from "./states/Pick";
+import Guesser from "./states/Guess";
+import DataViewer from "./states/Data";
+import type { Data } from "./data";
 
-/** @readonly */
-const GameState = Object.freeze({
-  PICK: 0,
-  GUESS: 1,
-  ANIMATE: 2, // TODO later
-  DATA: 3,
-});
+export const enum GameState {
+  PICK,
+  GUESS,
+  ANIMATE,
+  DATA
+}
 
-export default function Game({ data }) {
+export default function Game({ data }: { data: Data | null }) {
   if (!data) return <p>Loading...</p>;
 
   const [gameState, setGameState] = React.useState(GameState.PICK);

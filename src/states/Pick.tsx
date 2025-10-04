@@ -1,6 +1,7 @@
 import React from "react";
+import type { Data } from "../data";
 
-function Dropdown({ data }) {
+function Dropdown({ data }: { data: Data }) {
   const allObjects = Object.values(data.near_earth_objects).flat();
 
   // Remove parentheses from names and sort alphabetically
@@ -32,7 +33,7 @@ function Dropdown({ data }) {
   );
 }
 
-export default function Picker({ data }) {
+export default function Picker({ data }: { data: Data }) {
   return (
     <div className="center-div" id="game">
       <p>Pick an asteroid to guess!</p>

@@ -1,10 +1,11 @@
 import React from "react";
 import Game from "./Game";
 import Instructions from "./Instructions";
+import type { Data } from "./data";
 
 export default function App() {
-  const [data, setData] = React.useState(null);
-  const [loading, setLoading] = React.useState(false);
+  const [data, setData] = React.useState<Data | null>(null);
+  const [loading, setLoading] = React.useState<boolean>(false);
   const [error, setError] = React.useState(null);
 
   React.useEffect(() => {
