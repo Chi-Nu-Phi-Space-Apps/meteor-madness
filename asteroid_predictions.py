@@ -33,14 +33,45 @@ RHO_AST = 3000.0   # kg/m³
 def entry_speed(v_inf_km_s):
     return math.sqrt(v_inf_km_s**2 + V_ESCAPE**2)
 
-# Simulate asteroid impact
-def simulate_impact(row):
+
+#
+def estimate_impact_point():
     # Randomized entry parameters
     entry_angle = random.uniform(15, 60)
     azimuth = random.uniform(0, 360)      
     entry_lat = random.uniform(-90, 90)
     entry_lon = random.uniform(-180, 180)
     
+    # Downrange distance (km) — shallow angles -> longer distance
+    angle_rad = math.radians(max(0.1, min(89.9, entry_angle)))  # avoid 0/90 issues
+    downrange_km = entry_alt_km / math.tan(angle_rad)  # very rough
+
+    # Convert to radians
+    lat_rad = math.radians(entry_lat)
+    lon_rad = math.radians(entry_lon)
+    az_rad = math.radians(azimuth)  # <-- fixed: azimuth_deg → azimuth
+
+    # Central angle (radians) on sphere = arc_length / radius
+    d_r = downrange_km / R_EARTH
+
+    # Destination (great-circle) formula
+    sin_lat2 = math.sin(lat_rad) * math.cos(d_r) + math.cos(lat_rad) * math.sin(d_r) * math.cos(az_rad)
+    sin_lat2 = max(-1.0, min(1.0, sin_lat2))  # clamp for safety
+    lat2 = math.asin(sin_lat2)
+
+    lon2 = lon_rad + math.atan2(
+        math.sin(az_rad) * math.sin(d_r) * math.cos(lat_rad),
+        math.cos(d_r) - math.sin(lat_rad) * math.sin(lat2)
+    )
+
+    impact_lat = math.degrees(lat2)
+    impact_lon = (math.degrees(lon2) + 180) % 360 - 180  # wrap to [-180, 180]
+
+    return impact_lat, impact_lon
+
+
+# Simulate asteroid impact
+def simulate_impact(row):
     # Physical properties
     d = row['diameter_m']
     v_entry = entry_speed(row['velocity_km_s'])
