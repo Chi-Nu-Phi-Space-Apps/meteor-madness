@@ -89,6 +89,11 @@ h2 {
   text-transform: uppercase;
 }
 
+h3 {
+  font-size: 30px;
+}
+
 p {
   text-align: center;
+  font-size: 20px;
 }
