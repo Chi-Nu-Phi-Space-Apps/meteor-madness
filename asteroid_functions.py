@@ -2,34 +2,46 @@ import math
 import numpy as np
 import pandas as pd
 
-# Constants used for math
-RAD_EARTH = 6371.0  # km
-VEL_ESCAPE = 11.186  # km/s
-RHO_AST = 3000000000000.0   # kg/km³ 
+# Earth constants
+RAD_EARTH = 6371.0          # km
+V_ESCAPE_EARTH = 11.186     # km/s
+RHO_AST = 3E12              # kg/km³ 
 
-# Calculate asteroid entry speed
-def entry_speed(v_kps):
-    return math.sqrt(math.pow(v_kps, 2) + math.pow(VEL_ESCAPE, 2))
+
+#
+def calculate_asteroid_mass(row):
+    shape_correction_factor = np.random.uniform(0.6, 1.0)
+    porosity_factor = np.random.uniform(0.0, 0.5)
+
+    diameter = np.random.uniform(row['estimated_diameter_min'], row['estimated_diameter_max'])
+    volume =  (4/3 * math.pi * math.power(diameter / 2, 3)) * shape_correction_factor
+
+    
+
+
+
+# Calculate asteroid impact speed
+def calculate_impact_velocity(rel_v_asteroid):
+    return math.sqrt(math.pow(rel_v_asteroid, 2) + math.pow(V_ESCAPE_EARTH, 2))
 
 
 # Simulate asteroid impact
 def simulate_impact(row):
 
-    # Randomized entry parameters
+    # Randomized asteroid entry parameters
     entry_angle = np.random.uniform(15, 60)
     azimuth = np.random.uniform(0, 360)      
     entry_lat = np.random.uniform(-90, 90)
     entry_lon = np.random.uniform(-180, 180)
     
     # Known asteroid properties
-    diameter = np.random.uniform(row['estimated_diameter_min'], row['estimated_diameter_max'])
-    vel_entry = entry_speed(row['relative_velocity_kps'])
-    radius = diameter / 2
-    volume = np.random.uniform(2/3, 4/3) * math.pi * math.power(radius, 3)
+    
+    volume = 0.8 * math.pi * math.power(diameter / 2, 3)
+    velocity = calculate_impact_velocity(row['relative_velocity_kps'])
     mass = RHO_AST * volume
     
     # Simple energy model (kinetic)
-    energy_mt = 0.5 * mass * (v_entry*1000)**2 / 4.184e15
+    energy_mt = 0.5 * mass * (velocity*1000)**2 / 4.184e15
     
     # Simple travel distance (downrange in km)
     # Assume flatter entry (shallow) means longer travel

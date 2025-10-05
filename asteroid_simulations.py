@@ -13,9 +13,17 @@ import numpy as np
 import math
 import random
 import matplotlib.pyplot as plt
+from data_query import read_csv_to_df
 
-# CONFIGURATION
-INPUT_FILE = "data/asteroid_data.csv"
+# CSV file path
+file_path = r"data/asteroid_data.csv"
+
+# Read in csv data
+df = read_csv_to_df(file_path)
+
+# Key Columns
+v_kps = df['relative_velocity_kps']
+d_max = df['estimated_diameter_max']
 
 # Physical constants
 R_EARTH = 6371.0      # km
@@ -75,25 +83,9 @@ def simulate_impact(row):
         'impact_lon': round(impact_lon, 3)
     }
 
+
 # MAIN
-
 def main():
-    print("Loading asteroid data...")
-    df = pd.read_csv(INPUT_FILE)
-
-    # Rename columns from NASA CSV
-    df = df.rename(columns={
-        'close_approach_data/0/relative_velocity/kilometers_per_second': 'velocity_km_s',
-        'estimated_diameter/meters/estimated_diameter_max': 'diameter_m',
-        'name': 'name'
-    })
-
-    df['velocity_km_s'] = pd.to_numeric(df['velocity_km_s'], errors='coerce')
-    df['diameter_m'] = pd.to_numeric(df['diameter_m'], errors='coerce')
-    df = df.dropna(subset=['velocity_km_s', 'diameter_m'])
-
-    print(f"✅ Loaded {len(df)} asteroids from {INPUT_FILE}")
-
     # Run simulation for first 50
     print("🚀 Simulating impacts...")
     results = [simulate_impact(row) for _, row in df.head(50).iterrows()]

@@ -12,22 +12,19 @@ import pandas as pd
 import numpy as np
 import math
 import random
+from data_query import read_csv_to_df
+
+# CSV file path
+file_path = r"data/asteroid_data.csv"
 
 # Read in csv data
-df = pd.read_csv("data/asteroid_data.csv")
+df = read_csv_to_df(file_path)
 
-# Rename key columns
-df = df.rename(columns={
-    'close_approach_data/0/relative_velocity/kilometers_per_second': 'velocity_km_s',
-    'estimated_diameter/meters/estimated_diameter_max': 'diameter_m'
-})
+# Key Columns
+velocity_kps = df['relative_velocity_kps']
+diameter_max = df['estimated_diameter_max']
 
-# Drop nans and make velocity and diameter numeric
-df['velocity_km_s'] = pd.to_numeric(df['velocity_km_s'], errors='coerce')
-df['diameter_m'] = pd.to_numeric(df['diameter_m'], errors='coerce')
-df = df.dropna(subset=['velocity_km_s', 'diameter_m'])
-
-# --- Constants ---
+# Constants used for math
 R_EARTH = 6371.0  # km
 V_ESCAPE = 11.186  # km/s
 RHO_AST = 3000.0   # kg/m³
