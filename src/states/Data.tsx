@@ -65,7 +65,7 @@ export default function DataViewer({
       <div id="gameData">
         <OverlayOnImage src="./photos/worldMap.jpg" x={xPercent} y={yPercent} ref={ref}>
         <img 
-          src="./photos/crater.png" 
+          src="./photos/crater.jpg" 
           alt="marker" 
           style={{ width: "32px", height: "32px" }} 
           />
