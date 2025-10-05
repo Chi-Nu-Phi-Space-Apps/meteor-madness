@@ -12,16 +12,11 @@ export type PrunedAsteroid = {
   name: string;
   nasa_jpl_url: string;
   absolute_magnitude_h: number;
-  estimated_diameter: {
-    kilometers: EstimatedDiameter;
-    meters: EstimatedDiameter;
-    miles: EstimatedDiameter;
-    feet: EstimatedDiameter;
-  };
   is_potentially_hazardous_asteroid: boolean;
   asteroid_mass: number;
   impact_velocity_kps: number;
   impact_energy_mt: number;
   impact_lat: number;
   impact_lon: number;
+  diameter_km: number;
 };
