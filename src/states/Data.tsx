@@ -51,9 +51,9 @@ function OverlayOnImage({
 function DataBox({ asteroid }: { asteroid: PrunedAsteroid }) {
   return (
     <div className="dataContainer">
-      <div id="dataOverview" className="dataBox">thing1</div>
-      <div id="impactSim" className="dataBox">thing2</div>
-      <div id="hazardSim" className="dataBox">thing3</div>
+      <div id="dataOverview" className="dataBox">Mass: </div>
+      <div id="impactSim" className="dataBox">Impact Speed: </div>
+      <div id="hazardSim" className="dataBox">Impact Energy: </div>
     </div>
   );
 }
