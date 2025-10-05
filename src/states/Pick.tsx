@@ -28,7 +28,7 @@ export default function Picker({
 
   return (
     <div className="center-div" id="game">
-      <p>Pick an asteroid to guess!</p>
+      <p style = {{fontSize: 30}}>Pick an asteroid to guess!</p>
 
       <select
         value={selectedAsteroid}
