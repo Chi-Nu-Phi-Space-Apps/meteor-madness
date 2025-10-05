@@ -1,6 +1,6 @@
 import React from "react";
 import Game from "./Game";
-import Instructions from "./Instructions";
+import Footer from "./Footer";
 import type { PrunedAsteroid } from "./types";
 
 export default function App() {
@@ -36,7 +36,7 @@ export default function App() {
     <div>
       <h1>Chi Nu Phi Meteor Madness!</h1>
       <Game data={data} />
-      <Instructions />
+      <Footer />
     </div>
   );
 }

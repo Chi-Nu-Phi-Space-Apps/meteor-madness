@@ -20,7 +20,7 @@ export default function Game({ data }: { data: PrunedAsteroid[] }) {
         (obj) => obj.name.replace(nameCleaningRegex, "") === selectedAsteroid
       );
       if (!asteroid) throw new Error("Asteroid not found");
-      return <DataViewer asteroid={asteroid} />;
+      return <DataViewer asteroid={asteroid} setGameState={setGameState} />;
     }
     default:
       throw new Error("Unhandled gamestate value");

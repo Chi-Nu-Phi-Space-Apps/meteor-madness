@@ -17,9 +17,6 @@ export default function Picker({
   selectedAsteroid: string;
   setSelectedAsteroid: StateSetter<string>;
 }) {
-  // TODO: move this to the hover over submit?
-  preload("./photos/worldMap.jpg", { as: "image" }); // Reduce waiting time by preloading the map
-
   // Remove parentheses from names and sort alphabetically
   const cleanedNames = data
     .map((obj) => obj.name.replace(nameCleaningRegex, ""))
@@ -33,7 +30,7 @@ export default function Picker({
   return (
     <div className="center-div" id="game">
       <p style={{ fontSize: 30, marginBottom: '20px' }}>
-        Pick an asteroid to guess!
+        Pick an asteroid to see!
       </p>
 
       <select
@@ -47,7 +44,7 @@ export default function Picker({
         ))}
       </select>
       
-      <button onClick={() => setGameState(GameState.DATA)}>
+      <button onClick={() => setGameState(GameState.DATA)} onMouseOver={() => preload("./photos/worldMap.jpg", { as: "image" })}>
         Submit
       </button>
     </div>
