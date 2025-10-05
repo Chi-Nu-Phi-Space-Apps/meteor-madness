@@ -66,7 +66,7 @@ h1 {
   }
 }
 
-@keyframes colorShift {
+/*@keyframes colorShift {
   0% {
     --neon-color1: #ff79c6;
     --neon-color2: #bd93f9;
@@ -87,7 +87,7 @@ h1 {
     --neon-color2: #bd93f9;
     --neon-color3: #8be9fd;
   }
-}
+} */
 
 
 
