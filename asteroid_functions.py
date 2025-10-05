@@ -1,6 +1,7 @@
 import math
 import numpy as np
 import pandas as pd
+import matplotlib as plt
 import data_query as dq
 
 # Constants
@@ -72,10 +73,11 @@ def estimate_impact_point():
 
     return {"impact_lat": impact_lat, "impact_lon": impact_lon}
 
+
 # Simulate asteroid impact
 def simulate_impact():
-    file_path = r"data/asteroid_data.csv"
-    df = dq.read_csv_to_df(file_path)
+    csv_path = r"data/asteroid_data.csv"
+    df = dq.read_csv_to_df(csv_path)
 
     mass = calculate_asteroid_mass(df)
     velocity = calculate_impact_velocity(df)
@@ -89,6 +91,28 @@ def simulate_impact():
     df['impact_lon'] = [c['impact_lon'] for c in coords]
 
     df.to_csv("data/simulated_asteroid_data.csv", index=False)
-    df.to_json("data/simulated_asteroid_data.json", index=False)
+    df.to_json("data/simulated_asteroid_data.json", orient="records", indent=2)
+
+    plot_impact_map(df)
 
     return df
+
+
+#
+def plot_impact_map(df, sample_size=50):
+    impact_map_path = r"data/impact_map.png"  # fixed filename — add .png extension
+
+    # Take a sample of impacts (optional, to keep map uncluttered)
+    sim_df = df.head(sample_size).copy()
+
+    # Plot
+    plt.figure(figsize=(10, 5))
+    plt.scatter(sim_df['impact_lon'], sim_df['impact_lat'], s=20, color='red', alpha=0.7)
+    plt.title("Simulated Asteroid Impact Locations")
+    plt.xlabel("Longitude")
+    plt.ylabel("Latitude")
+    plt.grid(True)
+
+    # Save map image
+    plt.savefig(impact_map_path, dpi=300)
+    plt.close()
