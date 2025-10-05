@@ -1,5 +1,5 @@
 import React from "react";
-import type { Data, StateSetter } from "../types";
+import type { PrunedAsteroid, StateSetter } from "../types";
 import { GameState } from "../Game";
 import { preload } from "react-dom";
 
@@ -12,16 +12,13 @@ export default function Picker({
   selectedAsteroid,
   setSelectedAsteroid,
 }: {
-  data: Data;
+  data: PrunedAsteroid[];
   setGameState: StateSetter<GameState>;
   selectedAsteroid: string;
   setSelectedAsteroid: StateSetter<string>;
 }) {
-  const allObjects = Object.values(data.near_earth_objects).flat();
-  preload("./photos/worldMap.jpg", { as: "image" }); // Reduce waiting time by preloading the map
-
   // Remove parentheses from names and sort alphabetically
-  const cleanedNames = allObjects
+  const cleanedNames = data
     .map((obj) => obj.name.replace(nameCleaningRegex, ""))
     .sort((a, b) => a.localeCompare(b));
 
@@ -33,7 +30,7 @@ export default function Picker({
   return (
     <div className="center-div" id="game">
       <p style={{ fontSize: 30, marginBottom: '20px' }}>
-        Pick an asteroid to guess!
+        Pick an asteroid to see!
       </p>
 
       <select
@@ -47,7 +44,7 @@ export default function Picker({
         ))}
       </select>
       
-      <button onClick={() => setGameState(GameState.DATA)}>
+      <button onClick={() => setGameState(GameState.DATA)} onMouseOver={() => preload("./photos/worldMap.jpg", { as: "image" })}>
         Submit
       </button>
     </div>

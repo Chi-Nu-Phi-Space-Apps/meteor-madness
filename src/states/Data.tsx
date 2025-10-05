@@ -1,5 +1,6 @@
 import React, { useEffect } from "react";
-import type { NEODescriptor } from "../types";
+import type { PrunedAsteroid, StateSetter } from "../types";
+import { GameState } from "../Game";
 
 function OverlayOnImage({
   src,
@@ -47,28 +48,44 @@ function OverlayOnImage({
   );
 }
 
+function DataBox({ asteroid }: { asteroid: PrunedAsteroid }) {
+  return (
+    <div className="dataContainer">
+      <div id="dataOverview" className="dataBox">thing1</div>
+      <div id="impactSim" className="dataBox">thing2</div>
+      <div id="hazardSim" className="dataBox">thing3</div>
+    </div>
+  );
+}
+
 export default function DataViewer({
-  asteroid
+  asteroid,
+  setGameState
 }: {
-  asteroid: NEODescriptor;
+  asteroid: PrunedAsteroid;
+  setGameState: StateSetter<GameState>
 }) {
   const ref = React.useRef<HTMLImageElement>(null);
-  const [xPercent, setXPercent] = React.useState<number>(0);
-  const [yPercent, setyPercent] = React.useState<number>(0);
 
-  // TODO: calculate percents from lat/long
-
-  useEffect(() => {
-    console.log(ref);
-    console.log(asteroid);
-    console.log(`width: ${ref.current?.width}, height ${ref.current?.height}`);
-  }, []);
+  const xPercent = ((asteroid.impact_lon + 180) / 360) * 100; // (-180 to 180) -> 0–100%
+  const yPercent = ((90 - asteroid.impact_lat) / 180) * 100; // (90 to -90) -> 0–100%
 
   return (
-    <div id="gameData">
-      <OverlayOnImage src="./photos/worldMap.jpg" x={xPercent} y={yPercent} ref={ref}>
-        <p style={{ font: "caption", fontSize: "1.5rem", color: "red" }}>x</p>
-      </OverlayOnImage>
+    <div>
+      <div id="gameData">
+        <OverlayOnImage src="./photos/worldMap.jpg" x={xPercent} y={yPercent} ref={ref}>
+        <img 
+          src="./photos/crater.png" 
+          alt="marker" 
+          style={{ width: "32px", height: "32px" }} 
+          />
+        </OverlayOnImage>
+        <DataBox asteroid={asteroid} />
+      </div>
+      <div style={{ display: "flex", justifyContent: "center" }}>
+        <button onClick={() => setGameState(GameState.PICK)}>Back</button>
+      </div>
+      {/* TODO: data box here */}
     </div>
   );
 }

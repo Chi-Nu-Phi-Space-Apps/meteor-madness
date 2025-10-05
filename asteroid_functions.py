@@ -15,6 +15,7 @@ def calculate_asteroid_mass(df):
     shape_correction_factor = np.random.uniform(0.6, 1, len(df))
     porosity_factor = np.random.uniform(0.0, 0.5, len(df))
     diameter = np.random.uniform(df['estimated_diameter_min'], df['estimated_diameter_max'])
+    df['diameter'] = diameter
 
     volume = ((4 / 3) * math.pi * ((diameter / 2) ** 3)) * shape_correction_factor
     density = DENS_AST * (1 - porosity_factor)

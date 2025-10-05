@@ -81,10 +81,6 @@ div#gameData {
   background-color: rgb(78, 17, 117);
 }
 
-#game p {
-  margin-right: 20px; /* adds space between text and dropdown */
-}
-
 :is(div#game, div#gameData) img {
   width: 100%;
   height: auto;
@@ -155,6 +151,7 @@ h3 {
 p {
   text-align: center;
   font-size: 30px;
+  margin: 20px;
 }
 
 .center {
@@ -162,4 +159,18 @@ p {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  padding-bottom: 30px;
+}
+
+.dataContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 3%;
+}
+
+.dataBox {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  text-align: center;
 }

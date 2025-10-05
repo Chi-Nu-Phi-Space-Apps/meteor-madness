@@ -2,35 +2,13 @@ import type React from "react";
 
 export type StateSetter<T> = React.Dispatch<React.SetStateAction<T>>;
 
-export type EstimatedDiameter = {
+type EstimatedDiameter = {
   estimated_diameter_min: number;
   estimated_diameter_max: number;
 };
 
-export type CloseApproach = {
-  close_approach_date: string;
-  close_approach_date_full: string;
-  epoch_date_close_approach: number;
-  relative_velocity: {
-    kilometers_per_second: string;
-    kilometers_per_hour: string;
-    miles_per_hour: string;
-  };
-  miss_distance: {
-    astronomical: string;
-    lunar: string;
-    kilometers: string;
-    miles: string;
-  };
-  orbiting_body: string;
-};
-
-export type NEODescriptor = {
-  links: {
-    self: string;
-  };
+export type PrunedAsteroid = {
   id: `${number}`;
-  neo_reference_id: `${number}`;
   name: string;
   nasa_jpl_url: string;
   absolute_magnitude_h: number;
@@ -41,20 +19,9 @@ export type NEODescriptor = {
     feet: EstimatedDiameter;
   };
   is_potentially_hazardous_asteroid: boolean;
-  close_approach_data: CloseApproach[];
-} & (
-  | { is_sentry_object: true; sentry_data: string }
-  | { is_sentry_object: false }
-);
-
-export type Data = {
-  links: {
-    next: string;
-    previous: string;
-    self: string;
-  };
-  element_count: number;
-  near_earth_objects: {
-    [key: `${number}-${number}-${number}`]: NEODescriptor[];
-  };
+  asteroid_mass: number;
+  impact_velocity_kps: number;
+  impact_energy_mt: number;
+  impact_lat: number;
+  impact_lon: number;
 };

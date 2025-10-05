@@ -1,10 +1,10 @@
 import React from "react";
 import Game from "./Game";
-import Instructions from "./Instructions";
-import type { Data } from "./types";
+import Footer from "./Footer";
+import type { PrunedAsteroid } from "./types";
 
 export default function App() {
-  const [data, setData] = React.useState<Data | null>(null);
+  const [data, setData] = React.useState<PrunedAsteroid[] | null>(null);
   const [error, setError] = React.useState<unknown>(null);
 
   React.useEffect(() => {
@@ -36,7 +36,7 @@ export default function App() {
     <div>
       <h1>Chi Nu Phi Meteor Madness!</h1>
       <Game data={data} />
-      <Instructions />
+      <Footer />
     </div>
   );
 }
