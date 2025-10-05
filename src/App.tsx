@@ -5,12 +5,10 @@ import type { Data } from "./types";
 
 export default function App() {
   const [data, setData] = React.useState<Data | null>(null);
-  const [loading, setLoading] = React.useState<boolean>(false);
   const [error, setError] = React.useState<unknown>(null);
 
   React.useEffect(() => {
     let mounted = true;
-    setLoading(true);
 
     fetch("/api/data")
       .then((res) => {
@@ -20,12 +18,10 @@ export default function App() {
       .then((json) => {
         if (!mounted) return;
         setData(json);
-        setLoading(false);
       })
       .catch((err) => {
         if (!mounted) return;
         setError(err);
-        setLoading(false);
       });
 
     return () => {
@@ -33,7 +29,7 @@ export default function App() {
     };
   }, []);
 
-  if (loading) return <p>Loading...</p>;
+  if (data == null) return <p>Loading...</p>;
   if (error) return <p style={{ color: "red" }}>{error.toString()}</p>;
 
   return (
