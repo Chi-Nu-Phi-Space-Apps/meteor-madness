@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  entry: './src/index.jsx',
+  entry: './src/index.tsx',
   output: {
     path: path.resolve(__dirname, 'public'),
     filename: 'index.js',
@@ -9,19 +9,14 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.jsx?$/,
+        test: /\.tsx?$/,
         exclude: /node_modules/,
-        use: {
-          loader: 'babel-loader',
-          options: {
-            presets: ['@babel/preset-env', '@babel/preset-react'],
-          },
-        },
+        use: 'ts-loader'
       },
     ],
   },
   resolve: {
-    extensions: ['.js', '.jsx'],
+    extensions: ['.js', '.ts', '.tsx'],
   },
   // TODO
   mode: 'development',
