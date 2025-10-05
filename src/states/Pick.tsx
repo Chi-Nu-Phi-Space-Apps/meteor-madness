@@ -28,7 +28,10 @@ export default function Picker({
 
   return (
     <div className="center-div" id="game">
-      <p style = {{fontSize: 30}}>Pick an asteroid to guess!</p>
+      <p style={{ fontSize: 30, marginBottom: '20px' }}>
+        Pick an asteroid to guess!
+      </p>
+
 
       <select
         value={selectedAsteroid}
@@ -40,6 +43,7 @@ export default function Picker({
           </option>
         ))}
       </select>
+      
       <button onClick={() => setGameState(GameState.DATA)}>
         Submit
       </button>
