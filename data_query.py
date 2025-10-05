@@ -76,7 +76,7 @@ def read_csv_to_df(file_path):
     df = pd.read_csv(file_path)
 
     # Convert velocity and max diameter to numeric rows
-    key_cols = ['velocity_kps', 'diameter_max']
+    key_cols = ['relative_velocity_kps', 'estimated_diameter_max']
     for col in key_cols:
         df[col] = pd.to_numeric(df[col], errors='coerce')
 
