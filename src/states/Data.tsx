@@ -48,6 +48,16 @@ function OverlayOnImage({
   );
 }
 
+function DataBox({ asteroid }: { asteroid: PrunedAsteroid }) {
+  return (
+    <div className="dataContainer">
+      <div id="dataOverview" className="dataBox">thing1</div>
+      <div id="impactSim" className="dataBox">thing2</div>
+      <div id="hazardSim" className="dataBox">thing3</div>
+    </div>
+  );
+}
+
 export default function DataViewer({
   asteroid,
   setGameState
@@ -70,8 +80,8 @@ export default function DataViewer({
           style={{ width: "32px", height: "32px" }} 
           />
         </OverlayOnImage>
+        <DataBox asteroid={asteroid} />
       </div>
-      {/* center the button */}
       <div style={{ display: "flex", justifyContent: "center" }}>
         <button onClick={() => setGameState(GameState.PICK)}>Back</button>
       </div>
