@@ -15,7 +15,7 @@
 
 /* Set the default font */
 body {
-  background: url('./gant1.jpg') no-repeat center center fixed;
+  background: url('./photos/background.jpg') no-repeat center center fixed;
   background-size: cover;
   color: #f0ffff;
   font-family: 'PixelGame', sans-serif;
