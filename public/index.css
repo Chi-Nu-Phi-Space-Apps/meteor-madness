@@ -24,42 +24,36 @@ h1 {
   font-family: 'PixelGame', sans-serif;
   text-transform: uppercase;
   text-align: center;
-  font-size: 120px;
-  letter-spacing: 3px;
+  font-size: 100px;
+  letter-spacing: 4px;
   margin-top: 50px;
+  position: relative;
 
-  /* Nice cool retro gradient */
-  background: linear-gradient(180deg, #89f7fe 0%, #66a6ff 40%, #b385ff 70%, #ff7ce5 100%);
+  /* Gradient fill — blue to pink */
+  background: linear-gradient(180deg, #00eaff 0%, #c400ff 50%, #ff61f6 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 
-  /* Main glow */
+  /* Dark 3D shadow layer */
   text-shadow:
-    0 0 5px rgba(255, 128, 255, 0.7),
-    0 0 10px rgba(255, 128, 255, 0.6),
-    0 0 20px rgba(102, 166, 255, 0.6),
-    0 0 40px rgba(102, 166, 255, 0.4);
+    4px 4px 0 #fbfbfb,
+    8px 8px 0 #e2aee5;
 
-  /* Smooth pulse glow animation */
-  animation: glowPulse 2.5s ease-in-out infinite alternate;
+  /* Optional outer glow (very subtle) */
+  filter: drop-shadow(0 0 6px rgba(255, 0, 255, 0.5));
+
+  /* Gentle shimmer animation */
+  background-size: 100% 200%;
+  animation: gradientShift 6s ease-in-out infinite alternate;
 }
 
-@keyframes glowPulse {
-  from {
-    text-shadow:
-      0 0 5px rgba(255, 128, 255, 0.6),
-      0 0 10px rgba(255, 128, 255, 0.6),
-      0 0 20px rgba(102, 166, 255, 0.5),
-      0 0 40px rgba(102, 166, 255, 0.3);
-  }
-  to {
-    text-shadow:
-      0 0 10px rgba(255, 128, 255, 0.8),
-      0 0 20px rgba(255, 128, 255, 0.8),
-      0 0 40px rgba(102, 166, 255, 0.6),
-      0 0 60px rgba(102, 166, 255, 0.4);
-  }
+@keyframes gradientShift {
+  0% { background-position: 50% 0%; }
+  100% { background-position: 50% 100%; }
 }
+
+
+
 
 
 
