@@ -35,6 +35,7 @@ export default function App() {
   return (
     <div>
       <h1>Chi Nu Phi Meteor Madness!</h1>
+      <p style={{marginTop: "0px"}}>Have you wondered what asteroid impacts could actually result in?</p>
       <Game data={data} />
       <Footer />
     </div>
