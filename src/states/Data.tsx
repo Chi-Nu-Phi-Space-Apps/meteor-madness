@@ -119,12 +119,12 @@ function DataBox({
             <br />
             Impact Velocity: {impact_velocity_kps.toFixed(1)} km/s
             <br />
-            Energy: {impact_energy_mt.toFixed(2)} megatons TNT
+            Equivalent Energy: {impact_energy_mt.toFixed(2)} megatons TNT
           </p>
         </div>
       </div>
-      <h3>Impact Severity: {getImpactSeverity(impact_energy_mt).level}</h3>
-      <p>{getImpactSeverity(impact_energy_mt).description}</p>
+      <h3 style={{margin: "0%", marginTop: "2%"}}>Impact Severity: {getImpactSeverity(impact_energy_mt).level}</h3>
+      <p style={{margin: "0%"}}>{getImpactSeverity(impact_energy_mt).description}</p>
     </div>
   );
 }
