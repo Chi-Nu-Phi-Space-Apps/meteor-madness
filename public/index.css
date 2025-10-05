@@ -20,6 +20,35 @@ body {
   font-family: 'PixelGame', sans-serif;
 }
 
+h1 {
+  font-family: 'PixelGameExtrude', 'PixelGame', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 72px;
+  letter-spacing: 2px;
+  margin-top: 40px;
+
+  /* Meteor gradient */
+  background: linear-gradient(90deg, #ff7300, #ff004c, #ffcc00);
+  background-size: 400% 400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  /* Optional glowing shadow */
+  text-shadow:
+    0 0 10px rgba(255, 128, 0, 0.6),
+    0 0 20px rgba(255, 0, 0, 0.4);
+
+  /* Animate gradient movement */
+  animation: meteorGlow 6s ease infinite;
+}
+
+@keyframes meteorGlow {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
 
 .center-div {
   display: flex;
