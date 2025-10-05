@@ -28,66 +28,38 @@ h1 {
   letter-spacing: 3px;
   margin-top: 50px;
 
-  /* Base gradient (it will animate colors too) */
-  background: linear-gradient(180deg, #8be9fd 0%, #6272a4 40%, #bd93f9 70%, #ff79c6 100%);
+  /* Nice cool retro gradient */
+  background: linear-gradient(180deg, #89f7fe 0%, #66a6ff 40%, #b385ff 70%, #ff7ce5 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 
-  /* Initial glow */
+  /* Main glow */
   text-shadow:
-    0 0 5px #ff79c6,
-    0 0 10px #ff79c6,
-    0 0 20px #bd93f9,
-    0 0 40px #8be9fd,
-    0 0 80px #8be9fd;
+    0 0 5px rgba(255, 128, 255, 0.7),
+    0 0 10px rgba(255, 128, 255, 0.6),
+    0 0 20px rgba(102, 166, 255, 0.6),
+    0 0 40px rgba(102, 166, 255, 0.4);
 
-  /* Two animations: one for glowing, one for color shifting */
-  animation:
-    neonPulse 2.5s ease-in-out infinite,
-    colorShift 6s linear infinite;
+  /* Smooth pulse glow animation */
+  animation: glowPulse 2.5s ease-in-out infinite alternate;
 }
 
-@keyframes neonPulse {
-  0%, 100% {
+@keyframes glowPulse {
+  from {
     text-shadow:
-      0 0 5px var(--neon-color1, #ff79c6),
-      0 0 10px var(--neon-color1, #ff79c6),
-      0 0 20px var(--neon-color2, #bd93f9),
-      0 0 40px var(--neon-color3, #8be9fd),
-      0 0 80px var(--neon-color3, #8be9fd);
+      0 0 5px rgba(255, 128, 255, 0.6),
+      0 0 10px rgba(255, 128, 255, 0.6),
+      0 0 20px rgba(102, 166, 255, 0.5),
+      0 0 40px rgba(102, 166, 255, 0.3);
   }
-  50% {
+  to {
     text-shadow:
-      0 0 10px var(--neon-color1, #ff79c6),
-      0 0 20px var(--neon-color1, #ff79c6),
-      0 0 40px var(--neon-color2, #bd93f9),
-      0 0 80px var(--neon-color3, #8be9fd),
-      0 0 160px var(--neon-color3, #8be9fd);
+      0 0 10px rgba(255, 128, 255, 0.8),
+      0 0 20px rgba(255, 128, 255, 0.8),
+      0 0 40px rgba(102, 166, 255, 0.6),
+      0 0 60px rgba(102, 166, 255, 0.4);
   }
 }
-
-/*@keyframes colorShift {
-  0% {
-    --neon-color1: #ff79c6;
-    --neon-color2: #bd93f9;
-    --neon-color3: #8be9fd;
-  }
-  33% {
-    --neon-color1: #8be9fd;
-    --neon-color2: #50fa7b;
-    --neon-color3: #ffb86c;
-  }
-  66% {
-    --neon-color1: #ffb86c;
-    --neon-color2: #ff79c6;
-    --neon-color3: #bd93f9;
-  }
-  100% {
-    --neon-color1: #ff79c6;
-    --neon-color2: #bd93f9;
-    --neon-color3: #8be9fd;
-  }
-} */
 
 
 
