@@ -1,7 +1,8 @@
 import math
 import numpy as np
 import pandas as pd
-import matplotlib as plt
+import matplotlib.pyplot as plt
+import os
 import data_query as dq
 
 # Constants
@@ -11,11 +12,13 @@ DENS_AST = 3e12             # kg/km³
 JOULES_PER_MT = 4.184e15    # joules/mt
 ENTRY_ALT = 100             # km
 
-# Calculate asteroid mass
+os.makedirs("data", exist_ok=True)
+
 def calculate_asteroid_mass(df):
     shape_correction_factor = np.random.uniform(0.6, 1, len(df))
     porosity_factor = np.random.uniform(0.0, 0.5, len(df))
-    diameter = np.random.uniform(df['estimated_diameter_min'], df['estimated_diameter_max'])
+    diameter = np.random.uniform(df['estimated_diameter_min'].values,
+                                 df['estimated_diameter_max'].values)
     df['diameter'] = diameter
 
     volume = ((4 / 3) * math.pi * ((diameter / 2) ** 3)) * shape_correction_factor
@@ -24,26 +27,30 @@ def calculate_asteroid_mass(df):
     df['asteroid_mass'] = mass
     return mass
 
-
-# Calculate asteroid impact speed
 def calculate_impact_velocity(df):
     v_impact = np.sqrt((df['relative_velocity_kps'] ** 2) + (V_ESCAPE_EARTH ** 2))
     df['impact_velocity_kps'] = v_impact
     return v_impact
 
-
-# Kinetic energy on asteroid impact in joules
 def calculate_kinetic_energy(mass_kg, vel_kps):
     vel_mps = np.array(vel_kps) * 1000
     return 0.5 * mass_kg * (vel_mps ** 2)
 
-
-# Kinetic energy conversion to TNT
 def convert_energy_to_tnt(kinetic_energy):
     return kinetic_energy / JOULES_PER_MT
 
+def classify_hazard(mt_tnt):
+    if mt_tnt < 0.001:
+        return "Harmless (burns in atmosphere)"
+    elif mt_tnt < 1:
+        return "Airburst (minor damage)"
+    elif mt_tnt < 100:
+        return "Local impact (city-level damage)"
+    elif mt_tnt < 10000:
+        return "Regional disaster (continent-scale)"
+    else:
+        return "Global catastrophe (extinction event)"
 
-# 
 def estimate_impact_point():
     entry_angle = np.random.uniform(15, 60)
     azimuth = np.random.uniform(0, 360)      
@@ -73,8 +80,6 @@ def estimate_impact_point():
 
     return {"impact_lat": impact_lat, "impact_lon": impact_lon}
 
-
-# Simulate asteroid impact
 def simulate_impact():
     csv_path = r"data/asteroid_data.csv"
     df = dq.read_csv_to_df(csv_path)
@@ -89,6 +94,8 @@ def simulate_impact():
     df['impact_energy_mt'] = mt_tnt
     df['impact_lat'] = [c['impact_lat'] for c in coords]
     df['impact_lon'] = [c['impact_lon'] for c in coords]
+
+    df['hazard_class'] = df['impact_energy_mt'].apply(classify_hazard)
 
     df.to_csv("data/simulated_asteroid_data.csv", index=False)
     df.to_json("data/simulated_asteroid_data.json", orient="records", indent=2)
