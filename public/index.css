@@ -15,46 +15,45 @@
 
 /* Set the default font */
 body {
-  background-color: #2f4f4f;
+  background: url('./photos/background.jpg') no-repeat center center fixed;
+  background-size: cover;
   color: #f0ffff;
   font-family: 'PixelGame', sans-serif;
+  margin: 0;
 }
+
 
 h1 {
   font-family: 'PixelGame', sans-serif;
   text-transform: uppercase;
   text-align: center;
-  font-size: 80px;
-  letter-spacing: 3px;
+  font-size: 100px;
+  letter-spacing: 4px;
   margin-top: 50px;
+  position: relative;
 
-  /* Retro blue→purple→pink gradient */
-  background: linear-gradient(180deg, #8be9fd 0%, #6272a4 45%, #bd93f9 60%, #ff79c6 80%, #ffb6c1 100%);
+  /* Gradient fill — blue to pink */
+  background: linear-gradient(180deg, #00eaff 0%, #c400ff 50%, #ff61f6 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 
-  /* Chrome-style shadow layers */
+  /* Dark 3D shadow layer */
   text-shadow:
-    0 2px 0 #ffffff55,
-    0 4px 0 #e0e0e0,
-    0 6px 0 #b060d1,
-    0 8px 6px rgba(0, 0, 0, 0.6);
+    4px 4px 0 #fbfbfb,
+    8px 8px 0 #e2aee5;
 
-  /* Subtle glow */
-  filter: drop-shadow(0 0 10px rgba(255, 0, 255, 0.5));
+  /* Optional outer glow (very subtle) */
+  filter: drop-shadow(0 0 6px rgba(255, 0, 255, 0.5));
 
-  /* Optional animation for shimmer */
+  /* Gentle shimmer animation */
   background-size: 100% 200%;
-  animation: shine 6s ease-in-out infinite;
+  animation: gradientShift 6s ease-in-out infinite alternate;
 }
 
-@keyframes shine {
+@keyframes gradientShift {
   0% { background-position: 50% 0%; }
-  50% { background-position: 50% 100%; }
-  100% { background-position: 50% 0%; }
+  100% { background-position: 50% 100%; }
 }
-
-
 
 .center-div {
   display: flex;
@@ -62,13 +61,79 @@ h1 {
   align-items: center;
 }
 
-#game {
+div#game {
   border: 2px solid #ccc;
   border-radius: 12px;
   padding: 24px;
   margin: 40px auto;
   width: 80%;
   box-sizing: border-box;
+  background: linear-gradient(to bottom,#ffea29, rgb(215, 144, 11), #7d1982);
+}
+
+div#gameData {
+  border: 2px solid #ccc;
+  border-radius: 12px;
+  padding: 10px;
+  margin: 40px auto;
+  width: 80%;
+  box-sizing: border-box;
+  background-color: rgb(78, 17, 117);
+}
+
+#game p {
+  margin-right: 20px; /* adds space between text and dropdown */
+}
+
+:is(div#game, div#gameData) img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+select {
+  font-family: 'PixelGame', sans-serif;
+  font-size: 20px;
+  color: #f0ffff;
+  background: linear-gradient(to bottom, #3a0066, #1a0033);
+  border: 2px solid #ff00ff;
+  border-radius: 8px;
+  padding: 8px 12px;
+  outline: none;
+  cursor: pointer;
+  text-transform: uppercase;
+  box-shadow: 0 0 10px rgba(255, 0, 255, 0.5);
+  transition: all 0.2s ease-in-out;
+}
+
+select:hover {
+  box-shadow: 0 0 15px rgba(255, 0, 255, 0.8);
+  transform: scale(1.05);
+}
+
+option {
+  background: #1a0033;
+  color: #f0ffff;
+  font-family: 'PixelGame', sans-serif;
+}
+
+button {
+  font-family: 'PixelGame', sans-serif;
+  font-size: 20px;
+  color: #fff;
+  background: linear-gradient(to top, #ff00ff, #8000ff);
+  border: none;
+  border-radius: 8px;
+  padding: 10px 16px;
+  margin-left: 10px;
+  cursor: pointer;
+  box-shadow: 0 0 12px rgba(255, 0, 255, 0.6);
+  transition: 0.2s;
+}
+
+button:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 18px rgba(255, 0, 255, 0.9);
 }
 
 body {
@@ -76,12 +141,19 @@ body {
   color: #f0ffff;
 }
 
-h1,
 h2 {
   text-align: center;
   text-transform: uppercase;
 }
 
+h3 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 50px;
+}
+
 p {
   text-align: center;
+  font-size: 30px;
 }
+
