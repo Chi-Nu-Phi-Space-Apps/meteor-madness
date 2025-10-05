@@ -41,7 +41,7 @@ def convert_energy_to_tnt(kinetic_energy):
     return kinetic_energy / JOULES_PER_MT
 
 
-#
+# 
 def estimate_impact_point():
     entry_angle = np.random.uniform(15, 60)
     azimuth = np.random.uniform(0, 360)      
