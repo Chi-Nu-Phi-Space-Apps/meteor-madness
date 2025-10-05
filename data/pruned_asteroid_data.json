@@ -1,0 +1,4202 @@
+[
+  {
+    "id": "3427459",
+    "name": "(2008 SS)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3427459",
+    "absolute_magnitude_h": 22.18,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0973991073,
+        "estimated_diameter_max": 0.217791025
+      },
+      "meters": {
+        "estimated_diameter_min": 97.3991073414,
+        "estimated_diameter_max": 217.7910249632
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0605209807,
+        "estimated_diameter_max": 0.135329027
+      },
+      "feet": {
+        "estimated_diameter_min": 319.5508873299,
+        "estimated_diameter_max": 714.5375063401
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 2627751345000000000,
+    "impact_velocity_kps": 18.3353565817,
+    "impact_energy_mt": 105570193204.95567,
+    "impact_lat": -64.1700889379,
+    "impact_lon": -141.6623435881
+  },
+  {
+    "id": "3716631",
+    "name": "(2015 HN9)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3716631",
+    "absolute_magnitude_h": 22.6,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0802703167,
+        "estimated_diameter_max": 0.1794898848
+      },
+      "meters": {
+        "estimated_diameter_min": 80.2703167283,
+        "estimated_diameter_max": 179.4898847799
+      },
+      "miles": {
+        "estimated_diameter_min": 0.049877647,
+        "estimated_diameter_max": 0.1115298092
+      },
+      "feet": {
+        "estimated_diameter_min": 263.3540659348,
+        "estimated_diameter_max": 588.8775935812
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 1039875177000000000,
+    "impact_velocity_kps": 13.5847888332,
+    "impact_energy_mt": 22933235130.723328,
+    "impact_lat": 83.9526767349,
+    "impact_lon": -107.7658497397
+  },
+  {
+    "id": "3720000",
+    "name": "(2015 KT120)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3720000",
+    "absolute_magnitude_h": 25.1,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0253837029,
+        "estimated_diameter_max": 0.0567596853
+      },
+      "meters": {
+        "estimated_diameter_min": 25.3837029364,
+        "estimated_diameter_max": 56.7596852866
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0157726969,
+        "estimated_diameter_max": 0.0352688224
+      },
+      "feet": {
+        "estimated_diameter_min": 83.279867942,
+        "estimated_diameter_max": 186.2194458756
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 75631028130000000,
+    "impact_velocity_kps": 16.0926404495,
+    "impact_energy_mt": 2340630980.4793625,
+    "impact_lat": -87.6260698121,
+    "impact_lon": -81.7543557656
+  },
+  {
+    "id": "54201807",
+    "name": "(2021 SY3)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54201807",
+    "absolute_magnitude_h": 27,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0105816886,
+        "estimated_diameter_max": 0.023661375
+      },
+      "meters": {
+        "estimated_diameter_min": 10.5816885933,
+        "estimated_diameter_max": 23.6613750114
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0065751544,
+        "estimated_diameter_max": 0.0147024923
+      },
+      "feet": {
+        "estimated_diameter_min": 34.7168272045,
+        "estimated_diameter_max": 77.6291855923
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 8466839504947786,
+    "impact_velocity_kps": 12.6603471856,
+    "impact_energy_mt": 162177606.66325247,
+    "impact_lat": -28.2856077128,
+    "impact_lon": -147.6002324543
+  },
+  {
+    "id": "54212590",
+    "name": "(2021 UJ1)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54212590",
+    "absolute_magnitude_h": 26.33,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0144063837,
+        "estimated_diameter_max": 0.0322136532
+      },
+      "meters": {
+        "estimated_diameter_min": 14.4063836669,
+        "estimated_diameter_max": 32.2136531891
+      },
+      "miles": {
+        "estimated_diameter_min": 0.008951709,
+        "estimated_diameter_max": 0.0200166299
+      },
+      "feet": {
+        "estimated_diameter_min": 47.2650397896,
+        "estimated_diameter_max": 105.6878419288
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 8125160554903850,
+    "impact_velocity_kps": 24.7930027921,
+    "impact_energy_mt": 596854590.7005229,
+    "impact_lat": -27.8511167224,
+    "impact_lon": 161.3089683213
+  },
+  {
+    "id": "54265626",
+    "name": "(2022 FL1)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54265626",
+    "absolute_magnitude_h": 29.24,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0037718549,
+        "estimated_diameter_max": 0.0084341239
+      },
+      "meters": {
+        "estimated_diameter_min": 3.7718548926,
+        "estimated_diameter_max": 8.4341239412
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0023437212,
+        "estimated_diameter_max": 0.00524072
+      },
+      "feet": {
+        "estimated_diameter_min": 12.374852406,
+        "estimated_diameter_max": 27.6710111913
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 159662027541048.62,
+    "impact_velocity_kps": 13.5696939951,
+    "impact_energy_mt": 3513339.1636531735,
+    "impact_lat": -70.6784909911,
+    "impact_lon": 174.4626277769
+  },
+  {
+    "id": "54300842",
+    "name": "(2022 QG41)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54300842",
+    "absolute_magnitude_h": 21.96,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.1077841687,
+        "estimated_diameter_max": 0.2410127282
+      },
+      "meters": {
+        "estimated_diameter_min": 107.7841687222,
+        "estimated_diameter_max": 241.0127281611
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0669739567,
+        "estimated_diameter_max": 0.1497583199
+      },
+      "feet": {
+        "estimated_diameter_min": 353.6226121105,
+        "estimated_diameter_max": 790.7241990601
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 8188993126000000000,
+    "impact_velocity_kps": 16.3716154444,
+    "impact_energy_mt": 262296143226.22134,
+    "impact_lat": 37.6777674292,
+    "impact_lon": 152.7084094564
+  },
+  {
+    "id": "54309253",
+    "name": "(2022 SK21)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54309253",
+    "absolute_magnitude_h": 25.6,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0201629919,
+        "estimated_diameter_max": 0.0450858206
+      },
+      "meters": {
+        "estimated_diameter_min": 20.1629919443,
+        "estimated_diameter_max": 45.0858206172
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0125286985,
+        "estimated_diameter_max": 0.0280150214
+      },
+      "feet": {
+        "estimated_diameter_min": 66.1515504905,
+        "estimated_diameter_max": 147.9193637137
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 18159371640000000,
+    "impact_velocity_kps": 11.435661169,
+    "impact_energy_mt": 283793015.8396323,
+    "impact_lat": 49.4006871923,
+    "impact_lon": -18.7015748117
+  },
+  {
+    "id": "54324411",
+    "name": "(2022 VV)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54324411",
+    "absolute_magnitude_h": 23.69,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0485909037,
+        "estimated_diameter_max": 0.1086525639
+      },
+      "meters": {
+        "estimated_diameter_min": 48.5909037451,
+        "estimated_diameter_max": 108.6525638621
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0301929785,
+        "estimated_diameter_max": 0.0675135523
+      },
+      "feet": {
+        "estimated_diameter_min": 159.418980643,
+        "estimated_diameter_max": 356.4716776214
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 207897444900000000,
+    "impact_velocity_kps": 14.403020859,
+    "impact_energy_mt": 5153884238.596935,
+    "impact_lat": -62.561213762,
+    "impact_lon": -135.7704119312
+  },
+  {
+    "id": "54383301",
+    "name": "(2023 RV12)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54383301",
+    "absolute_magnitude_h": 26.2,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0152951935,
+        "estimated_diameter_max": 0.0342010925
+      },
+      "meters": {
+        "estimated_diameter_min": 15.2951935344,
+        "estimated_diameter_max": 34.201092472
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0095039897,
+        "estimated_diameter_max": 0.021251567
+      },
+      "feet": {
+        "estimated_diameter_min": 50.1810827555,
+        "estimated_diameter_max": 112.2083122258
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 8961484599113175,
+    "impact_velocity_kps": 17.608042644,
+    "impact_energy_mt": 332032391.8445704,
+    "impact_lat": -43.1416240699,
+    "impact_lon": 10.6866127293
+  },
+  {
+    "id": "54385247",
+    "name": "(2023 SV1)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54385247",
+    "absolute_magnitude_h": 24.13,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0396784754,
+        "estimated_diameter_max": 0.0887237683
+      },
+      "meters": {
+        "estimated_diameter_min": 39.6784754066,
+        "estimated_diameter_max": 88.7237682527
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0246550539,
+        "estimated_diameter_max": 0.0551303766
+      },
+      "feet": {
+        "estimated_diameter_min": 130.178729253,
+        "estimated_diameter_max": 291.0884878343
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 283524389700000000,
+    "impact_velocity_kps": 33.7107108051,
+    "impact_energy_mt": 38503886867.88426,
+    "impact_lat": 81.2450931617,
+    "impact_lon": 113.8347678846
+  },
+  {
+    "id": "54417174",
+    "name": "(2023 XJ16)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54417174",
+    "absolute_magnitude_h": 19.92,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.2757750529,
+        "estimated_diameter_max": 0.6166517648
+      },
+      "meters": {
+        "estimated_diameter_min": 275.7750529244,
+        "estimated_diameter_max": 616.6517648376
+      },
+      "miles": {
+        "estimated_diameter_min": 0.1713586204,
+        "estimated_diameter_max": 0.3831695238
+      },
+      "feet": {
+        "estimated_diameter_min": 904.7738246366,
+        "estimated_diameter_max": 2023.1357761499
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 24189561640000000000,
+    "impact_velocity_kps": 28.4678034416,
+    "impact_energy_mt": 2342686871089.8403,
+    "impact_lat": 37.8993195725,
+    "impact_lon": -145.0785254279
+  },
+  {
+    "id": "54486931",
+    "name": "(2024 TW)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54486931",
+    "absolute_magnitude_h": 28.95,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0043107712,
+        "estimated_diameter_max": 0.0096391775
+      },
+      "meters": {
+        "estimated_diameter_min": 4.3107712388,
+        "estimated_diameter_max": 9.6391775254
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0026785882,
+        "estimated_diameter_max": 0.0059895054
+      },
+      "feet": {
+        "estimated_diameter_min": 14.142950711,
+        "estimated_diameter_max": 31.6245991923
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 486461519187469.44,
+    "impact_velocity_kps": 16.2848988854,
+    "impact_energy_mt": 15416896.36035359,
+    "impact_lat": -9.4366931015,
+    "impact_lon": -41.0829556353
+  },
+  {
+    "id": "54542743",
+    "name": "(2025 QK10)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54542743",
+    "absolute_magnitude_h": 24.12,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0398616229,
+        "estimated_diameter_max": 0.0891332986
+      },
+      "meters": {
+        "estimated_diameter_min": 39.8616229277,
+        "estimated_diameter_max": 89.1332985597
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0247688565,
+        "estimated_diameter_max": 0.0553848469
+      },
+      "feet": {
+        "estimated_diameter_min": 130.779606966,
+        "estimated_diameter_max": 292.4320912466
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 103537006600000000,
+    "impact_velocity_kps": 16.3252506523,
+    "impact_energy_mt": 3297567157.997199,
+    "impact_lat": -32.1134486725,
+    "impact_lon": -115.7768858359
+  },
+  {
+    "id": "54544998",
+    "name": "(2025 RH2)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54544998",
+    "absolute_magnitude_h": 24.9,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0278326768,
+        "estimated_diameter_max": 0.0622357573
+      },
+      "meters": {
+        "estimated_diameter_min": 27.8326768072,
+        "estimated_diameter_max": 62.2357573367
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0172944182,
+        "estimated_diameter_max": 0.0386714948
+      },
+      "feet": {
+        "estimated_diameter_min": 91.3145593761,
+        "estimated_diameter_max": 204.1855621004
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 186032924700000000,
+    "impact_velocity_kps": 12.284030518,
+    "impact_energy_mt": 3354670856.1332517,
+    "impact_lat": 78.4775451704,
+    "impact_lon": 124.2327416139
+  },
+  {
+    "id": "54546468",
+    "name": "(2025 SV2)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54546468",
+    "absolute_magnitude_h": 24.754,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0297683646,
+        "estimated_diameter_max": 0.0665640869
+      },
+      "meters": {
+        "estimated_diameter_min": 29.768364625,
+        "estimated_diameter_max": 66.5640868805
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0184971985,
+        "estimated_diameter_max": 0.0413609932
+      },
+      "feet": {
+        "estimated_diameter_min": 97.6652413963,
+        "estimated_diameter_max": 218.3861188009
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 96470324340000000,
+    "impact_velocity_kps": 13.3480449261,
+    "impact_energy_mt": 2054032857.6351736,
+    "impact_lat": 69.5159237103,
+    "impact_lon": -72.7644619135
+  },
+  {
+    "id": "54547367",
+    "name": "(2025 SV6)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54547367",
+    "absolute_magnitude_h": 27.19,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0096951599,
+        "estimated_diameter_max": 0.0216790366
+      },
+      "meters": {
+        "estimated_diameter_min": 9.6951599093,
+        "estimated_diameter_max": 21.6790366099
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0060242912,
+        "estimated_diameter_max": 0.0134707247
+      },
+      "feet": {
+        "estimated_diameter_min": 31.8082684368,
+        "estimated_diameter_max": 71.1254504712
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 2978671108549594,
+    "impact_velocity_kps": 12.2406558179,
+    "impact_energy_mt": 53334748.900457524,
+    "impact_lat": 0.7920735041,
+    "impact_lon": 49.8091494977
+  },
+  {
+    "id": "54549682",
+    "name": "(2025 TC)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54549682",
+    "absolute_magnitude_h": 27.03,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0104365024,
+        "estimated_diameter_max": 0.0233367288
+      },
+      "meters": {
+        "estimated_diameter_min": 10.4365023829,
+        "estimated_diameter_max": 23.3367287756
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0064849399,
+        "estimated_diameter_max": 0.0145007665
+      },
+      "feet": {
+        "estimated_diameter_min": 34.240494478,
+        "estimated_diameter_max": 76.564073236
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 2743750814421312.5,
+    "impact_velocity_kps": 19.6415603118,
+    "impact_energy_mt": 126495467.57832368,
+    "impact_lat": 76.6250103879,
+    "impact_lon": -56.6182453133
+  },
+  {
+    "id": "54549686",
+    "name": "(2025 SE29)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54549686",
+    "absolute_magnitude_h": 22.626,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0793149357,
+        "estimated_diameter_max": 0.1773535879
+      },
+      "meters": {
+        "estimated_diameter_min": 79.3149357214,
+        "estimated_diameter_max": 177.3535879041
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0492840009,
+        "estimated_diameter_max": 0.1102023763
+      },
+      "feet": {
+        "estimated_diameter_min": 260.2196137123,
+        "estimated_diameter_max": 581.8687453394
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 5291264355000000000,
+    "impact_velocity_kps": 14.1377398404,
+    "impact_energy_mt": 126385647964.64069,
+    "impact_lat": -82.3415641618,
+    "impact_lon": 75.1284948388
+  },
+  {
+    "id": "54550514",
+    "name": "(2025 TS)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54550514",
+    "absolute_magnitude_h": 27.353,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0089940434,
+        "estimated_diameter_max": 0.0201112923
+      },
+      "meters": {
+        "estimated_diameter_min": 8.9940433527,
+        "estimated_diameter_max": 20.1112923293
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0055886377,
+        "estimated_diameter_max": 0.0124965738
+      },
+      "feet": {
+        "estimated_diameter_min": 29.5080171934,
+        "estimated_diameter_max": 65.9819323257
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 3868903516176606.5,
+    "impact_velocity_kps": 14.45088389,
+    "impact_energy_mt": 96550616.43816598,
+    "impact_lat": -22.6741466154,
+    "impact_lon": 111.024932509
+  },
+  {
+    "id": "3781988",
+    "name": "(2017 SJ20)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3781988",
+    "absolute_magnitude_h": 22.34,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0904804968,
+        "estimated_diameter_max": 0.2023205415
+      },
+      "meters": {
+        "estimated_diameter_min": 90.4804968225,
+        "estimated_diameter_max": 202.3205415331
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0562219568,
+        "estimated_diameter_max": 0.1257161172
+      },
+      "feet": {
+        "estimated_diameter_min": 296.8520331952,
+        "estimated_diameter_max": 663.7813254835
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 814634165000000000,
+    "impact_velocity_kps": 28.4194269254,
+    "impact_energy_mt": 78626977423.75616,
+    "impact_lat": -60.892315649,
+    "impact_lon": 90.504555344
+  },
+  {
+    "id": "3782063",
+    "name": "(2017 TG1)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3782063",
+    "absolute_magnitude_h": 22.9,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0699125232,
+        "estimated_diameter_max": 0.1563291544
+      },
+      "meters": {
+        "estimated_diameter_min": 69.9125232246,
+        "estimated_diameter_max": 156.3291544087
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0434416145,
+        "estimated_diameter_max": 0.097138403
+      },
+      "feet": {
+        "estimated_diameter_min": 229.3718026961,
+        "estimated_diameter_max": 512.8909429502
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 1038209141000000000,
+    "impact_velocity_kps": 18.7740264794,
+    "impact_energy_mt": 43729854140.79934,
+    "impact_lat": 36.0124963494,
+    "impact_lon": -89.1198627174
+  },
+  {
+    "id": "3873325",
+    "name": "(2019 TA1)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3873325",
+    "absolute_magnitude_h": 26.1,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0160160338,
+        "estimated_diameter_max": 0.0358129403
+      },
+      "meters": {
+        "estimated_diameter_min": 16.0160337979,
+        "estimated_diameter_max": 35.8129403019
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0099518989,
+        "estimated_diameter_max": 0.0222531225
+      },
+      "feet": {
+        "estimated_diameter_min": 52.5460443254,
+        "estimated_diameter_max": 117.4965270602
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 6254574267379880,
+    "impact_velocity_kps": 16.1994700047,
+    "impact_energy_mt": 196145204.33707803,
+    "impact_lat": -41.0335810236,
+    "impact_lon": 42.8678945961
+  },
+  {
+    "id": "3879167",
+    "name": "(2019 TA7)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3879167",
+    "absolute_magnitude_h": 26.3,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0146067964,
+        "estimated_diameter_max": 0.0326617897
+      },
+      "meters": {
+        "estimated_diameter_min": 14.6067964271,
+        "estimated_diameter_max": 32.6617897446
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0090762397,
+        "estimated_diameter_max": 0.020295089
+      },
+      "feet": {
+        "estimated_diameter_min": 47.92256199,
+        "estimated_diameter_max": 107.1581062656
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 26264502520000000,
+    "impact_velocity_kps": 28.7387397579,
+    "impact_energy_mt": 2592286195.01588,
+    "impact_lat": -12.5859480331,
+    "impact_lon": 138.5979898198
+  },
+  {
+    "id": "54016464",
+    "name": "(2020 GE1)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54016464",
+    "absolute_magnitude_h": 27.1,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0101054342,
+        "estimated_diameter_max": 0.0225964377
+      },
+      "meters": {
+        "estimated_diameter_min": 10.1054341542,
+        "estimated_diameter_max": 22.5964377109
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0062792237,
+        "estimated_diameter_max": 0.0140407711
+      },
+      "feet": {
+        "estimated_diameter_min": 33.1543125905,
+        "estimated_diameter_max": 74.1352966996
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 6929213831600492,
+    "impact_velocity_kps": 12.122709444,
+    "impact_energy_mt": 121691903.50931421,
+    "impact_lat": 48.7784111652,
+    "impact_lon": -30.563238399
+  },
+  {
+    "id": "54130760",
+    "name": "(2021 EN2)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54130760",
+    "absolute_magnitude_h": 23.95,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0431077124,
+        "estimated_diameter_max": 0.0963917753
+      },
+      "meters": {
+        "estimated_diameter_min": 43.1077123878,
+        "estimated_diameter_max": 96.3917752536
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0267858824,
+        "estimated_diameter_max": 0.0598950538
+      },
+      "feet": {
+        "estimated_diameter_min": 141.4295071104,
+        "estimated_diameter_max": 316.2459919231
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 480149140800000000,
+    "impact_velocity_kps": 15.5780399673,
+    "impact_energy_mt": 13924516111.839258,
+    "impact_lat": 52.0587926515,
+    "impact_lon": -169.140646938
+  },
+  {
+    "id": "54185582",
+    "name": "(2021 PS16)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54185582",
+    "absolute_magnitude_h": 23.12,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0631764148,
+        "estimated_diameter_max": 0.1412667581
+      },
+      "meters": {
+        "estimated_diameter_min": 63.1764148185,
+        "estimated_diameter_max": 141.2667581089
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0392559921,
+        "estimated_diameter_max": 0.0877790668
+      },
+      "feet": {
+        "estimated_diameter_min": 207.2717087931,
+        "estimated_diameter_max": 463.4736306739
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 325123354800000000,
+    "impact_velocity_kps": 16.3511347002,
+    "impact_energy_mt": 10387769124.815382,
+    "impact_lat": -53.3344256437,
+    "impact_lon": -37.2647347813
+  },
+  {
+    "id": "54212589",
+    "name": "(2021 UG1)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54212589",
+    "absolute_magnitude_h": 25.16,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0246919266,
+        "estimated_diameter_max": 0.0552128263
+      },
+      "meters": {
+        "estimated_diameter_min": 24.6919265606,
+        "estimated_diameter_max": 55.212826285
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0153428471,
+        "estimated_diameter_max": 0.0343076491
+      },
+      "feet": {
+        "estimated_diameter_min": 81.0102603371,
+        "estimated_diameter_max": 181.1444489887
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 17251425020000000,
+    "impact_velocity_kps": 13.5271989815,
+    "impact_energy_mt": 377241150.159386,
+    "impact_lat": 78.9136825123,
+    "impact_lon": -139.2737920938
+  },
+  {
+    "id": "54321452",
+    "name": "(2022 UL13)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54321452",
+    "absolute_magnitude_h": 23.28,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0586887658,
+        "estimated_diameter_max": 0.1312320699
+      },
+      "meters": {
+        "estimated_diameter_min": 58.6887658036,
+        "estimated_diameter_max": 131.2320698525
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0364674971,
+        "estimated_diameter_max": 0.0815438025
+      },
+      "feet": {
+        "estimated_diameter_min": 192.5484503992,
+        "estimated_diameter_max": 430.5514240549
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 1198892852000000000,
+    "impact_velocity_kps": 16.1327805554,
+    "impact_energy_mt": 37288692219.12729,
+    "impact_lat": 1.5484672071,
+    "impact_lon": 52.4878489579
+  },
+  {
+    "id": "54385233",
+    "name": "(2023 RG22)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54385233",
+    "absolute_magnitude_h": 26.12,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0158691979,
+        "estimated_diameter_max": 0.0354846053
+      },
+      "meters": {
+        "estimated_diameter_min": 15.8691979174,
+        "estimated_diameter_max": 35.4846052917
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0098606594,
+        "estimated_diameter_max": 0.0220491047
+      },
+      "feet": {
+        "estimated_diameter_min": 52.0642992953,
+        "estimated_diameter_max": 116.4193124252
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 42038813920000000,
+    "impact_velocity_kps": 20.6944068557,
+    "impact_energy_mt": 2151467297.468605,
+    "impact_lat": 30.361207225,
+    "impact_lon": -105.067174745
+  },
+  {
+    "id": "54393149",
+    "name": "(2023 TV9)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54393149",
+    "absolute_magnitude_h": 24.72,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0302381333,
+        "estimated_diameter_max": 0.0676145215
+      },
+      "meters": {
+        "estimated_diameter_min": 30.2381332572,
+        "estimated_diameter_max": 67.6145214758
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0187890991,
+        "estimated_diameter_max": 0.0420137028
+      },
+      "feet": {
+        "estimated_diameter_min": 99.2064771155,
+        "estimated_diameter_max": 221.8324266386
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 37265785530000000,
+    "impact_velocity_kps": 13.4994583529,
+    "impact_energy_mt": 811561237.1021314,
+    "impact_lat": 75.2423304032,
+    "impact_lon": -33.3976049916
+  },
+  {
+    "id": "54414145",
+    "name": "(2023 XZ2)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54414145",
+    "absolute_magnitude_h": 27.67,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.007772397,
+        "estimated_diameter_max": 0.0173796081
+      },
+      "meters": {
+        "estimated_diameter_min": 7.7723970203,
+        "estimated_diameter_max": 17.3796080855
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0048295421,
+        "estimated_diameter_max": 0.0107991845
+      },
+      "feet": {
+        "estimated_diameter_min": 25.4999910401,
+        "estimated_diameter_max": 57.0197133913
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 2319887879765866.5,
+    "impact_velocity_kps": 12.4301860821,
+    "impact_energy_mt": 42835178.866811,
+    "impact_lat": -37.062511547,
+    "impact_lon": -75.7755940818
+  },
+  {
+    "id": "54486934",
+    "name": "(2024 TZ)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54486934",
+    "absolute_magnitude_h": 23.32,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0576175751,
+        "estimated_diameter_max": 0.1288368146
+      },
+      "meters": {
+        "estimated_diameter_min": 57.6175751061,
+        "estimated_diameter_max": 128.836814636
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0358018903,
+        "estimated_diameter_max": 0.0800554603
+      },
+      "feet": {
+        "estimated_diameter_min": 189.0340451111,
+        "estimated_diameter_max": 422.6929749302
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 1664463430000000000,
+    "impact_velocity_kps": 25.1146095409,
+    "impact_energy_mt": 125460047395.66603,
+    "impact_lat": 83.6086401882,
+    "impact_lon": 166.6974541461
+  },
+  {
+    "id": "54546119",
+    "name": "(2025 SY)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54546119",
+    "absolute_magnitude_h": 26.952,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0108181993,
+        "estimated_diameter_max": 0.0241902289
+      },
+      "meters": {
+        "estimated_diameter_min": 10.8181992643,
+        "estimated_diameter_max": 24.1902289492
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0067221153,
+        "estimated_diameter_max": 0.0150311068
+      },
+      "feet": {
+        "estimated_diameter_min": 35.4927808744,
+        "estimated_diameter_max": 79.3642707456
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 3966787733527745,
+    "impact_velocity_kps": 12.6383216243,
+    "impact_energy_mt": 75717470.41958721,
+    "impact_lat": 16.0718893911,
+    "impact_lon": -26.3938002829
+  },
+  {
+    "id": "54546407",
+    "name": "(2025 SB2)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54546407",
+    "absolute_magnitude_h": 24.769,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0295634406,
+        "estimated_diameter_max": 0.0661058629
+      },
+      "meters": {
+        "estimated_diameter_min": 29.5634406443,
+        "estimated_diameter_max": 66.1058629295
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0183698647,
+        "estimated_diameter_max": 0.0410762662
+      },
+      "feet": {
+        "estimated_diameter_min": 96.9929186035,
+        "estimated_diameter_max": 216.8827593336
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 230105254000000000,
+    "impact_velocity_kps": 12.1098355837,
+    "impact_energy_mt": 4032564819.744251,
+    "impact_lat": 24.5324008992,
+    "impact_lon": -0.8961217952
+  },
+  {
+    "id": "54545769",
+    "name": "(2025 SH)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54545769",
+    "absolute_magnitude_h": 27.383,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0088706405,
+        "estimated_diameter_max": 0.0198353551
+      },
+      "meters": {
+        "estimated_diameter_min": 8.8706404517,
+        "estimated_diameter_max": 19.8353550539
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0055119587,
+        "estimated_diameter_max": 0.0123251144
+      },
+      "feet": {
+        "estimated_diameter_min": 29.1031520195,
+        "estimated_diameter_max": 65.0766262752
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 916347735097426.4,
+    "impact_velocity_kps": 11.7914116679,
+    "impact_energy_mt": 15225453.706409998,
+    "impact_lat": -89.1769918103,
+    "impact_lon": -117.7345943746
+  },
+  {
+    "id": "54546465",
+    "name": "(2025 SS2)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54546465",
+    "absolute_magnitude_h": 24.244,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0376491327,
+        "estimated_diameter_max": 0.0841860201
+      },
+      "meters": {
+        "estimated_diameter_min": 37.649132746,
+        "estimated_diameter_max": 84.186020114
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0233940793,
+        "estimated_diameter_max": 0.0523107515
+      },
+      "feet": {
+        "estimated_diameter_min": 123.5207806784,
+        "estimated_diameter_max": 276.2008622307
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 333923901400000000,
+    "impact_velocity_kps": 14.7312036782,
+    "impact_energy_mt": 8659689150.112574,
+    "impact_lat": 80.2339084449,
+    "impact_lon": -109.7915955815
+  },
+  {
+    "id": "54549111",
+    "name": "(2025 SV21)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54549111",
+    "absolute_magnitude_h": 26.14,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0157237082,
+        "estimated_diameter_max": 0.0351592805
+      },
+      "meters": {
+        "estimated_diameter_min": 15.7237082364,
+        "estimated_diameter_max": 35.1592804749
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0097702563,
+        "estimated_diameter_max": 0.0218469573
+      },
+      "feet": {
+        "estimated_diameter_min": 51.5869709303,
+        "estimated_diameter_max": 115.3519737534
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 10633595650000000,
+    "impact_velocity_kps": 13.311138101,
+    "impact_energy_mt": 225158760.21819198,
+    "impact_lat": -69.4641388119,
+    "impact_lon": 97.8181861589
+  },
+  {
+    "id": "54549696",
+    "name": "(2025 TG)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54549696",
+    "absolute_magnitude_h": 27.027,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0104509309,
+        "estimated_diameter_max": 0.0233689919
+      },
+      "meters": {
+        "estimated_diameter_min": 10.4509309084,
+        "estimated_diameter_max": 23.3689919393
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0064939054,
+        "estimated_diameter_max": 0.0145208139
+      },
+      "feet": {
+        "estimated_diameter_min": 34.2878321615,
+        "estimated_diameter_max": 76.6699235141
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 10015823650000000,
+    "impact_velocity_kps": 12.7237014996,
+    "impact_energy_mt": 193772410.3498769,
+    "impact_lat": 44.1804563088,
+    "impact_lon": 35.7122889475
+  },
+  {
+    "id": "54549117",
+    "name": "(2025 SN23)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54549117",
+    "absolute_magnitude_h": 24.486,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0336786734,
+        "estimated_diameter_max": 0.0753078032
+      },
+      "meters": {
+        "estimated_diameter_min": 33.6786734205,
+        "estimated_diameter_max": 75.3078031602
+      },
+      "miles": {
+        "estimated_diameter_min": 0.020926951,
+        "estimated_diameter_max": 0.046794085
+      },
+      "feet": {
+        "estimated_diameter_min": 110.4943389048,
+        "estimated_diameter_max": 247.07285292
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 103507925000000000,
+    "impact_velocity_kps": 16.4047772172,
+    "impact_energy_mt": 3328837572.585499,
+    "impact_lat": 87.7417529491,
+    "impact_lon": -78.1296725509
+  },
+  {
+    "id": "54550575",
+    "name": "(2025 TP1)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54550575",
+    "absolute_magnitude_h": 27.475,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0085026632,
+        "estimated_diameter_max": 0.0190125329
+      },
+      "meters": {
+        "estimated_diameter_min": 8.5026632016,
+        "estimated_diameter_max": 19.0125329085
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0052833083,
+        "estimated_diameter_max": 0.0118138366
+      },
+      "feet": {
+        "estimated_diameter_min": 27.8958775382,
+        "estimated_diameter_max": 62.3770784674
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 4397494685286288,
+    "impact_velocity_kps": 16.8688074515,
+    "impact_energy_mt": 149538291.26201636,
+    "impact_lat": -17.7201576015,
+    "impact_lon": 139.8197502011
+  },
+  {
+    "id": "2152664",
+    "name": "152664 (1998 FW4)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2152664",
+    "absolute_magnitude_h": 19.68,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.3080030213,
+        "estimated_diameter_max": 0.6887156928
+      },
+      "meters": {
+        "estimated_diameter_min": 308.003021266,
+        "estimated_diameter_max": 688.7156928262
+      },
+      "miles": {
+        "estimated_diameter_min": 0.1913841453,
+        "estimated_diameter_max": 0.4279479588
+      },
+      "feet": {
+        "estimated_diameter_min": 1010.5086322905,
+        "estimated_diameter_max": 2259.5659936518
+      }
+    },
+    "is_potentially_hazardous_asteroid": true,
+    "asteroid_mass": 73133490320000000000,
+    "impact_velocity_kps": 21.7100397941,
+    "impact_energy_mt": 4119228354172.782,
+    "impact_lat": 9.5368925176,
+    "impact_lon": 50.0375607785
+  },
+  {
+    "id": "2418198",
+    "name": "418198 (2008 CN70)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2418198",
+    "absolute_magnitude_h": 18.94,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.4330668855,
+        "estimated_diameter_max": 0.9683669947
+      },
+      "meters": {
+        "estimated_diameter_min": 433.0668854756,
+        "estimated_diameter_max": 968.3669947276
+      },
+      "miles": {
+        "estimated_diameter_min": 0.2690952037,
+        "estimated_diameter_max": 0.6017151679
+      },
+      "feet": {
+        "estimated_diameter_min": 1420.8231605439,
+        "estimated_diameter_max": 3177.0571709822
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 900940288700000000000,
+    "impact_velocity_kps": 21.146309054,
+    "impact_energy_mt": 48144145964571.49,
+    "impact_lat": 46.3721358396,
+    "impact_lon": 164.5836556806
+  },
+  {
+    "id": "54214066",
+    "name": "(2021 UK6)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54214066",
+    "absolute_magnitude_h": 25.04,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0260948603,
+        "estimated_diameter_max": 0.0583498816
+      },
+      "meters": {
+        "estimated_diameter_min": 26.0948603255,
+        "estimated_diameter_max": 58.3498815511
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0162145895,
+        "estimated_diameter_max": 0.0362569242
+      },
+      "feet": {
+        "estimated_diameter_min": 85.6130615502,
+        "estimated_diameter_max": 191.4366253882
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 17624452740000000,
+    "impact_velocity_kps": 22.7501117251,
+    "impact_energy_mt": 1090086689.011109,
+    "impact_lat": -29.2104538734,
+    "impact_lon": -78.5167834684
+  },
+  {
+    "id": "54248647",
+    "name": "(2022 DO4)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54248647",
+    "absolute_magnitude_h": 27.16,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.009830033,
+        "estimated_diameter_max": 0.0219806221
+      },
+      "meters": {
+        "estimated_diameter_min": 9.8300330186,
+        "estimated_diameter_max": 21.9806220506
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0061080974,
+        "estimated_diameter_max": 0.0136581211
+      },
+      "feet": {
+        "estimated_diameter_min": 32.2507655286,
+        "estimated_diameter_max": 72.1149040484
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 1518251625722158.8,
+    "impact_velocity_kps": 22.0453414756,
+    "impact_energy_mt": 88177086.2793429,
+    "impact_lat": -13.695155759,
+    "impact_lon": 61.6919034737
+  },
+  {
+    "id": "54305651",
+    "name": "(2022 SK4)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54305651",
+    "absolute_magnitude_h": 30.35,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0022623249,
+        "estimated_diameter_max": 0.0050587123
+      },
+      "meters": {
+        "estimated_diameter_min": 2.2623249055,
+        "estimated_diameter_max": 5.058712276
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0014057431,
+        "estimated_diameter_max": 0.0031433371
+      },
+      "feet": {
+        "estimated_diameter_min": 7.4223260431,
+        "estimated_diameter_max": 16.5968255835
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 102360627706124.64,
+    "impact_velocity_kps": 24.9655776731,
+    "impact_energy_mt": 7624203.997821425,
+    "impact_lat": 5.0357329756,
+    "impact_lon": -56.0577666524
+  },
+  {
+    "id": "54308051",
+    "name": "(2022 SL11)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54308051",
+    "absolute_magnitude_h": 24.98,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0268259417,
+        "estimated_diameter_max": 0.0599846292
+      },
+      "meters": {
+        "estimated_diameter_min": 26.8259417119,
+        "estimated_diameter_max": 59.9846292283
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0166688622,
+        "estimated_diameter_max": 0.037272709
+      },
+      "feet": {
+        "estimated_diameter_min": 88.0116226061,
+        "estimated_diameter_max": 196.7999709574
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 101839576500000000,
+    "impact_velocity_kps": 16.9155381049,
+    "impact_energy_mt": 3482302933.0960026,
+    "impact_lat": -21.4359288456,
+    "impact_lon": 26.9709942033
+  },
+  {
+    "id": "54381677",
+    "name": "(2023 RG5)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54381677",
+    "absolute_magnitude_h": 21.47,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.1350687798,
+        "estimated_diameter_max": 0.3020229733
+      },
+      "meters": {
+        "estimated_diameter_min": 135.0687798326,
+        "estimated_diameter_max": 302.0229733436
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0839278228,
+        "estimated_diameter_max": 0.187668317
+      },
+      "feet": {
+        "estimated_diameter_min": 443.139055626,
+        "estimated_diameter_max": 990.8890518647
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 7524642842000000000,
+    "impact_velocity_kps": 30.086079129,
+    "impact_energy_mt": 813945649453.1818,
+    "impact_lat": 27.2537007369,
+    "impact_lon": 4.0928889812
+  },
+  {
+    "id": "54391018",
+    "name": "(2023 TO1)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54391018",
+    "absolute_magnitude_h": 24.48,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0337718597,
+        "estimated_diameter_max": 0.0755161741
+      },
+      "meters": {
+        "estimated_diameter_min": 33.7718597164,
+        "estimated_diameter_max": 75.5161740526
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0209848542,
+        "estimated_diameter_max": 0.0469235606
+      },
+      "feet": {
+        "estimated_diameter_min": 110.8000682321,
+        "estimated_diameter_max": 247.7564844786
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 179380186500000000,
+    "impact_velocity_kps": 19.1518354462,
+    "impact_energy_mt": 7862734349.542141,
+    "impact_lat": 64.9093277427,
+    "impact_lon": 145.0707706362
+  },
+  {
+    "id": "54539479",
+    "name": "(2025 OS12)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54539479",
+    "absolute_magnitude_h": 22.13,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.099667824,
+        "estimated_diameter_max": 0.2228640296
+      },
+      "meters": {
+        "estimated_diameter_min": 99.6678239968,
+        "estimated_diameter_max": 222.8640296264
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0619306955,
+        "estimated_diameter_max": 0.138481245
+      },
+      "feet": {
+        "estimated_diameter_min": 326.9941836818,
+        "estimated_diameter_max": 731.1812229596
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 4121817992000000000,
+    "impact_velocity_kps": 15.1597873131,
+    "impact_energy_mt": 113201806049.63954,
+    "impact_lat": -2.3281160251,
+    "impact_lon": 1.2248340566
+  },
+  {
+    "id": "54539493",
+    "name": "(2025 OD13)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54539493",
+    "absolute_magnitude_h": 22.03,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.1043650238,
+        "estimated_diameter_max": 0.2333672878
+      },
+      "meters": {
+        "estimated_diameter_min": 104.3650238292,
+        "estimated_diameter_max": 233.3672877555
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0648493992,
+        "estimated_diameter_max": 0.145007665
+      },
+      "feet": {
+        "estimated_diameter_min": 342.4049447798,
+        "estimated_diameter_max": 765.6407323598
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 2368875241000000000,
+    "impact_velocity_kps": 15.2715331173,
+    "impact_energy_mt": 66021561809.540634,
+    "impact_lat": 52.2875321576,
+    "impact_lon": 14.6955699966
+  },
+  {
+    "id": "54545425",
+    "name": "(2025 RT4)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54545425",
+    "absolute_magnitude_h": 24.183,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.03872175,
+        "estimated_diameter_max": 0.0865844652
+      },
+      "meters": {
+        "estimated_diameter_min": 38.7217499927,
+        "estimated_diameter_max": 86.5844651915
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0240605725,
+        "estimated_diameter_max": 0.0538010757
+      },
+      "feet": {
+        "estimated_diameter_min": 127.0398662462,
+        "estimated_diameter_max": 284.0697767789
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 540851458400000000,
+    "impact_velocity_kps": 13.1387568614,
+    "impact_energy_mt": 11157448357.9242,
+    "impact_lat": 12.8164810867,
+    "impact_lon": 71.1934179193
+  },
+  {
+    "id": "54545420",
+    "name": "(2025 RH4)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54545420",
+    "absolute_magnitude_h": 24.173,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0389004815,
+        "estimated_diameter_max": 0.0869841209
+      },
+      "meters": {
+        "estimated_diameter_min": 38.9004814699,
+        "estimated_diameter_max": 86.9841209242
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0241716311,
+        "estimated_diameter_max": 0.0540494102
+      },
+      "feet": {
+        "estimated_diameter_min": 127.6262556257,
+        "estimated_diameter_max": 285.3809832929
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 514795793300000000,
+    "impact_velocity_kps": 20.55193008,
+    "impact_energy_mt": 25984750150.97581,
+    "impact_lat": 89.6283824902,
+    "impact_lon": -145.9630228953
+  },
+  {
+    "id": "54545775",
+    "name": "(2025 SL)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54545775",
+    "absolute_magnitude_h": 24.805,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0290773602,
+        "estimated_diameter_max": 0.065018954
+      },
+      "meters": {
+        "estimated_diameter_min": 29.0773602155,
+        "estimated_diameter_max": 65.0189540481
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0180678284,
+        "estimated_diameter_max": 0.0404008925
+      },
+      "feet": {
+        "estimated_diameter_min": 95.3981664895,
+        "estimated_diameter_max": 213.3167851993
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 79038682430000000,
+    "impact_velocity_kps": 14.6744047463,
+    "impact_energy_mt": 2033944075.0811973,
+    "impact_lat": -16.6752410539,
+    "impact_lon": 119.812902977
+  },
+  {
+    "id": "54546842",
+    "name": "(2025 SC4)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54546842",
+    "absolute_magnitude_h": 25.906,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0175127753,
+        "estimated_diameter_max": 0.0391597562
+      },
+      "meters": {
+        "estimated_diameter_min": 17.5127753472,
+        "estimated_diameter_max": 39.159756151
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0108819307,
+        "estimated_diameter_max": 0.0243327368
+      },
+      "feet": {
+        "estimated_diameter_min": 57.4566138701,
+        "estimated_diameter_max": 128.4768943705
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 29492448410000000,
+    "impact_velocity_kps": 12.450508612,
+    "impact_energy_mt": 546340433.460497,
+    "impact_lat": 28.7096114927,
+    "impact_lon": 118.3304788119
+  },
+  {
+    "id": "54549677",
+    "name": "(2025 TA)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54549677",
+    "absolute_magnitude_h": 26.416,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0138469772,
+        "estimated_diameter_max": 0.0309627823
+      },
+      "meters": {
+        "estimated_diameter_min": 13.846977184,
+        "estimated_diameter_max": 30.9627822663
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0086041101,
+        "estimated_diameter_max": 0.019239375
+      },
+      "feet": {
+        "estimated_diameter_min": 45.4297166243,
+        "estimated_diameter_max": 101.5839345706
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 22858229220000000,
+    "impact_velocity_kps": 14.1220515858,
+    "impact_energy_mt": 544774159.2803617,
+    "impact_lat": 8.851931845,
+    "impact_lon": -130.4851070377
+  },
+  {
+    "id": "54548705",
+    "name": "(2025 SP20)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54548705",
+    "absolute_magnitude_h": 27.378,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0088910894,
+        "estimated_diameter_max": 0.0198810803
+      },
+      "meters": {
+        "estimated_diameter_min": 8.8910893898,
+        "estimated_diameter_max": 19.8810802697
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0055246651,
+        "estimated_diameter_max": 0.0123535267
+      },
+      "feet": {
+        "estimated_diameter_min": 29.1702417137,
+        "estimated_diameter_max": 65.226643392
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 4403246898154217.5,
+    "impact_velocity_kps": 15.6203661808,
+    "impact_energy_mt": 128390765.29321091,
+    "impact_lat": -1.8030578253,
+    "impact_lon": -125.4532390166
+  },
+  {
+    "id": "54550501",
+    "name": "(2025 TK)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54550501",
+    "absolute_magnitude_h": 26.543,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0130603548,
+        "estimated_diameter_max": 0.0292038412
+      },
+      "meters": {
+        "estimated_diameter_min": 13.0603548416,
+        "estimated_diameter_max": 29.2038412361
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0081153257,
+        "estimated_diameter_max": 0.01814642
+      },
+      "feet": {
+        "estimated_diameter_min": 42.8489345785,
+        "estimated_diameter_max": 95.8131304811
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 3277728196783013.5,
+    "impact_velocity_kps": 16.230568649,
+    "impact_energy_mt": 103185515.32429162,
+    "impact_lat": -3.1355799118,
+    "impact_lon": 27.952666109
+  },
+  {
+    "id": "54550515",
+    "name": "(2025 TT)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54550515",
+    "absolute_magnitude_h": 26.146,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.015680322,
+        "estimated_diameter_max": 0.0350622659
+      },
+      "meters": {
+        "estimated_diameter_min": 15.6803219929,
+        "estimated_diameter_max": 35.0622658851
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0097432974,
+        "estimated_diameter_max": 0.0217866752
+      },
+      "feet": {
+        "estimated_diameter_min": 51.4446276071,
+        "estimated_diameter_max": 115.0336844066
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 16500545370000000,
+    "impact_velocity_kps": 17.4598225914,
+    "impact_energy_mt": 601113221.0091112,
+    "impact_lat": -61.1912961124,
+    "impact_lon": 16.8042612881
+  },
+  {
+    "id": "54550512",
+    "name": "(2025 TR)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54550512",
+    "absolute_magnitude_h": 28.513,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0052717521,
+        "estimated_diameter_max": 0.011787996
+      },
+      "meters": {
+        "estimated_diameter_min": 5.2717520623,
+        "estimated_diameter_max": 11.7879959719
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0032757139,
+        "estimated_diameter_max": 0.0073247188
+      },
+      "feet": {
+        "estimated_diameter_min": 17.2957750362,
+        "estimated_diameter_max": 38.6745287045
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 140931582236062.75,
+    "impact_velocity_kps": 17.5652734083,
+    "impact_energy_mt": 5196327.136767919,
+    "impact_lat": -79.2475119221,
+    "impact_lon": 135.805007737
+  },
+  {
+    "id": "54550503",
+    "name": "(2025 TM)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54550503",
+    "absolute_magnitude_h": 23.852,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0450977606,
+        "estimated_diameter_max": 0.1008416583
+      },
+      "meters": {
+        "estimated_diameter_min": 45.0977605758,
+        "estimated_diameter_max": 100.8416582804
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0280224406,
+        "estimated_diameter_max": 0.062660082
+      },
+      "feet": {
+        "estimated_diameter_min": 147.9585368074,
+        "estimated_diameter_max": 330.8453461528
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 132650519500000000,
+    "impact_velocity_kps": 22.6356765855,
+    "impact_energy_mt": 8122210561.583835,
+    "impact_lat": 80.9894067203,
+    "impact_lon": 101.173016056
+  },
+  {
+    "id": "3388395",
+    "name": "(2007 TR68)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3388395",
+    "absolute_magnitude_h": 25.9,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0175612318,
+        "estimated_diameter_max": 0.0392681082
+      },
+      "meters": {
+        "estimated_diameter_min": 17.561231848,
+        "estimated_diameter_max": 39.2681081809
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0109120402,
+        "estimated_diameter_max": 0.0244000636
+      },
+      "feet": {
+        "estimated_diameter_min": 57.6155918963,
+        "estimated_diameter_max": 128.8323800441
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 9619474084349214,
+    "impact_velocity_kps": 13.2580199016,
+    "impact_energy_mt": 202063090.2708001,
+    "impact_lat": -37.3547486006,
+    "impact_lon": -97.117424393
+  },
+  {
+    "id": "3557843",
+    "name": "(2011 DV)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3557843",
+    "absolute_magnitude_h": 20.79,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.1847374636,
+        "estimated_diameter_max": 0.4130855266
+      },
+      "meters": {
+        "estimated_diameter_min": 184.7374636151,
+        "estimated_diameter_max": 413.0855266343
+      },
+      "miles": {
+        "estimated_diameter_min": 0.1147905025,
+        "estimated_diameter_max": 0.2566793668
+      },
+      "feet": {
+        "estimated_diameter_min": 606.094060127,
+        "estimated_diameter_max": 1355.2675192028
+      }
+    },
+    "is_potentially_hazardous_asteroid": true,
+    "asteroid_mass": 46517614710000000000,
+    "impact_velocity_kps": 12.7465477658,
+    "impact_energy_mt": 903193744945.1903,
+    "impact_lat": 66.6397688828,
+    "impact_lon": -171.8872751854
+  },
+  {
+    "id": "3648537",
+    "name": "(2013 ST19)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3648537",
+    "absolute_magnitude_h": 22.63,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0791689667,
+        "estimated_diameter_max": 0.1770271912
+      },
+      "meters": {
+        "estimated_diameter_min": 79.1689666942,
+        "estimated_diameter_max": 177.0271912367
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0491933,
+        "estimated_diameter_max": 0.1099995628
+      },
+      "feet": {
+        "estimated_diameter_min": 259.7407126891,
+        "estimated_diameter_max": 580.797890097
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 539339587700000000,
+    "impact_velocity_kps": 16.3829457012,
+    "impact_energy_mt": 17299143887.893272,
+    "impact_lat": 80.2033697423,
+    "impact_lon": -123.97195391
+  },
+  {
+    "id": "3767014",
+    "name": "(2017 BB7)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3767014",
+    "absolute_magnitude_h": 28.1,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0063760979,
+        "estimated_diameter_max": 0.0142573883
+      },
+      "meters": {
+        "estimated_diameter_min": 6.3760978988,
+        "estimated_diameter_max": 14.2573883328
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0039619223,
+        "estimated_diameter_max": 0.0088591276
+      },
+      "feet": {
+        "estimated_diameter_min": 20.9189570301,
+        "estimated_diameter_max": 46.7762099378
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 3385193077374307.5,
+    "impact_velocity_kps": 15.0248574204,
+    "impact_energy_mt": 91323488.18242729,
+    "impact_lat": -25.4058213408,
+    "impact_lon": 35.9585700344
+  },
+  {
+    "id": "3840718",
+    "name": "(2019 FY1)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3840718",
+    "absolute_magnitude_h": 28.2,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0060891262,
+        "estimated_diameter_max": 0.0136157002
+      },
+      "meters": {
+        "estimated_diameter_min": 6.0891262211,
+        "estimated_diameter_max": 13.6157001539
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0037836064,
+        "estimated_diameter_max": 0.0084604012
+      },
+      "feet": {
+        "estimated_diameter_min": 19.9774488711,
+        "estimated_diameter_max": 44.6709336928
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 304380387813928.44,
+    "impact_velocity_kps": 11.8681761138,
+    "impact_energy_mt": 5123455.388654028,
+    "impact_lat": 65.0190512081,
+    "impact_lon": 107.5458061813
+  },
+  {
+    "id": "3869336",
+    "name": "(2019 SF6)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3869336",
+    "absolute_magnitude_h": 26.26,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.014878357,
+        "estimated_diameter_max": 0.0332690178
+      },
+      "meters": {
+        "estimated_diameter_min": 14.8783570477,
+        "estimated_diameter_max": 33.2690177523
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0092449796,
+        "estimated_diameter_max": 0.0206724028
+      },
+      "feet": {
+        "estimated_diameter_min": 48.8135089365,
+        "estimated_diameter_max": 109.1503242023
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 2327568406024004.5,
+    "impact_velocity_kps": 14.0152789864,
+    "impact_energy_mt": 54636676.83488691,
+    "impact_lat": 61.413485746,
+    "impact_lon": -165.7251448249
+  },
+  {
+    "id": "54054711",
+    "name": "(2020 SR6)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54054711",
+    "absolute_magnitude_h": 25.7,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0192555078,
+        "estimated_diameter_max": 0.0430566244
+      },
+      "meters": {
+        "estimated_diameter_min": 19.2555078188,
+        "estimated_diameter_max": 43.0566244241
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0119648141,
+        "estimated_diameter_max": 0.0267541378
+      },
+      "feet": {
+        "estimated_diameter_min": 63.1742402722,
+        "estimated_diameter_max": 141.2618956756
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 64849387160000000,
+    "impact_velocity_kps": 22.6868560464,
+    "impact_energy_mt": 3988713430.313643,
+    "impact_lat": 88.212967138,
+    "impact_lon": -68.9939408143
+  },
+  {
+    "id": "54076927",
+    "name": "(2020 UM5)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54076927",
+    "absolute_magnitude_h": 26,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0167708462,
+        "estimated_diameter_max": 0.0375007522
+      },
+      "meters": {
+        "estimated_diameter_min": 16.7708462163,
+        "estimated_diameter_max": 37.5007521798
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0104209175,
+        "estimated_diameter_max": 0.0233018799
+      },
+      "feet": {
+        "estimated_diameter_min": 55.0224631002,
+        "estimated_diameter_max": 123.0339677816
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 29251357430000000,
+    "impact_velocity_kps": 22.0357256192,
+    "impact_energy_mt": 1697379939.6505816,
+    "impact_lat": 5.6306728645,
+    "impact_lon": 97.2300445622
+  },
+  {
+    "id": "54209492",
+    "name": "(2021 TS15)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54209492",
+    "absolute_magnitude_h": 26.83,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0114433973,
+        "estimated_diameter_max": 0.0255882143
+      },
+      "meters": {
+        "estimated_diameter_min": 11.4433973069,
+        "estimated_diameter_max": 25.5882142717
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0071105952,
+        "estimated_diameter_max": 0.0158997743
+      },
+      "feet": {
+        "estimated_diameter_min": 37.5439556203,
+        "estimated_diameter_max": 83.9508369112
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 5517648194128312,
+    "impact_velocity_kps": 16.4079672596,
+    "impact_energy_mt": 177517795.66244438,
+    "impact_lat": -86.0290035158,
+    "impact_lon": -115.3346180753
+  },
+  {
+    "id": "54293660",
+    "name": "(2022 PX)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54293660",
+    "absolute_magnitude_h": 24.29,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0368599699,
+        "estimated_diameter_max": 0.0824213984
+      },
+      "meters": {
+        "estimated_diameter_min": 36.8599699314,
+        "estimated_diameter_max": 82.4213984152
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0229037164,
+        "estimated_diameter_max": 0.0512142668
+      },
+      "feet": {
+        "estimated_diameter_min": 120.9316637498,
+        "estimated_diameter_max": 270.4114207767
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 421830667000000000,
+    "impact_velocity_kps": 20.4381951824,
+    "impact_energy_mt": 21057245609.10017,
+    "impact_lat": 77.9956593539,
+    "impact_lon": -47.2962847792
+  },
+  {
+    "id": "54312925",
+    "name": "(2022 SU55)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54312925",
+    "absolute_magnitude_h": 25.38,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0223128464,
+        "estimated_diameter_max": 0.0498930414
+      },
+      "meters": {
+        "estimated_diameter_min": 22.3128464417,
+        "estimated_diameter_max": 49.8930414151
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0138645557,
+        "estimated_diameter_max": 0.031002089
+      },
+      "feet": {
+        "estimated_diameter_min": 73.2048791197,
+        "estimated_diameter_max": 163.6910859964
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 38910965600000000,
+    "impact_velocity_kps": 14.8474722535,
+    "impact_energy_mt": 1025074385.1190215,
+    "impact_lat": 41.3146316697,
+    "impact_lon": -154.1276142843
+  },
+  {
+    "id": "54360101",
+    "name": "(2023 KJ4)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54360101",
+    "absolute_magnitude_h": 27.01,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0105330702,
+        "estimated_diameter_max": 0.0235526609
+      },
+      "meters": {
+        "estimated_diameter_min": 10.5330701505,
+        "estimated_diameter_max": 23.5526608683
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0065449443,
+        "estimated_diameter_max": 0.0146349404
+      },
+      "feet": {
+        "estimated_diameter_min": 34.5573178726,
+        "estimated_diameter_max": 77.2725118832
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 4856948548124874,
+    "impact_velocity_kps": 20.1964274506,
+    "impact_energy_mt": 236750518.56429335,
+    "impact_lat": 45.34562326,
+    "impact_lon": -89.2088355562
+  },
+  {
+    "id": "54403822",
+    "name": "(2023 VF5)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54403822",
+    "absolute_magnitude_h": 24.34,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0360209346,
+        "estimated_diameter_max": 0.0805452583
+      },
+      "meters": {
+        "estimated_diameter_min": 36.0209345803,
+        "estimated_diameter_max": 80.5452583346
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0223823641,
+        "estimated_diameter_max": 0.0500484877
+      },
+      "feet": {
+        "estimated_diameter_min": 118.1789230084,
+        "estimated_diameter_max": 264.2561053545
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 209028164800000000,
+    "impact_velocity_kps": 27.0427262335,
+    "impact_energy_mt": 18267708769.08041,
+    "impact_lat": 84.7219391937,
+    "impact_lon": 140.1371437607
+  },
+  {
+    "id": "54487286",
+    "name": "(2024 TX2)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54487286",
+    "absolute_magnitude_h": 23.86,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.04493192,
+        "estimated_diameter_max": 0.1004708274
+      },
+      "meters": {
+        "estimated_diameter_min": 44.9319199631,
+        "estimated_diameter_max": 100.470827397
+      },
+      "miles": {
+        "estimated_diameter_min": 0.027919392,
+        "estimated_diameter_max": 0.0624296585
+      },
+      "feet": {
+        "estimated_diameter_min": 147.4144402917,
+        "estimated_diameter_max": 329.6287093572
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 123866669100000000,
+    "impact_velocity_kps": 16.5026564347,
+    "impact_energy_mt": 4031257168.871948,
+    "impact_lat": 49.0544259946,
+    "impact_lon": 130.309457388
+  },
+  {
+    "id": "54537922",
+    "name": "(2025 NO)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54537922",
+    "absolute_magnitude_h": 20.39,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.2221032822,
+        "estimated_diameter_max": 0.4966380371
+      },
+      "meters": {
+        "estimated_diameter_min": 222.1032822459,
+        "estimated_diameter_max": 496.6380371276
+      },
+      "miles": {
+        "estimated_diameter_min": 0.1380085386,
+        "estimated_diameter_max": 0.3085964738
+      },
+      "feet": {
+        "estimated_diameter_min": 728.6853325235,
+        "estimated_diameter_max": 1629.3899377296
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 67035801170000000000,
+    "impact_velocity_kps": 13.3854261658,
+    "impact_energy_mt": 1435322650200.6597,
+    "impact_lat": 80.2057542237,
+    "impact_lon": 111.2152727708
+  },
+  {
+    "id": "54546122",
+    "name": "(2025 RV6)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54546122",
+    "absolute_magnitude_h": 25.744,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0188692647,
+        "estimated_diameter_max": 0.0421929585
+      },
+      "meters": {
+        "estimated_diameter_min": 18.8692646894,
+        "estimated_diameter_max": 42.192958531
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0117248139,
+        "estimated_diameter_max": 0.0262174808
+      },
+      "feet": {
+        "estimated_diameter_min": 61.9070383637,
+        "estimated_diameter_max": 138.4283460669
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 9714721820196370,
+    "impact_velocity_kps": 14.1375636624,
+    "impact_energy_mt": 232037322.15639356,
+    "impact_lat": 29.3271339785,
+    "impact_lon": 80.5776298813
+  },
+  {
+    "id": "54546124",
+    "name": "(2025 SA1)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54546124",
+    "absolute_magnitude_h": 26.245,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0149814889,
+        "estimated_diameter_max": 0.0334996276
+      },
+      "meters": {
+        "estimated_diameter_min": 14.9814888919,
+        "estimated_diameter_max": 33.4996275663
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0093090627,
+        "estimated_diameter_max": 0.0208156971
+      },
+      "feet": {
+        "estimated_diameter_min": 49.1518680159,
+        "estimated_diameter_max": 109.9069181048
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 12243871700000000,
+    "impact_velocity_kps": 14.1806974895,
+    "impact_energy_mt": 294233612.3099868,
+    "impact_lat": -27.922628849,
+    "impact_lon": 66.7439917904
+  },
+  {
+    "id": "54547356",
+    "name": "(2025 SS5)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54547356",
+    "absolute_magnitude_h": 27.901,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0069880335,
+        "estimated_diameter_max": 0.0156257179
+      },
+      "meters": {
+        "estimated_diameter_min": 6.988033473,
+        "estimated_diameter_max": 15.6257178747
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0043421613,
+        "estimated_diameter_max": 0.0097093679
+      },
+      "feet": {
+        "estimated_diameter_min": 22.9266197396,
+        "estimated_diameter_max": 51.265480232
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 3211295211948155,
+    "impact_velocity_kps": 13.7267081272,
+    "impact_energy_mt": 72308834.06807941,
+    "impact_lat": 66.8332713501,
+    "impact_lon": 129.4917335005
+  },
+  {
+    "id": "54547368",
+    "name": "(2025 ST6)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54547368",
+    "absolute_magnitude_h": 25.429,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0218149879,
+        "estimated_diameter_max": 0.0487797959
+      },
+      "meters": {
+        "estimated_diameter_min": 21.8149879086,
+        "estimated_diameter_max": 48.779795892
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0135552009,
+        "estimated_diameter_max": 0.0303103506
+      },
+      "feet": {
+        "estimated_diameter_min": 71.5714849301,
+        "estimated_diameter_max": 160.0387055543
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 19879379400000000,
+    "impact_velocity_kps": 23.362080603,
+    "impact_energy_mt": 1296594534.883301,
+    "impact_lat": -64.9345224113,
+    "impact_lon": -8.6658316179
+  },
+  {
+    "id": "54549106",
+    "name": "(2025 SB21)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54549106",
+    "absolute_magnitude_h": 31.32,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0014472881,
+        "estimated_diameter_max": 0.0032362345
+      },
+      "meters": {
+        "estimated_diameter_min": 1.4472880513,
+        "estimated_diameter_max": 3.2362344656
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0008993028,
+        "estimated_diameter_max": 0.0020109022
+      },
+      "feet": {
+        "estimated_diameter_min": 4.7483205301,
+        "estimated_diameter_max": 10.6175674842
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 20225961563468.55,
+    "impact_velocity_kps": 13.8278770777,
+    "impact_energy_mt": 462166.5680887877,
+    "impact_lat": -3.6007980757,
+    "impact_lon": -83.9068747545
+  },
+  {
+    "id": "54548706",
+    "name": "(2025 SO20)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54548706",
+    "absolute_magnitude_h": 28.395,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0055661509,
+        "estimated_diameter_max": 0.0124462918
+      },
+      "meters": {
+        "estimated_diameter_min": 5.5661509077,
+        "estimated_diameter_max": 12.4462918025
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0034586448,
+        "estimated_diameter_max": 0.0077337648
+      },
+      "feet": {
+        "estimated_diameter_min": 18.2616505439,
+        "estimated_diameter_max": 40.8342919974
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 510587295903335,
+    "impact_velocity_kps": 14.7169065499,
+    "impact_energy_mt": 13215433.011445414,
+    "impact_lat": 1.350843757,
+    "impact_lon": 59.0522237092
+  },
+  {
+    "id": "54548204",
+    "name": "(2025 SP12)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54548204",
+    "absolute_magnitude_h": 24.55,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0327005439,
+        "estimated_diameter_max": 0.0731206391
+      },
+      "meters": {
+        "estimated_diameter_min": 32.7005439282,
+        "estimated_diameter_max": 73.1206391247
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0203191697,
+        "estimated_diameter_max": 0.0454350447
+      },
+      "feet": {
+        "estimated_diameter_min": 107.2852525414,
+        "estimated_diameter_max": 239.8971176657
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 155767746100000000,
+    "impact_velocity_kps": 19.9730557364,
+    "impact_energy_mt": 7425828112.458821,
+    "impact_lat": -49.9241899097,
+    "impact_lon": 106.2735765345
+  },
+  {
+    "id": "3002856",
+    "name": "(1991 GO)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3002856",
+    "absolute_magnitude_h": 20.1,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.2538370294,
+        "estimated_diameter_max": 0.5675968529
+      },
+      "meters": {
+        "estimated_diameter_min": 253.8370293645,
+        "estimated_diameter_max": 567.5968528656
+      },
+      "miles": {
+        "estimated_diameter_min": 0.1577269688,
+        "estimated_diameter_max": 0.3526882241
+      },
+      "feet": {
+        "estimated_diameter_min": 832.7986794202,
+        "estimated_diameter_max": 1862.1944587557
+      }
+    },
+    "is_potentially_hazardous_asteroid": true,
+    "asteroid_mass": 130305155500000000000,
+    "impact_velocity_kps": 34.1779744977,
+    "impact_energy_mt": 18189994593613.266,
+    "impact_lat": 44.2458559466,
+    "impact_lon": 158.0237534034
+  },
+  {
+    "id": "3346460",
+    "name": "(2006 SS134)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3346460",
+    "absolute_magnitude_h": 21.48,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.1344481952,
+        "estimated_diameter_max": 0.3006353038
+      },
+      "meters": {
+        "estimated_diameter_min": 134.4481951604,
+        "estimated_diameter_max": 300.6353038309
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0835422095,
+        "estimated_diameter_max": 0.1868060594
+      },
+      "feet": {
+        "estimated_diameter_min": 441.1030166101,
+        "estimated_diameter_max": 986.3363302205
+      }
+    },
+    "is_potentially_hazardous_asteroid": true,
+    "asteroid_mass": 6190948822000000000,
+    "impact_velocity_kps": 22.0183870476,
+    "impact_energy_mt": 358679491727.55835,
+    "impact_lat": -48.1094014407,
+    "impact_lon": -178.3592514199
+  },
+  {
+    "id": "3471356",
+    "name": "(2009 TJ4)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3471356",
+    "absolute_magnitude_h": 26.1,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0160160338,
+        "estimated_diameter_max": 0.0358129403
+      },
+      "meters": {
+        "estimated_diameter_min": 16.0160337979,
+        "estimated_diameter_max": 35.8129403019
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0099518989,
+        "estimated_diameter_max": 0.0222531225
+      },
+      "feet": {
+        "estimated_diameter_min": 52.5460443254,
+        "estimated_diameter_max": 117.4965270602
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 20224112360000000,
+    "impact_velocity_kps": 19.8470317142,
+    "impact_energy_mt": 952004333.3339516,
+    "impact_lat": 87.1588915445,
+    "impact_lon": 65.4181985659
+  },
+  {
+    "id": "3730802",
+    "name": "(2015 TT238)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3730802",
+    "absolute_magnitude_h": 24.6,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0319561887,
+        "estimated_diameter_max": 0.0714562102
+      },
+      "meters": {
+        "estimated_diameter_min": 31.9561886721,
+        "estimated_diameter_max": 71.4562101727
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0198566489,
+        "estimated_diameter_max": 0.0444008168
+      },
+      "feet": {
+        "estimated_diameter_min": 104.8431420431,
+        "estimated_diameter_max": 234.436392583
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 87089658810000000,
+    "impact_velocity_kps": 13.2840936191,
+    "impact_energy_mt": 1836575442.11472,
+    "impact_lat": 16.7996581947,
+    "impact_lon": 126.9337027727
+  },
+  {
+    "id": "3856710",
+    "name": "(2019 SG4)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3856710",
+    "absolute_magnitude_h": 24.79,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0292789148,
+        "estimated_diameter_max": 0.0654696439
+      },
+      "meters": {
+        "estimated_diameter_min": 29.2789148476,
+        "estimated_diameter_max": 65.4696439067
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0181930686,
+        "estimated_diameter_max": 0.0406809381
+      },
+      "feet": {
+        "estimated_diameter_min": 96.0594349886,
+        "estimated_diameter_max": 214.7954265148
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 250606994800000000,
+    "impact_velocity_kps": 17.4861279111,
+    "impact_energy_mt": 9157118175.646395,
+    "impact_lat": 28.3934375064,
+    "impact_lon": 56.42231595
+  },
+  {
+    "id": "3994621",
+    "name": "(2020 DT2)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3994621",
+    "absolute_magnitude_h": 27.6,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0080270317,
+        "estimated_diameter_max": 0.0179489885
+      },
+      "meters": {
+        "estimated_diameter_min": 8.0270316728,
+        "estimated_diameter_max": 17.948988478
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0049877647,
+        "estimated_diameter_max": 0.0111529809
+      },
+      "feet": {
+        "estimated_diameter_min": 26.3354065935,
+        "estimated_diameter_max": 58.8877593581
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 795458680743082,
+    "impact_velocity_kps": 13.9838940398,
+    "impact_energy_mt": 18588836.310510892,
+    "impact_lat": 7.033607349,
+    "impact_lon": 113.0102711197
+  },
+  {
+    "id": "54054367",
+    "name": "(2020 SA)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54054367",
+    "absolute_magnitude_h": 24.3,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0366906138,
+        "estimated_diameter_max": 0.0820427065
+      },
+      "meters": {
+        "estimated_diameter_min": 36.6906137531,
+        "estimated_diameter_max": 82.0427064882
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0227984834,
+        "estimated_diameter_max": 0.0509789586
+      },
+      "feet": {
+        "estimated_diameter_min": 120.3760332259,
+        "estimated_diameter_max": 269.1689931548
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 58084825970000000,
+    "impact_velocity_kps": 16.7661930023,
+    "impact_energy_mt": 1951236643.829236,
+    "impact_lat": 31.5087057611,
+    "impact_lon": 149.4832274545
+  },
+  {
+    "id": "54157355",
+    "name": "(2021 LV2)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54157355",
+    "absolute_magnitude_h": 25.27,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0234722638,
+        "estimated_diameter_max": 0.0524855773
+      },
+      "meters": {
+        "estimated_diameter_min": 23.4722637531,
+        "estimated_diameter_max": 52.4855773378
+      },
+      "miles": {
+        "estimated_diameter_min": 0.014584984,
+        "estimated_diameter_max": 0.0326130157
+      },
+      "feet": {
+        "estimated_diameter_min": 77.0087418118,
+        "estimated_diameter_max": 172.1967815529
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 55474254310000000,
+    "impact_velocity_kps": 22.3991635748,
+    "impact_energy_mt": 3326085463.5730886,
+    "impact_lat": -25.249918562,
+    "impact_lon": -151.3587845896
+  },
+  {
+    "id": "54235406",
+    "name": "(2022 AG)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54235406",
+    "absolute_magnitude_h": 25.12,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0251509837,
+        "estimated_diameter_max": 0.0562393094
+      },
+      "meters": {
+        "estimated_diameter_min": 25.1509837491,
+        "estimated_diameter_max": 56.239309364
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0156280919,
+        "estimated_diameter_max": 0.0349454759
+      },
+      "feet": {
+        "estimated_diameter_min": 82.5163535234,
+        "estimated_diameter_max": 184.5121757337
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 23653190100000000,
+    "impact_velocity_kps": 11.6474911308,
+    "impact_energy_mt": 383471266.1730504,
+    "impact_lat": 25.2768585096,
+    "impact_lon": -41.1892673169
+  },
+  {
+    "id": "54253542",
+    "name": "(2022 EG4)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54253542",
+    "absolute_magnitude_h": 24.48,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0337718597,
+        "estimated_diameter_max": 0.0755161741
+      },
+      "meters": {
+        "estimated_diameter_min": 33.7718597164,
+        "estimated_diameter_max": 75.5161740526
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0209848542,
+        "estimated_diameter_max": 0.0469235606
+      },
+      "feet": {
+        "estimated_diameter_min": 110.8000682321,
+        "estimated_diameter_max": 247.7564844786
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 119619157700000000,
+    "impact_velocity_kps": 19.0536461863,
+    "impact_energy_mt": 5189616447.810696,
+    "impact_lat": 71.8538157958,
+    "impact_lon": 10.6403369606
+  },
+  {
+    "id": "54391010",
+    "name": "(2023 TF1)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54391010",
+    "absolute_magnitude_h": 25.13,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0250354255,
+        "estimated_diameter_max": 0.0559809132
+      },
+      "meters": {
+        "estimated_diameter_min": 25.0354254756,
+        "estimated_diameter_max": 55.980913209
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0155562874,
+        "estimated_diameter_max": 0.034784916
+      },
+      "feet": {
+        "estimated_diameter_min": 82.1372253173,
+        "estimated_diameter_max": 183.6644192927
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 60167357050000000,
+    "impact_velocity_kps": 15.354461436,
+    "impact_energy_mt": 1695151191.5957742,
+    "impact_lat": -57.1172431848,
+    "impact_lon": 111.2696302225
+  },
+  {
+    "id": "54395903",
+    "name": "(2023 UJ1)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54395903",
+    "absolute_magnitude_h": 26.11,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0159424468,
+        "estimated_diameter_max": 0.0356483948
+      },
+      "meters": {
+        "estimated_diameter_min": 15.9424468069,
+        "estimated_diameter_max": 35.6483947878
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0099061741,
+        "estimated_diameter_max": 0.0221508787
+      },
+      "feet": {
+        "estimated_diameter_min": 52.3046171819,
+        "estimated_diameter_max": 116.9566795557
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 40108362350000000,
+    "impact_velocity_kps": 20.6353587491,
+    "impact_energy_mt": 2040973216.153949,
+    "impact_lat": 35.8268196066,
+    "impact_lon": 1.4771907873
+  },
+  {
+    "id": "54415896",
+    "name": "(2023 XU10)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54415896",
+    "absolute_magnitude_h": 27.66,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0078082728,
+        "estimated_diameter_max": 0.0174598287
+      },
+      "meters": {
+        "estimated_diameter_min": 7.8082727749,
+        "estimated_diameter_max": 17.4598287116
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0048518343,
+        "estimated_diameter_max": 0.0108490312
+      },
+      "feet": {
+        "estimated_diameter_min": 25.6176936508,
+        "estimated_diameter_max": 57.2829044301
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 689433423038727.2,
+    "impact_velocity_kps": 13.9296905398,
+    "impact_energy_mt": 15986507.612819685,
+    "impact_lat": 19.1690797541,
+    "impact_lon": -35.4677195649
+  },
+  {
+    "id": "54543546",
+    "name": "(2025 QL23)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54543546",
+    "absolute_magnitude_h": 23.38,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0560473362,
+        "estimated_diameter_max": 0.1253256538
+      },
+      "meters": {
+        "estimated_diameter_min": 56.0473362252,
+        "estimated_diameter_max": 125.3256537574
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0348261894,
+        "estimated_diameter_max": 0.0778737268
+      },
+      "feet": {
+        "estimated_diameter_min": 183.8823425812,
+        "estimated_diameter_max": 411.1734178734
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 259358726900000000,
+    "impact_velocity_kps": 14.9747903208,
+    "impact_energy_mt": 6950254285.685956,
+    "impact_lat": -65.7149744364,
+    "impact_lon": -63.7628123239
+  },
+  {
+    "id": "54546120",
+    "name": "(2025 SZ)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54546120",
+    "absolute_magnitude_h": 28.265,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0059095577,
+        "estimated_diameter_max": 0.0132141727
+      },
+      "meters": {
+        "estimated_diameter_min": 5.9095576894,
+        "estimated_diameter_max": 13.2141727103
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0036720278,
+        "estimated_diameter_max": 0.0082109037
+      },
+      "feet": {
+        "estimated_diameter_min": 19.3883132495,
+        "estimated_diameter_max": 43.353586395
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 1198962164770310.2,
+    "impact_velocity_kps": 11.3615585261,
+    "impact_energy_mt": 18495225.334317688,
+    "impact_lat": 74.235949536,
+    "impact_lon": 171.7886923582
+  },
+  {
+    "id": "54549109",
+    "name": "(2025 SY21)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54549109",
+    "absolute_magnitude_h": 26.927,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0109434681,
+        "estimated_diameter_max": 0.0244703386
+      },
+      "meters": {
+        "estimated_diameter_min": 10.9434681079,
+        "estimated_diameter_max": 24.4703385988
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0067999537,
+        "estimated_diameter_max": 0.0152051588
+      },
+      "feet": {
+        "estimated_diameter_min": 35.903767907,
+        "estimated_diameter_max": 80.2832656885
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 3277575039733477.5,
+    "impact_velocity_kps": 23.3868849803,
+    "impact_energy_mt": 214227752.5015382,
+    "impact_lat": 50.7071960227,
+    "impact_lon": 89.6801419634
+  },
+  {
+    "id": "54549128",
+    "name": "(2025 SJ27)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54549128",
+    "absolute_magnitude_h": 24.779,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.029427609,
+        "estimated_diameter_max": 0.0658021341
+      },
+      "meters": {
+        "estimated_diameter_min": 29.4276089729,
+        "estimated_diameter_max": 65.8021340787
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0182854628,
+        "estimated_diameter_max": 0.0408875379
+      },
+      "feet": {
+        "estimated_diameter_min": 96.5472766227,
+        "estimated_diameter_max": 215.8862735708
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 171826828800000000,
+    "impact_velocity_kps": 13.457056387,
+    "impact_energy_mt": 3718514230.608,
+    "impact_lat": 49.1996679079,
+    "impact_lon": -80.7008185698
+  },
+  {
+    "id": "54548206",
+    "name": "(2025 SQ12)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54548206",
+    "absolute_magnitude_h": 25.26,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0235806068,
+        "estimated_diameter_max": 0.0527278398
+      },
+      "meters": {
+        "estimated_diameter_min": 23.5806068,
+        "estimated_diameter_max": 52.7278397554
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0146523052,
+        "estimated_diameter_max": 0.0327635505
+      },
+      "feet": {
+        "estimated_diameter_min": 77.3641980136,
+        "estimated_diameter_max": 172.9916057832
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 111505316200000000,
+    "impact_velocity_kps": 17.0378692031,
+    "impact_energy_mt": 3868160285.9653416,
+    "impact_lat": -48.5219413317,
+    "impact_lon": -158.6507312128
+  },
+  {
+    "id": "54550509",
+    "name": "(2025 TP)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54550509",
+    "absolute_magnitude_h": 29.21,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0038243266,
+        "estimated_diameter_max": 0.0085514543
+      },
+      "meters": {
+        "estimated_diameter_min": 3.824326621,
+        "estimated_diameter_max": 8.5514542927
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0023763257,
+        "estimated_diameter_max": 0.0053136257
+      },
+      "feet": {
+        "estimated_diameter_min": 12.5470037513,
+        "estimated_diameter_max": 28.0559533018
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 245713805696739.56,
+    "impact_velocity_kps": 18.4802436797,
+    "impact_energy_mt": 10028206.630122676,
+    "impact_lat": 46.4249849015,
+    "impact_lon": -6.708073412
+  },
+  {
+    "id": "54550511",
+    "name": "(2025 TQ)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54550511",
+    "absolute_magnitude_h": 28.863,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0044869887,
+        "estimated_diameter_max": 0.0100332118
+      },
+      "meters": {
+        "estimated_diameter_min": 4.4869887082,
+        "estimated_diameter_max": 10.0332117659
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0027880847,
+        "estimated_diameter_max": 0.0062343468
+      },
+      "feet": {
+        "estimated_diameter_min": 14.7210920335,
+        "estimated_diameter_max": 32.9173624899
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 183751569995619.78,
+    "impact_velocity_kps": 15.055128703,
+    "impact_energy_mt": 4977122.523195292,
+    "impact_lat": -13.757163805,
+    "impact_lon": 118.1997107877
+  },
+  {
+    "id": "54550518",
+    "name": "(2025 TW)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54550518",
+    "absolute_magnitude_h": 24.678,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0308286833,
+        "estimated_diameter_max": 0.0689350316
+      },
+      "meters": {
+        "estimated_diameter_min": 30.8286833212,
+        "estimated_diameter_max": 68.9350315631
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0191560498,
+        "estimated_diameter_max": 0.0428342295
+      },
+      "feet": {
+        "estimated_diameter_min": 101.1439773876,
+        "estimated_diameter_max": 226.1648089535
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 215817858300000000,
+    "impact_velocity_kps": 16.75457243,
+    "impact_energy_mt": 7239897297.436192,
+    "impact_lat": 74.8059084952,
+    "impact_lon": -6.2056931766
+  },
+  {
+    "id": "54549684",
+    "name": "(2025 TB)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54549684",
+    "absolute_magnitude_h": 26.558,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.012970448,
+        "estimated_diameter_max": 0.0290028034
+      },
+      "meters": {
+        "estimated_diameter_min": 12.9704479913,
+        "estimated_diameter_max": 29.0028034071
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0080594602,
+        "estimated_diameter_max": 0.018021501
+      },
+      "feet": {
+        "estimated_diameter_min": 42.5539645877,
+        "estimated_diameter_max": 95.1535575302
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 3636008218761657.5,
+    "impact_velocity_kps": 16.2986348717,
+    "impact_energy_mt": 115426531.60640669,
+    "impact_lat": -43.3613021504,
+    "impact_lon": -101.0982313326
+  },
+  {
+    "id": "54549695",
+    "name": "(2025 TF)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54549695",
+    "absolute_magnitude_h": 31.702,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0012138219,
+        "estimated_diameter_max": 0.0027141883
+      },
+      "meters": {
+        "estimated_diameter_min": 1.2138219217,
+        "estimated_diameter_max": 2.7141883295
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0007542337,
+        "estimated_diameter_max": 0.0016865179
+      },
+      "feet": {
+        "estimated_diameter_min": 3.9823555136,
+        "estimated_diameter_max": 8.9048176389
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 17460176711226.732,
+    "impact_velocity_kps": 23.6841454204,
+    "impact_energy_mt": 1170421.7972729306,
+    "impact_lat": -39.0704627974,
+    "impact_lon": -109.3586918396
+  },
+  {
+    "id": "3137735",
+    "name": "(2002 TX59)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3137735",
+    "absolute_magnitude_h": 23.9,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.04411182,
+        "estimated_diameter_max": 0.0986370281
+      },
+      "meters": {
+        "estimated_diameter_min": 44.1118199997,
+        "estimated_diameter_max": 98.6370281305
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0274098057,
+        "estimated_diameter_max": 0.0612901888
+      },
+      "feet": {
+        "estimated_diameter_min": 144.7238235278,
+        "estimated_diameter_max": 323.6123073718
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 97613189820000000,
+    "impact_velocity_kps": 17.4957675903,
+    "impact_energy_mt": 3570695657.805566,
+    "impact_lat": -26.3415182029,
+    "impact_lon": -69.060441808
+  },
+  {
+    "id": "3137864",
+    "name": "(2002 TS69)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3137864",
+    "absolute_magnitude_h": 24.4,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0350392641,
+        "estimated_diameter_max": 0.0783501764
+      },
+      "meters": {
+        "estimated_diameter_min": 35.0392641108,
+        "estimated_diameter_max": 78.3501764334
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0217723826,
+        "estimated_diameter_max": 0.0486845275
+      },
+      "feet": {
+        "estimated_diameter_min": 114.9582192654,
+        "estimated_diameter_max": 257.0543928497
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 178043607000000000,
+    "impact_velocity_kps": 14.8071184965,
+    "impact_energy_mt": 4664937360.373997,
+    "impact_lat": -35.8577226917,
+    "impact_lon": -155.8306144622
+  },
+  {
+    "id": "3449749",
+    "name": "(2009 DO111)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3449749",
+    "absolute_magnitude_h": 22.85,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0715409951,
+        "estimated_diameter_max": 0.1599705282
+      },
+      "meters": {
+        "estimated_diameter_min": 71.5409950884,
+        "estimated_diameter_max": 159.9705281956
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0444534997,
+        "estimated_diameter_max": 0.0994010471
+      },
+      "feet": {
+        "estimated_diameter_min": 234.7145583258,
+        "estimated_diameter_max": 524.8377077252
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 942037888100000000,
+    "impact_velocity_kps": 12.4531210564,
+    "impact_energy_mt": 17458346886.197193,
+    "impact_lat": 58.8702618321,
+    "impact_lon": 149.7313804592
+  },
+  {
+    "id": "3465534",
+    "name": "(2009 PC)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3465534",
+    "absolute_magnitude_h": 23.16,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0620233153,
+        "estimated_diameter_max": 0.1386883492
+      },
+      "meters": {
+        "estimated_diameter_min": 62.0233152954,
+        "estimated_diameter_max": 138.6883491905
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0385394894,
+        "estimated_diameter_max": 0.0861769182
+      },
+      "feet": {
+        "estimated_diameter_min": 203.4885737539,
+        "estimated_diameter_max": 455.0142835581
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 836278018600000000,
+    "impact_velocity_kps": 14.3799454727,
+    "impact_energy_mt": 20665384422.622578,
+    "impact_lat": -39.3679997841,
+    "impact_lon": -55.6865498922
+  },
+  {
+    "id": "3752783",
+    "name": "(2016 JS5)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3752783",
+    "absolute_magnitude_h": 30.7,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0019255508,
+        "estimated_diameter_max": 0.0043056624
+      },
+      "meters": {
+        "estimated_diameter_min": 1.9255507819,
+        "estimated_diameter_max": 4.3056624424
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0011964814,
+        "estimated_diameter_max": 0.0026754138
+      },
+      "feet": {
+        "estimated_diameter_min": 6.3174240272,
+        "estimated_diameter_max": 14.1261895676
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 22033324915845.7,
+    "impact_velocity_kps": 22.8205296041,
+    "impact_energy_mt": 1371228.418558252,
+    "impact_lat": 76.3514014896,
+    "impact_lon": 21.5749983895
+  },
+  {
+    "id": "54137511",
+    "name": "(2021 GU12)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54137511",
+    "absolute_magnitude_h": 27.82,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0072536229,
+        "estimated_diameter_max": 0.016219594
+      },
+      "meters": {
+        "estimated_diameter_min": 7.2536229467,
+        "estimated_diameter_max": 16.219593992
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0045071909,
+        "estimated_diameter_max": 0.0100783853
+      },
+      "feet": {
+        "estimated_diameter_min": 23.7979763085,
+        "estimated_diameter_max": 53.2138927527
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 493827810293390.94,
+    "impact_velocity_kps": 23.969487161,
+    "impact_energy_mt": 33905593.95941152,
+    "impact_lat": 46.8213804183,
+    "impact_lon": -168.112630798
+  },
+  {
+    "id": "54209488",
+    "name": "(2021 TO15)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54209488",
+    "absolute_magnitude_h": 25.22,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.024019003,
+        "estimated_diameter_max": 0.0537081235
+      },
+      "meters": {
+        "estimated_diameter_min": 24.0190030115,
+        "estimated_diameter_max": 53.7081234856
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0149247119,
+        "estimated_diameter_max": 0.0333726704
+      },
+      "feet": {
+        "estimated_diameter_min": 78.8025058404,
+        "estimated_diameter_max": 176.2077598564
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 91577528350000000,
+    "impact_velocity_kps": 14.5979824517,
+    "impact_energy_mt": 2332130887.1650424,
+    "impact_lat": 29.9859957149,
+    "impact_lon": -90.107132704
+  },
+  {
+    "id": "54289177",
+    "name": "(2022 MP2)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54289177",
+    "absolute_magnitude_h": 26.02,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0166170902,
+        "estimated_diameter_max": 0.0371569432
+      },
+      "meters": {
+        "estimated_diameter_min": 16.617090174,
+        "estimated_diameter_max": 37.1569432173
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0103253779,
+        "estimated_diameter_max": 0.023088247
+      },
+      "feet": {
+        "estimated_diameter_min": 54.5180141264,
+        "estimated_diameter_max": 121.9059855849
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 8918897771268645,
+    "impact_velocity_kps": 11.9804514596,
+    "impact_energy_mt": 152980431.76226708,
+    "impact_lat": 34.4633889167,
+    "impact_lon": 163.5795121872
+  },
+  {
+    "id": "54356834",
+    "name": "(2022 TA41)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54356834",
+    "absolute_magnitude_h": 29.27,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0037201031,
+        "estimated_diameter_max": 0.0083184034
+      },
+      "meters": {
+        "estimated_diameter_min": 3.7201031034,
+        "estimated_diameter_max": 8.3184034225
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0023115642,
+        "estimated_diameter_max": 0.0051688147
+      },
+      "feet": {
+        "estimated_diameter_min": 12.2050630658,
+        "estimated_diameter_max": 27.2913506847
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 236934105101747.88,
+    "impact_velocity_kps": 20.4748698061,
+    "impact_energy_mt": 11869931.297648082,
+    "impact_lat": 6.0348501635,
+    "impact_lon": -115.2285691807
+  },
+  {
+    "id": "54423831",
+    "name": "(2024 CS)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54423831",
+    "absolute_magnitude_h": 25.4,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.022108281,
+        "estimated_diameter_max": 0.0494356193
+      },
+      "meters": {
+        "estimated_diameter_min": 22.1082810359,
+        "estimated_diameter_max": 49.435619262
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0137374447,
+        "estimated_diameter_max": 0.0307178602
+      },
+      "feet": {
+        "estimated_diameter_min": 72.5337327539,
+        "estimated_diameter_max": 162.1903570994
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 89302967410000000,
+    "impact_velocity_kps": 16.8447957064,
+    "impact_energy_mt": 3028138361.5449843,
+    "impact_lat": -87.9274420122,
+    "impact_lon": -54.2034144177
+  },
+  {
+    "id": "54545784",
+    "name": "(2025 ST)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54545784",
+    "absolute_magnitude_h": 22.641,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0787689355,
+        "estimated_diameter_max": 0.1761326944
+      },
+      "meters": {
+        "estimated_diameter_min": 78.7689355444,
+        "estimated_diameter_max": 176.1326943926
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0489447322,
+        "estimated_diameter_max": 0.1094437484
+      },
+      "feet": {
+        "estimated_diameter_min": 258.4282744916,
+        "estimated_diameter_max": 577.8631890711
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 1514499057000000000,
+    "impact_velocity_kps": 27.8386405238,
+    "impact_energy_mt": 140263083395.91956,
+    "impact_lat": 56.0230357032,
+    "impact_lon": -149.1444090236
+  },
+  {
+    "id": "54547369",
+    "name": "(2025 SW6)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54547369",
+    "absolute_magnitude_h": 28.619,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0050205925,
+        "estimated_diameter_max": 0.0112263862
+      },
+      "meters": {
+        "estimated_diameter_min": 5.0205925419,
+        "estimated_diameter_max": 11.2263862111
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0031196506,
+        "estimated_diameter_max": 0.0069757508
+      },
+      "feet": {
+        "estimated_diameter_min": 16.4717608352,
+        "estimated_diameter_max": 36.8319769367
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 406130348353959.56,
+    "impact_velocity_kps": 12.5633699411,
+    "impact_energy_mt": 7660481.507399322,
+    "impact_lat": 54.9204983933,
+    "impact_lon": 101.0926147814
+  },
+  {
+    "id": "54549694",
+    "name": "(2025 TD)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54549694",
+    "absolute_magnitude_h": 27.409,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0087650617,
+        "estimated_diameter_max": 0.0195992737
+      },
+      "meters": {
+        "estimated_diameter_min": 8.7650616805,
+        "estimated_diameter_max": 19.5992737445
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0054463551,
+        "estimated_diameter_max": 0.0121784203
+      },
+      "feet": {
+        "estimated_diameter_min": 28.7567649637,
+        "estimated_diameter_max": 64.3020812719
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 2318502095534042.5,
+    "impact_velocity_kps": 13.3079073748,
+    "impact_energy_mt": 49068791.28790703,
+    "impact_lat": -23.5931071786,
+    "impact_lon": -29.1640745328
+  },
+  {
+    "id": "54548707",
+    "name": "(2025 SN20)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54548707",
+    "absolute_magnitude_h": 26.436,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0137200273,
+        "estimated_diameter_max": 0.0306789138
+      },
+      "meters": {
+        "estimated_diameter_min": 13.7200273341,
+        "estimated_diameter_max": 30.6789137722
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0085252271,
+        "estimated_diameter_max": 0.0190629873
+      },
+      "feet": {
+        "estimated_diameter_min": 45.0132144788,
+        "estimated_diameter_max": 100.6526074604
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 3832976399091896.5,
+    "impact_velocity_kps": 14.1893200315,
+    "impact_energy_mt": 92222659.41703406,
+    "impact_lat": -50.7704833984,
+    "impact_lon": 158.4361112478
+  },
+  {
+    "id": "54550497",
+    "name": "(2025 TH)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54550497",
+    "absolute_magnitude_h": 25.656,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0196496571,
+        "estimated_diameter_max": 0.0439379691
+      },
+      "meters": {
+        "estimated_diameter_min": 19.6496571256,
+        "estimated_diameter_max": 43.9379690674
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0122097271,
+        "estimated_diameter_max": 0.0273017798
+      },
+      "feet": {
+        "estimated_diameter_min": 64.467381084,
+        "estimated_diameter_max": 144.1534464351
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 23767593690000000,
+    "impact_velocity_kps": 17.7688869284,
+    "impact_energy_mt": 896776028.2515601,
+    "impact_lat": -14.4084727254,
+    "impact_lon": 19.5889595039
+  },
+  {
+    "id": "54550506",
+    "name": "(2025 TN)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54550506",
+    "absolute_magnitude_h": 26.17,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0155079709,
+        "estimated_diameter_max": 0.0346768771
+      },
+      "meters": {
+        "estimated_diameter_min": 15.5079708716,
+        "estimated_diameter_max": 34.676877062
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0096362034,
+        "estimated_diameter_max": 0.0215472058
+      },
+      "feet": {
+        "estimated_diameter_min": 50.8791711544,
+        "estimated_diameter_max": 113.76928534
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 18574258750000000,
+    "impact_velocity_kps": 14.5421912737,
+    "impact_energy_mt": 469406960.3446615,
+    "impact_lat": 76.6479138936,
+    "impact_lon": 114.8159442452
+  },
+  {
+    "id": "54548500",
+    "name": "(2025 SG15)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54548500",
+    "absolute_magnitude_h": 25.807,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0183296839,
+        "estimated_diameter_max": 0.0409864193
+      },
+      "meters": {
+        "estimated_diameter_min": 18.3296839463,
+        "estimated_diameter_max": 40.98641931
+      },
+      "miles": {
+        "estimated_diameter_min": 0.011389534,
+        "estimated_diameter_max": 0.0254677724
+      },
+      "feet": {
+        "estimated_diameter_min": 60.1367602784,
+        "estimated_diameter_max": 134.4698839291
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 14403311820000000,
+    "impact_velocity_kps": 13.5917129228,
+    "impact_energy_mt": 317972145.54202217,
+    "impact_lat": 75.4450630344,
+    "impact_lon": 110.5495263212
+  },
+  {
+    "id": "54550570",
+    "name": "(2025 TL1)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54550570",
+    "absolute_magnitude_h": 24.834,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0286916138,
+        "estimated_diameter_max": 0.0641563989
+      },
+      "meters": {
+        "estimated_diameter_min": 28.6916138114,
+        "estimated_diameter_max": 64.1563988664
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0178281368,
+        "estimated_diameter_max": 0.0398649257
+      },
+      "feet": {
+        "estimated_diameter_min": 94.132594257,
+        "estimated_diameter_max": 210.4868796569
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 91245202660000000,
+    "impact_velocity_kps": 15.6631510653,
+    "impact_energy_mt": 2675140779.261279,
+    "impact_lat": 38.4190571691,
+    "impact_lon": -164.3246090774
+  },
+  {
+    "id": "54550572",
+    "name": "(2025 TM1)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54550572",
+    "absolute_magnitude_h": 25.317,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0229696817,
+        "estimated_diameter_max": 0.0513617697
+      },
+      "meters": {
+        "estimated_diameter_min": 22.9696816768,
+        "estimated_diameter_max": 51.3617696508
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0142726941,
+        "estimated_diameter_max": 0.0319147142
+      },
+      "feet": {
+        "estimated_diameter_min": 75.3598504325,
+        "estimated_diameter_max": 168.5097483412
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 17908530990000000,
+    "impact_velocity_kps": 14.6013355463,
+    "impact_energy_mt": 456271617.41181016,
+    "impact_lat": -71.8271708622,
+    "impact_lon": -30.1322942989
+  },
+  {
+    "id": "3789115",
+    "name": "(2017 VV1)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3789115",
+    "absolute_magnitude_h": 20.21,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.2412986969,
+        "estimated_diameter_max": 0.5395602892
+      },
+      "meters": {
+        "estimated_diameter_min": 241.2986969214,
+        "estimated_diameter_max": 539.5602891983
+      },
+      "miles": {
+        "estimated_diameter_min": 0.1499360126,
+        "estimated_diameter_max": 0.3352671165
+      },
+      "feet": {
+        "estimated_diameter_min": 791.6624168075,
+        "estimated_diameter_max": 1770.2109792133
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 22053769670000000000,
+    "impact_velocity_kps": 24.2437840285,
+    "impact_energy_mt": 1549037658454.9897,
+    "impact_lat": 63.1479477697,
+    "impact_lon": 138.1952569122
+  },
+  {
+    "id": "3840725",
+    "name": "(2019 FL1)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3840725",
+    "absolute_magnitude_h": 26.9,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0110803882,
+        "estimated_diameter_max": 0.0247765013
+      },
+      "meters": {
+        "estimated_diameter_min": 11.0803882126,
+        "estimated_diameter_max": 24.7765012606
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0068850319,
+        "estimated_diameter_max": 0.0153953994
+      },
+      "feet": {
+        "estimated_diameter_min": 36.3529808636,
+        "estimated_diameter_max": 81.2877363957
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 2341902945490093.5,
+    "impact_velocity_kps": 28.8110785108,
+    "impact_energy_mt": 232309116.49647108,
+    "impact_lat": -82.1017792592,
+    "impact_lon": -66.6684531652
+  },
+  {
+    "id": "54073368",
+    "name": "(2020 UV)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54073368",
+    "absolute_magnitude_h": 27.4,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0088014652,
+        "estimated_diameter_max": 0.0196806745
+      },
+      "meters": {
+        "estimated_diameter_min": 8.801465209,
+        "estimated_diameter_max": 19.6806745089
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0054689752,
+        "estimated_diameter_max": 0.0122290004
+      },
+      "feet": {
+        "estimated_diameter_min": 28.8761991163,
+        "estimated_diameter_max": 64.5691441559
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 6353505521474727,
+    "impact_velocity_kps": 17.9835325224,
+    "impact_energy_mt": 245551023.93945745,
+    "impact_lat": 49.8970379255,
+    "impact_lon": 103.9268951717
+  },
+  {
+    "id": "54307195",
+    "name": "(2022 SS7)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54307195",
+    "absolute_magnitude_h": 22.33,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0908981358,
+        "estimated_diameter_max": 0.2032544107
+      },
+      "meters": {
+        "estimated_diameter_min": 90.8981358201,
+        "estimated_diameter_max": 203.2544107219
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0564814656,
+        "estimated_diameter_max": 0.1262963964
+      },
+      "feet": {
+        "estimated_diameter_min": 298.2222399242,
+        "estimated_diameter_max": 666.8452008727
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 900442786400000000,
+    "impact_velocity_kps": 33.4356324528,
+    "impact_energy_mt": 120296650944.47264,
+    "impact_lat": -12.996340361,
+    "impact_lon": 154.928109243
+  },
+  {
+    "id": "54347989",
+    "name": "(2023 EH2)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54347989",
+    "absolute_magnitude_h": 24.21,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0382432662,
+        "estimated_diameter_max": 0.0855145429
+      },
+      "meters": {
+        "estimated_diameter_min": 38.24326621,
+        "estimated_diameter_max": 85.5145429273
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0237632566,
+        "estimated_diameter_max": 0.0531362571
+      },
+      "feet": {
+        "estimated_diameter_min": 125.4700375125,
+        "estimated_diameter_max": 280.5595330175
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 250015556300000000,
+    "impact_velocity_kps": 21.0636063877,
+    "impact_energy_mt": 13255948906.624575,
+    "impact_lat": 55.3388243871,
+    "impact_lon": 10.8448885632
+  },
+  {
+    "id": "54398529",
+    "name": "(2023 UQ6)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54398529",
+    "absolute_magnitude_h": 25.39,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0222103282,
+        "estimated_diameter_max": 0.0496638037
+      },
+      "meters": {
+        "estimated_diameter_min": 22.2103282246,
+        "estimated_diameter_max": 49.6638037128
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0138008539,
+        "estimated_diameter_max": 0.0308596474
+      },
+      "feet": {
+        "estimated_diameter_min": 72.8685332524,
+        "estimated_diameter_max": 162.938993773
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 43180736460000000,
+    "impact_velocity_kps": 20.120331128,
+    "impact_energy_mt": 2089000871.198228,
+    "impact_lat": 86.5122451013,
+    "impact_lon": -41.7510272095
+  },
+  {
+    "id": "54486547",
+    "name": "(2024 TO)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54486547",
+    "absolute_magnitude_h": 24.39,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.035200998,
+        "estimated_diameter_max": 0.0787118244
+      },
+      "meters": {
+        "estimated_diameter_min": 35.2009980055,
+        "estimated_diameter_max": 78.7118244161
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0218728793,
+        "estimated_diameter_max": 0.048909245
+      },
+      "feet": {
+        "estimated_diameter_min": 115.4888422963,
+        "estimated_diameter_max": 258.2409020172
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 58667709050000000,
+    "impact_velocity_kps": 20.5892038262,
+    "impact_energy_mt": 2972053097.175535,
+    "impact_lat": -88.5628175561,
+    "impact_lon": -39.4212117575
+  },
+  {
+    "id": "54546473",
+    "name": "(2025 SA3)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54546473",
+    "absolute_magnitude_h": 26.564,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0129346588,
+        "estimated_diameter_max": 0.0289227763
+      },
+      "meters": {
+        "estimated_diameter_min": 12.9346587864,
+        "estimated_diameter_max": 28.9227763122
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0080372219,
+        "estimated_diameter_max": 0.0179717744
+      },
+      "feet": {
+        "estimated_diameter_min": 42.4365459329,
+        "estimated_diameter_max": 94.8910014362
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 3640026203754116,
+    "impact_velocity_kps": 13.3094198424,
+    "impact_energy_mt": 77055046.79285498,
+    "impact_lat": -75.985065684,
+    "impact_lon": -172.146951245
+  },
+  {
+    "id": "54547734",
+    "name": "(2025 SX10)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54547734",
+    "absolute_magnitude_h": 27.892,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0070170566,
+        "estimated_diameter_max": 0.0156906155
+      },
+      "meters": {
+        "estimated_diameter_min": 7.0170565518,
+        "estimated_diameter_max": 15.6906154518
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0043601954,
+        "estimated_diameter_max": 0.0097496934
+      },
+      "feet": {
+        "estimated_diameter_min": 23.0218398175,
+        "estimated_diameter_max": 51.478398799
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 834797812622664.9,
+    "impact_velocity_kps": 11.6533444733,
+    "impact_energy_mt": 13547551.159916013,
+    "impact_lat": -16.7030162113,
+    "impact_lon": 109.5369883053
+  },
+  {
+    "id": "54549129",
+    "name": "(2025 SK27)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54549129",
+    "absolute_magnitude_h": 24.348,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0358884727,
+        "estimated_diameter_max": 0.0802490646
+      },
+      "meters": {
+        "estimated_diameter_min": 35.8884727067,
+        "estimated_diameter_max": 80.2490645808
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0223000562,
+        "estimated_diameter_max": 0.0498644415
+      },
+      "feet": {
+        "estimated_diameter_min": 117.7443367951,
+        "estimated_diameter_max": 263.2843410394
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 476894557200000000,
+    "impact_velocity_kps": 15.5631713067,
+    "impact_energy_mt": 13803743797.63762,
+    "impact_lat": 28.1167703746,
+    "impact_lon": -40.4627503374
+  },
+  {
+    "id": "54549693",
+    "name": "(2025 TE)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54549693",
+    "absolute_magnitude_h": 28.443,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0054444621,
+        "estimated_diameter_max": 0.0121741873
+      },
+      "meters": {
+        "estimated_diameter_min": 5.4444620707,
+        "estimated_diameter_max": 12.1741872911
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0033830308,
+        "estimated_diameter_max": 0.0075646869
+      },
+      "feet": {
+        "estimated_diameter_min": 17.8624089401,
+        "estimated_diameter_max": 39.941560632
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 1262286901838663.5,
+    "impact_velocity_kps": 18.6083248015,
+    "impact_energy_mt": 52233720.40492932,
+    "impact_lat": 41.7485395016,
+    "impact_lon": 29.1437421272
+  },
+  {
+    "id": "54549125",
+    "name": "(2025 SN27)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54549125",
+    "absolute_magnitude_h": 26.702,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0121382192,
+        "estimated_diameter_max": 0.0271418833
+      },
+      "meters": {
+        "estimated_diameter_min": 12.1382192169,
+        "estimated_diameter_max": 27.1418832947
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0075423374,
+        "estimated_diameter_max": 0.0168651792
+      },
+      "feet": {
+        "estimated_diameter_min": 39.8235551355,
+        "estimated_diameter_max": 89.0481763887
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 12614523430000000,
+    "impact_velocity_kps": 13.705848649,
+    "impact_energy_mt": 283178997.23655355,
+    "impact_lat": -63.1016912322,
+    "impact_lon": 155.1039716497
+  },
+  {
+    "id": "54549126",
+    "name": "(2025 SM27)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54549126",
+    "absolute_magnitude_h": 26.063,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0162912713,
+        "estimated_diameter_max": 0.0364283901
+      },
+      "meters": {
+        "estimated_diameter_min": 16.2912713196,
+        "estimated_diameter_max": 36.4283901105
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0101229236,
+        "estimated_diameter_max": 0.0226355452
+      },
+      "feet": {
+        "estimated_diameter_min": 53.4490545962,
+        "estimated_diameter_max": 119.5157194101
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 6987130711284933,
+    "impact_velocity_kps": 13.6656006973,
+    "impact_energy_mt": 155931784.74205345,
+    "impact_lat": 8.2477378664,
+    "impact_lon": 105.1013708667
+  },
+  {
+    "id": "54550571",
+    "name": "(2025 TK1)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54550571",
+    "absolute_magnitude_h": 24.784,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0293599274,
+        "estimated_diameter_max": 0.0656507934
+      },
+      "meters": {
+        "estimated_diameter_min": 29.3599273504,
+        "estimated_diameter_max": 65.65079337
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0182434074,
+        "estimated_diameter_max": 0.0407934991
+      },
+      "feet": {
+        "estimated_diameter_min": 96.3252240483,
+        "estimated_diameter_max": 215.38974892
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 127721078700000000,
+    "impact_velocity_kps": 14.8392983177,
+    "impact_energy_mt": 3360993229.5324597,
+    "impact_lat": -58.935111877,
+    "impact_lon": -0.7801213298
+  },
+  {
+    "id": "54550573",
+    "name": "(2025 TN1)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54550573",
+    "absolute_magnitude_h": 27.224,
+    "estimated_diameter": {
+      "kilometers": {
+        "estimated_diameter_min": 0.0095445394,
+        "estimated_diameter_max": 0.021342239
+      },
+      "meters": {
+        "estimated_diameter_min": 9.5445394338,
+        "estimated_diameter_max": 21.3422389879
+      },
+      "miles": {
+        "estimated_diameter_min": 0.0059307,
+        "estimated_diameter_max": 0.0132614484
+      },
+      "feet": {
+        "estimated_diameter_min": 31.3141067559,
+        "estimated_diameter_max": 70.0204713609
+      }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "asteroid_mass": 14090145540000000,
+    "impact_velocity_kps": 13.4794807787,
+    "impact_energy_mt": 305942728.24881417,
+    "impact_lat": 2.6191432679,
+    "impact_lon": -27.0060426345
+  }
+]

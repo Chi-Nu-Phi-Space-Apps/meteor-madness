@@ -1,5 +1,5 @@
 import React from "react";
-import type { Data, StateSetter } from "../types";
+import type { PrunedAsteroid, StateSetter } from "../types";
 import { GameState } from "../Game";
 import { preload } from "react-dom";
 
@@ -12,16 +12,16 @@ export default function Picker({
   selectedAsteroid,
   setSelectedAsteroid,
 }: {
-  data: Data;
+  data: PrunedAsteroid[];
   setGameState: StateSetter<GameState>;
   selectedAsteroid: string;
   setSelectedAsteroid: StateSetter<string>;
 }) {
-  const allObjects = Object.values(data.near_earth_objects).flat();
+  // TODO: move this to the hover over submit?
   preload("./photos/worldMap.jpg", { as: "image" }); // Reduce waiting time by preloading the map
 
   // Remove parentheses from names and sort alphabetically
-  const cleanedNames = allObjects
+  const cleanedNames = data
     .map((obj) => obj.name.replace(nameCleaningRegex, ""))
     .sort((a, b) => a.localeCompare(b));
 

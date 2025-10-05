@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import type { NEODescriptor } from "../types";
+import type { PrunedAsteroid } from "../types";
 
 function OverlayOnImage({
   src,
@@ -50,7 +50,7 @@ function OverlayOnImage({
 export default function DataViewer({
   asteroid
 }: {
-  asteroid: NEODescriptor;
+  asteroid: PrunedAsteroid;
 }) {
   const ref = React.useRef<HTMLImageElement>(null);
   const [xPercent, setXPercent] = React.useState<number>(0);
