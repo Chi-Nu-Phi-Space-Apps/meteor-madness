@@ -21,33 +21,39 @@ body {
 }
 
 h1 {
-  font-family:'PixelGame', sans-serif;
+  font-family: 'PixelGame', sans-serif;
   text-transform: uppercase;
   text-align: center;
-  font-size: 72px;
-  letter-spacing: 2px;
-  margin-top: 40px;
+  font-size: 80px;
+  letter-spacing: 3px;
+  margin-top: 50px;
 
-  /* Meteor gradient */
-  background: linear-gradient(90deg, #ff7300, #ff004c, #ffcc00);
-  background-size: 400% 400%;
+  /* Retro blue→purple→pink gradient */
+  background: linear-gradient(180deg, #8be9fd 0%, #6272a4 45%, #bd93f9 60%, #ff79c6 80%, #ffb6c1 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 
-  /* Optional glowing shadow */
+  /* Chrome-style shadow layers */
   text-shadow:
-    0 0 10px rgba(255, 128, 0, 0.6),
-    0 0 20px rgba(255, 0, 0, 0.4);
+    0 2px 0 #ffffff55,
+    0 4px 0 #e0e0e0,
+    0 6px 0 #b060d1,
+    0 8px 6px rgba(0, 0, 0, 0.6);
 
-  /* Animate gradient movement */
-  animation: meteorGlow 6s ease infinite;
+  /* Subtle glow */
+  filter: drop-shadow(0 0 10px rgba(255, 0, 255, 0.5));
+
+  /* Optional animation for shimmer */
+  background-size: 100% 200%;
+  animation: shine 6s ease-in-out infinite;
 }
 
-@keyframes meteorGlow {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
+@keyframes shine {
+  0% { background-position: 50% 0%; }
+  50% { background-position: 50% 100%; }
+  100% { background-position: 50% 0%; }
 }
+
 
 
 .center-div {
