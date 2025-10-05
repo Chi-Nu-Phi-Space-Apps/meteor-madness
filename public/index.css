@@ -161,3 +161,16 @@ p {
   width: 50%;
   padding-bottom: 30px;
 }
+
+.dataContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 3%;
+}
+
+.dataBox {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  text-align: center;
+}
