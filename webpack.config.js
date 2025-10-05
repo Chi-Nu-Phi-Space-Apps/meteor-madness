@@ -18,6 +18,5 @@ module.exports = {
   resolve: {
     extensions: ['.js', '.ts', '.tsx'],
   },
-  // TODO
-  mode: 'development',
+  mode: 'production',
 };
