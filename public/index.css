@@ -28,30 +28,65 @@ h1 {
   letter-spacing: 3px;
   margin-top: 50px;
 
-  /* Retro blue→purple→pink gradient */
-  background: linear-gradient(180deg, #8be9fd 0%, #6272a4 45%, #bd93f9 60%, #ff79c6 80%, #ffb6c1 100%);
+  /* Base gradient (it will animate colors too) */
+  background: linear-gradient(180deg, #8be9fd 0%, #6272a4 40%, #bd93f9 70%, #ff79c6 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 
-  /* Chrome-style shadow layers */
+  /* Initial glow */
   text-shadow:
-    0 2px 0 #ffffff55,
-    0 4px 0 #e0e0e0,
-    0 6px 0 #b060d1,
-    0 8px 6px rgba(0, 0, 0, 0.6);
+    0 0 5px #ff79c6,
+    0 0 10px #ff79c6,
+    0 0 20px #bd93f9,
+    0 0 40px #8be9fd,
+    0 0 80px #8be9fd;
 
-  /* Subtle glow */
-  filter: drop-shadow(0 0 10px rgba(255, 0, 255, 0.5));
-
-  /* Optional animation for shimmer */
-  background-size: 100% 200%;
-  animation: shine 6s ease-in-out infinite;
+  /* Two animations: one for glowing, one for color shifting */
+  animation:
+    neonPulse 2.5s ease-in-out infinite,
+    colorShift 6s linear infinite;
 }
 
-@keyframes shine {
-  0% { background-position: 50% 0%; }
-  50% { background-position: 50% 100%; }
-  100% { background-position: 50% 0%; }
+@keyframes neonPulse {
+  0%, 100% {
+    text-shadow:
+      0 0 5px var(--neon-color1, #ff79c6),
+      0 0 10px var(--neon-color1, #ff79c6),
+      0 0 20px var(--neon-color2, #bd93f9),
+      0 0 40px var(--neon-color3, #8be9fd),
+      0 0 80px var(--neon-color3, #8be9fd);
+  }
+  50% {
+    text-shadow:
+      0 0 10px var(--neon-color1, #ff79c6),
+      0 0 20px var(--neon-color1, #ff79c6),
+      0 0 40px var(--neon-color2, #bd93f9),
+      0 0 80px var(--neon-color3, #8be9fd),
+      0 0 160px var(--neon-color3, #8be9fd);
+  }
+}
+
+@keyframes colorShift {
+  0% {
+    --neon-color1: #ff79c6;
+    --neon-color2: #bd93f9;
+    --neon-color3: #8be9fd;
+  }
+  33% {
+    --neon-color1: #8be9fd;
+    --neon-color2: #50fa7b;
+    --neon-color3: #ffb86c;
+  }
+  66% {
+    --neon-color1: #ffb86c;
+    --neon-color2: #ff79c6;
+    --neon-color3: #bd93f9;
+  }
+  100% {
+    --neon-color1: #ff79c6;
+    --neon-color2: #bd93f9;
+    --neon-color3: #8be9fd;
+  }
 }
 
 
