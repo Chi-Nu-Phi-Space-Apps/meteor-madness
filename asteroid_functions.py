@@ -88,5 +88,6 @@ def simulate_impact():
     df['impact_lon'] = [c['impact_lon'] for c in coords]
 
     df.to_csv("data/simulated_asteroid_data.csv", index=False)
+    df.to_json("data/simulated_asteroid_data.json", index=False)
 
     return df
