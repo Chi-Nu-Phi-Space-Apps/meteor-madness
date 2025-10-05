@@ -39,10 +39,6 @@ export default function App() {
   return (
     <div>
       <h1>Chi Nu Phi Meteor Madness!</h1>
-      <p>
-        Have you wondered what asteroid impacts could actually result in? Try
-        your hand at a GeoGuessr-style game complete with real data!
-      </p>
       <Game data={data} />
       <Instructions />
     </div>
