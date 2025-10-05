@@ -64,7 +64,11 @@ export default function DataViewer({
     <div>
       <div id="gameData">
         <OverlayOnImage src="./photos/worldMap.jpg" x={xPercent} y={yPercent} ref={ref}>
-          <p style={{ font: "caption", fontSize: "1.5rem", color: "red" }}>x</p>
+        <img 
+          src="./photos/crater.png" 
+          alt="marker" 
+          style={{ width: "32px", height: "32px" }} 
+          />
         </OverlayOnImage>
       </div>
       {/* center the button */}
