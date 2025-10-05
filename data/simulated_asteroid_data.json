@@ -10,12 +10,12 @@
     "close_approach_date":"2025-10-03",
     "relative_velocity_kps":14.5278596145,
     "miss_distance_km":17860588.5685322843,
-    "diameter":158.87580491,
-    "asteroid_mass":3.989456802e+18,
+    "diameter":191.3130280679,
+    "asteroid_mass":8.199064316e+18,
     "impact_velocity_kps":18.3353565817,
-    "impact_energy_mt":160276856550.6072387695,
-    "impact_lat":76.8113322756,
-    "impact_lon":-148.8872230257
+    "impact_energy_mt":329398291689.0817871094,
+    "impact_lat":28.9420488783,
+    "impact_lon":-93.6170814009
   },
   {
     "id":3716631,
@@ -28,12 +28,12 @@
     "close_approach_date":"2025-10-03",
     "relative_velocity_kps":7.7084299078,
     "miss_distance_km":12307670.3482494354,
-    "diameter":158.6901825251,
-    "asteroid_mass":4.004401343e+18,
+    "diameter":165.8226856127,
+    "asteroid_mass":4.313690759e+18,
     "impact_velocity_kps":13.5847888332,
-    "impact_energy_mt":88312404753.7817382812,
-    "impact_lat":-44.555970953,
-    "impact_lon":-95.3659030585
+    "impact_energy_mt":95133422356.368347168,
+    "impact_lat":-48.1399432837,
+    "impact_lon":-156.9206609617
   },
   {
     "id":3720000,
@@ -46,12 +46,12 @@
     "close_approach_date":"2025-10-03",
     "relative_velocity_kps":11.569203976,
     "miss_distance_km":39827549.3885557503,
-    "diameter":35.0488582114,
-    "asteroid_mass":4.070375825e+16,
+    "diameter":56.4496587233,
+    "asteroid_mass":1.687934438e+17,
     "impact_velocity_kps":16.0926404495,
-    "impact_energy_mt":1259700944.5853469372,
-    "impact_lat":-54.8766206815,
-    "impact_lon":-143.1007928005
+    "impact_energy_mt":5223823789.3302783966,
+    "impact_lat":-75.9366554855,
+    "impact_lon":-86.5004635207
   },
   {
     "id":54201807,
@@ -64,12 +64,12 @@
     "close_approach_date":"2025-10-03",
     "relative_velocity_kps":5.9294008854,
     "miss_distance_km":7782741.8215939198,
-    "diameter":21.8276555731,
-    "asteroid_mass":8537509758254502.0,
+    "diameter":22.5173090884,
+    "asteroid_mass":1.372890728e+16,
     "impact_velocity_kps":12.6603471856,
-    "impact_energy_mt":163531256.1019682288,
-    "impact_lat":-23.9629757245,
-    "impact_lon":-7.295462788
+    "impact_energy_mt":262969591.3619908392,
+    "impact_lat":-15.7008249266,
+    "impact_lon":-132.4982019449
   },
   {
     "id":54212590,
@@ -82,12 +82,12 @@
     "close_approach_date":"2025-10-03",
     "relative_velocity_kps":22.1261472346,
     "miss_distance_km":66740907.7258073315,
-    "diameter":20.7980972363,
-    "asteroid_mass":1.022671299e+16,
+    "diameter":23.6628303453,
+    "asteroid_mass":1.118180465e+16,
     "impact_velocity_kps":24.7930027921,
-    "impact_energy_mt":751229536.4747778177,
-    "impact_lat":48.8754845867,
-    "impact_lon":40.4782362411
+    "impact_energy_mt":821388253.6052626371,
+    "impact_lat":-69.1420523422,
+    "impact_lon":-84.5179668055
   },
   {
     "id":54265626,
@@ -100,12 +100,12 @@
     "close_approach_date":"2025-10-03",
     "relative_velocity_kps":7.6817966076,
     "miss_distance_km":71679427.6286382526,
-    "diameter":6.1374816124,
-    "asteroid_mass":158013268771335.875,
+    "diameter":4.1376093945,
+    "asteroid_mass":56834580074840.2109375,
     "impact_velocity_kps":13.5696939951,
-    "impact_energy_mt":3477058.47220599,
-    "impact_lat":30.3510729518,
-    "impact_lon":0.914571748
+    "impact_energy_mt":1250636.4794558398,
+    "impact_lat":38.8186691525,
+    "impact_lon":-89.6945094534
   },
   {
     "id":54300842,
@@ -118,12 +118,12 @@
     "close_approach_date":"2025-10-03",
     "relative_velocity_kps":11.9542124902,
     "miss_distance_km":16201986.2726347912,
-    "diameter":185.310936928,
-    "asteroid_mass":7.41193571e+18,
+    "diameter":169.2280520811,
+    "asteroid_mass":3.03624028e+18,
     "impact_velocity_kps":16.3716154444,
-    "impact_energy_mt":237406738588.4461669922,
-    "impact_lat":1.9085652719,
-    "impact_lon":-111.4481532512
+    "impact_energy_mt":97251774790.0345001221,
+    "impact_lat":56.3962863948,
+    "impact_lon":-90.5461565442
   },
   {
     "id":54309253,
@@ -136,12 +136,12 @@
     "close_approach_date":"2025-10-03",
     "relative_velocity_kps":2.376499605,
     "miss_distance_km":21283967.7801949121,
-    "diameter":43.1166285818,
-    "asteroid_mass":7.603297279e+16,
+    "diameter":26.7478451288,
+    "asteroid_mass":2.066340134e+16,
     "impact_velocity_kps":11.435661169,
-    "impact_energy_mt":1188236414.9055092335,
-    "impact_lat":-75.8925575396,
-    "impact_lon":-11.2506048788
+    "impact_energy_mt":322925765.3310728073,
+    "impact_lat":-57.7933196514,
+    "impact_lon":160.542660374
   },
   {
     "id":54324411,
@@ -154,12 +154,12 @@
     "close_approach_date":"2025-10-03",
     "relative_velocity_kps":9.0730597852,
     "miss_distance_km":30486923.4283020273,
-    "diameter":102.9177641145,
-    "asteroid_mass":6.095826751e+17,
+    "diameter":94.8980360814,
+    "asteroid_mass":6.41404329e+17,
     "impact_velocity_kps":14.403020859,
-    "impact_energy_mt":15111867018.8720684052,
-    "impact_lat":86.8301879003,
-    "impact_lon":15.4847581954
+    "impact_energy_mt":15900742133.151599884,
+    "impact_lat":-37.2173498441,
+    "impact_lon":27.721064405
   },
   {
     "id":54383301,
@@ -172,12 +172,12 @@
     "close_approach_date":"2025-10-03",
     "relative_velocity_kps":13.598403206,
     "miss_distance_km":28643357.0094752796,
-    "diameter":30.3523122588,
-    "asteroid_mass":1.949575397e+16,
+    "diameter":29.4146071059,
+    "asteroid_mass":2.309589683e+16,
     "impact_velocity_kps":17.608042644,
-    "impact_energy_mt":722338106.9234733582,
-    "impact_lat":-67.4485432208,
-    "impact_lon":90.3368088726
+    "impact_energy_mt":855727171.1077617407,
+    "impact_lat":2.8888721019,
+    "impact_lon":20.8642318998
   },
   {
     "id":54385247,
@@ -190,12 +190,12 @@
     "close_approach_date":"2025-10-03",
     "relative_velocity_kps":31.8007142527,
     "miss_distance_km":59952516.8562348783,
-    "diameter":50.8445036824,
-    "asteroid_mass":1.803106765e+17,
+    "diameter":86.4581680892,
+    "asteroid_mass":6.261322106e+17,
     "impact_velocity_kps":33.7107108051,
-    "impact_energy_mt":24487000549.4403572083,
-    "impact_lat":-88.9693561439,
-    "impact_lon":78.184784333
+    "impact_energy_mt":85031569320.8744506836,
+    "impact_lat":-28.7052928523,
+    "impact_lon":-10.5933041266
   },
   {
     "id":54417174,
@@ -208,12 +208,12 @@
     "close_approach_date":"2025-10-03",
     "relative_velocity_kps":26.1780296583,
     "miss_distance_km":71944436.9193107486,
-    "diameter":296.6859130932,
-    "asteroid_mass":2.487754266e+19,
+    "diameter":375.9318582837,
+    "asteroid_mass":5.524411242e+19,
     "impact_velocity_kps":28.4678034416,
-    "impact_energy_mt":2409315780501.6098632812,
-    "impact_lat":60.2458424538,
-    "impact_lon":149.7330205762
+    "impact_energy_mt":5350227458880.162109375,
+    "impact_lat":-64.5761109644,
+    "impact_lon":-153.6243188545
   },
   {
     "id":54486931,
@@ -226,12 +226,12 @@
     "close_approach_date":"2025-10-03",
     "relative_velocity_kps":11.8351736661,
     "miss_distance_km":7983747.3989222106,
-    "diameter":8.8649709199,
-    "asteroid_mass":391909436711696.75,
+    "diameter":8.2734360517,
+    "asteroid_mass":576849661012944.125,
     "impact_velocity_kps":16.2848988854,
-    "impact_energy_mt":12420359.9464983493,
-    "impact_lat":-53.2664941164,
-    "impact_lon":35.0407234668
+    "impact_energy_mt":18281469.5275299735,
+    "impact_lat":-4.9239281081,
+    "impact_lon":-144.4504609014
   },
   {
     "id":54542743,
@@ -244,12 +244,12 @@
     "close_approach_date":"2025-10-03",
     "relative_velocity_kps":11.8906355112,
     "miss_distance_km":12572284.4312689696,
-    "diameter":42.750140307,
-    "asteroid_mass":1.018573146e+17,
+    "diameter":64.0649957203,
+    "asteroid_mass":2.08958989e+17,
     "impact_velocity_kps":16.3252506523,
-    "impact_energy_mt":3244070370.5824694633,
-    "impact_lat":61.0378279459,
-    "impact_lon":88.5530801577
+    "impact_energy_mt":6655169221.6710720062,
+    "impact_lat":24.7014091634,
+    "impact_lon":-11.4629792987
   },
   {
     "id":54544998,
@@ -262,12 +262,12 @@
     "close_approach_date":"2025-10-03",
     "relative_velocity_kps":5.0764958157,
     "miss_distance_km":7514832.2321363697,
-    "diameter":45.9339752856,
-    "asteroid_mass":8.899473668e+16,
+    "diameter":33.7584547744,
+    "asteroid_mass":3.260111699e+16,
     "impact_velocity_kps":12.284030518,
-    "impact_energy_mt":1604812965.1251280308,
-    "impact_lat":-84.18557719,
-    "impact_lon":126.0406551849
+    "impact_energy_mt":587885274.7565486431,
+    "impact_lat":-27.7732514561,
+    "impact_lon":13.7298243437
   },
   {
     "id":54546468,
@@ -280,12 +280,12 @@
     "close_approach_date":"2025-10-03",
     "relative_velocity_kps":7.2831111038,
     "miss_distance_km":17635842.8713798672,
-    "diameter":35.0191406395,
-    "asteroid_mass":3.295037371e+16,
+    "diameter":47.6113945324,
+    "asteroid_mass":8.15489584e+16,
     "impact_velocity_kps":13.3480449261,
-    "impact_energy_mt":701574818.2522441149,
-    "impact_lat":41.6686394721,
-    "impact_lon":124.1767069922
+    "impact_energy_mt":1736329189.2812206745,
+    "impact_lat":73.1929237199,
+    "impact_lon":-58.656618348
   },
   {
     "id":54547367,
@@ -298,12 +298,12 @@
     "close_approach_date":"2025-10-03",
     "relative_velocity_kps":4.9706195643,
     "miss_distance_km":1792229.695687772,
-    "diameter":10.5785362768,
-    "asteroid_mass":1823072642903725.5,
+    "diameter":15.0890306138,
+    "asteroid_mass":4710879260151922.0,
     "impact_velocity_kps":12.2406558179,
-    "impact_energy_mt":32643121.074185811,
-    "impact_lat":-25.6922895361,
-    "impact_lon":-107.7613766908
+    "impact_energy_mt":84350891.1471998394,
+    "impact_lat":47.9056446336,
+    "impact_lon":-64.8051056888
   },
   {
     "id":54549682,
@@ -316,12 +316,12 @@
     "close_approach_date":"2025-10-03",
     "relative_velocity_kps":16.1451012843,
     "miss_distance_km":85671.453875221,
-    "diameter":13.1494533492,
-    "asteroid_mass":2312721988747348.0,
+    "diameter":14.543908195,
+    "asteroid_mass":3188954525608385.5,
     "impact_velocity_kps":19.6415603118,
-    "impact_energy_mt":106623694.763975203,
-    "impact_lat":11.7706711104,
-    "impact_lon":-66.3644660551
+    "impact_energy_mt":147020746.8122148514,
+    "impact_lat":19.006032115,
+    "impact_lon":-48.4664992677
   },
   {
     "id":54549686,
@@ -334,12 +334,12 @@
     "close_approach_date":"2025-10-03",
     "relative_velocity_kps":8.6457557099,
     "miss_distance_km":4754758.890851574,
-    "diameter":84.5043857907,
-    "asteroid_mass":5.368185934e+17,
+    "diameter":85.6002031264,
+    "asteroid_mass":5.881723253e+17,
     "impact_velocity_kps":14.1377398404,
-    "impact_energy_mt":12822297512.0069999695,
-    "impact_lat":-67.9920524133,
-    "impact_lon":124.1448542586
+    "impact_energy_mt":14048918267.3649787903,
+    "impact_lat":44.4173312656,
+    "impact_lon":-169.5221407869
   },
   {
     "id":54550514,
@@ -352,12 +352,12 @@
     "close_approach_date":"2025-10-03",
     "relative_velocity_kps":9.1488496108,
     "miss_distance_km":647814.666864232,
-    "diameter":16.8466496636,
-    "asteroid_mass":5140329505845564.0,
+    "diameter":11.3199546311,
+    "asteroid_mass":1008365486204918.5,
     "impact_velocity_kps":14.45088389,
-    "impact_energy_mt":128279751.7202357799,
-    "impact_lat":-9.1075302807,
-    "impact_lon":-143.8482423333
+    "impact_energy_mt":25164315.646793101,
+    "impact_lat":83.6926054652,
+    "impact_lon":96.3725105575
   },
   {
     "id":3781988,
@@ -370,12 +370,12 @@
     "close_approach_date":"2025-10-02",
     "relative_velocity_kps":26.1254135042,
     "miss_distance_km":56731410.1961811408,
-    "diameter":187.0592653045,
-    "asteroid_mass":5.672795309e+18,
+    "diameter":177.7979695756,
+    "asteroid_mass":6.671806463e+18,
     "impact_velocity_kps":28.4194269254,
-    "impact_energy_mt":547527673023.116394043,
-    "impact_lat":13.6240884541,
-    "impact_lon":-99.9324138541
+    "impact_energy_mt":643950375159.3912353516,
+    "impact_lat":63.3396740066,
+    "impact_lon":-167.408664404
   },
   {
     "id":3782063,
@@ -388,12 +388,12 @@
     "close_approach_date":"2025-10-02",
     "relative_velocity_kps":15.0777144903,
     "miss_distance_km":44783877.4068716988,
-    "diameter":79.4696154338,
-    "asteroid_mass":3.862750173e+17,
+    "diameter":138.1220787007,
+    "asteroid_mass":1.964290223e+18,
     "impact_velocity_kps":18.7740264794,
-    "impact_energy_mt":16270084228.5348625183,
-    "impact_lat":-36.8589669406,
-    "impact_lon":-0.9406826485
+    "impact_energy_mt":82736822082.4978637695,
+    "impact_lat":-14.3502525637,
+    "impact_lon":-157.5424952685
   },
   {
     "id":3873325,
@@ -406,12 +406,12 @@
     "close_approach_date":"2025-10-02",
     "relative_velocity_kps":11.7173474999,
     "miss_distance_km":30330976.9538145438,
-    "diameter":20.4498140527,
-    "asteroid_mass":1.089824083e+16,
+    "diameter":28.6041106112,
+    "asteroid_mass":1.279567025e+16,
     "impact_velocity_kps":16.1994700047,
-    "impact_energy_mt":341771891.0002829432,
-    "impact_lat":-80.5972363013,
-    "impact_lon":-37.6744637043
+    "impact_energy_mt":401275810.0941607952,
+    "impact_lat":-73.5815788018,
+    "impact_lon":117.2673315719
   },
   {
     "id":3879167,
@@ -424,12 +424,12 @@
     "close_approach_date":"2025-10-02",
     "relative_velocity_kps":26.4724114291,
     "miss_distance_km":72154359.3973586857,
-    "diameter":25.3377014833,
-    "asteroid_mass":1.460093764e+16,
+    "diameter":21.6032092353,
+    "asteroid_mass":8190290029149417.0,
     "impact_velocity_kps":28.7387397579,
-    "impact_energy_mt":1441101313.3725190163,
-    "impact_lat":-18.3122676978,
-    "impact_lon":175.4393008184
+    "impact_energy_mt":808375325.4529308081,
+    "impact_lat":-1.624880236,
+    "impact_lon":-45.3653597879
   },
   {
     "id":54016464,
@@ -442,12 +442,12 @@
     "close_approach_date":"2025-10-02",
     "relative_velocity_kps":4.6726318347,
     "miss_distance_km":5256534.0675309869,
-    "diameter":21.0720829282,
-    "asteroid_mass":5169406383490365.0,
+    "diameter":12.5360227276,
+    "asteroid_mass":1522721758297490.5,
     "impact_velocity_kps":12.122709444,
-    "impact_energy_mt":90785898.3873846382,
-    "impact_lat":79.0374242531,
-    "impact_lon":92.0720861002
+    "impact_energy_mt":26742270.304490041,
+    "impact_lat":-22.9137270889,
+    "impact_lon":-169.9734474273
   },
   {
     "id":54130760,
@@ -460,12 +460,12 @@
     "close_approach_date":"2025-10-02",
     "relative_velocity_kps":10.8419893573,
     "miss_distance_km":60774131.9797785506,
-    "diameter":76.6377808793,
-    "asteroid_mass":4.851883158e+17,
+    "diameter":68.1524234739,
+    "asteroid_mass":4.711832881e+17,
     "impact_velocity_kps":15.5780399673,
-    "impact_energy_mt":14070654190.9111537933,
-    "impact_lat":66.6924907507,
-    "impact_lon":102.2078906909
+    "impact_energy_mt":13664502816.1327629089,
+    "impact_lat":30.7504018576,
+    "impact_lon":24.4070532973
   },
   {
     "id":54185582,
@@ -478,12 +478,12 @@
     "close_approach_date":"2025-10-02",
     "relative_velocity_kps":11.9261481621,
     "miss_distance_km":41747441.1941686124,
-    "diameter":82.1199609733,
-    "asteroid_mass":5.137507258e+17,
+    "diameter":82.8080540038,
+    "asteroid_mass":5.035370797e+17,
     "impact_velocity_kps":16.3511347002,
-    "impact_energy_mt":16414458845.8162651062,
-    "impact_lat":-1.5234884601,
-    "impact_lon":177.0537930075
+    "impact_energy_mt":16088130405.0841960907,
+    "impact_lat":-0.0758131204,
+    "impact_lon":-118.5581198212
   },
   {
     "id":54212589,
@@ -496,12 +496,12 @@
     "close_approach_date":"2025-10-02",
     "relative_velocity_kps":7.6064785732,
     "miss_distance_km":23104432.6526654214,
-    "diameter":29.5998586366,
-    "asteroid_mass":1.946239338e+16,
+    "diameter":32.477478776,
+    "asteroid_mass":2.375751494e+16,
     "impact_velocity_kps":13.5271989815,
-    "impact_energy_mt":425588938.5718483329,
-    "impact_lat":3.3633670598,
-    "impact_lon":43.4091330986
+    "impact_energy_mt":519511417.111302495,
+    "impact_lat":-17.3553085328,
+    "impact_lon":86.9900681721
   },
   {
     "id":54321452,
@@ -514,12 +514,12 @@
     "close_approach_date":"2025-10-02",
     "relative_velocity_kps":11.6249736537,
     "miss_distance_km":33088937.0456681438,
-    "diameter":120.1897950798,
-    "asteroid_mass":9.232383109e+17,
+    "diameter":97.9134915307,
+    "asteroid_mass":8.763113621e+17,
     "impact_velocity_kps":16.1327805554,
-    "impact_energy_mt":28715117587.6047668457,
-    "impact_lat":-62.9881992524,
-    "impact_lon":-25.8251316055
+    "impact_energy_mt":27255567180.3950996399,
+    "impact_lat":-38.6969123499,
+    "impact_lon":-132.9601948964
   },
   {
     "id":54385233,
@@ -532,12 +532,12 @@
     "close_approach_date":"2025-10-02",
     "relative_velocity_kps":17.4106829019,
     "miss_distance_km":46680204.6607206687,
-    "diameter":33.3612376992,
-    "asteroid_mass":4.693630031e+16,
+    "diameter":16.9892425774,
+    "asteroid_mass":3783712513848967.5,
     "impact_velocity_kps":20.6944068557,
-    "impact_energy_mt":2402111424.2130470276,
-    "impact_lat":76.6006557506,
-    "impact_lon":2.1747449071
+    "impact_energy_mt":193643278.1354593933,
+    "impact_lat":49.2440445394,
+    "impact_lon":41.5338355533
   },
   {
     "id":54393149,
@@ -550,12 +550,12 @@
     "close_approach_date":"2025-10-02",
     "relative_velocity_kps":7.5570351211,
     "miss_distance_km":19385903.2911609896,
-    "diameter":59.1928504345,
-    "asteroid_mass":2.63748543e+17,
+    "diameter":56.6272625708,
+    "asteroid_mass":1.066284136e+17,
     "impact_velocity_kps":13.4994583529,
-    "impact_energy_mt":5743823477.3901252747,
-    "impact_lat":-19.7799756325,
-    "impact_lon":7.4443564983
+    "impact_energy_mt":2322116280.4131760597,
+    "impact_lat":79.6523344366,
+    "impact_lon":84.425605548
   },
   {
     "id":54414145,
@@ -568,12 +568,12 @@
     "close_approach_date":"2025-10-02",
     "relative_velocity_kps":5.4206023683,
     "miss_distance_km":36945858.8132778853,
-    "diameter":9.1136895785,
-    "asteroid_mass":842830328872661.5,
+    "diameter":12.517508551,
+    "asteroid_mass":2038920762084476.25,
     "impact_velocity_kps":12.4301860821,
-    "impact_energy_mt":15562298.5949119478,
-    "impact_lat":60.4890196747,
-    "impact_lon":10.5029302291
+    "impact_energy_mt":37647308.8638911471,
+    "impact_lat":-20.5111194998,
+    "impact_lon":144.3469623895
   },
   {
     "id":54486934,
@@ -586,12 +586,12 @@
     "close_approach_date":"2025-10-02",
     "relative_velocity_kps":22.4859292979,
     "miss_distance_km":21009242.3173029311,
-    "diameter":108.2462350261,
-    "asteroid_mass":1.116246579e+18,
+    "diameter":104.7571341771,
+    "asteroid_mass":1.517114702e+18,
     "impact_velocity_kps":25.1146095409,
-    "impact_energy_mt":84137834554.3104705811,
-    "impact_lat":89.0922194465,
-    "impact_lon":82.7288618527
+    "impact_energy_mt":114353538150.6864929199,
+    "impact_lat":54.6406500042,
+    "impact_lon":70.7027235099
   },
   {
     "id":54546119,
@@ -604,12 +604,12 @@
     "close_approach_date":"2025-10-02",
     "relative_velocity_kps":5.882225555,
     "miss_distance_km":4673627.7921700012,
-    "diameter":14.8875318302,
-    "asteroid_mass":2571592435883080.0,
+    "diameter":19.6437553273,
+    "asteroid_mass":3772962758323170.0,
     "impact_velocity_kps":12.6383216243,
-    "impact_energy_mt":49086184.407968767,
-    "impact_lat":-26.5718580551,
-    "impact_lon":40.1812494253
+    "impact_energy_mt":72017767.3317242265,
+    "impact_lat":39.2261734314,
+    "impact_lon":36.7392240264
   },
   {
     "id":54546407,
@@ -622,12 +622,12 @@
     "close_approach_date":"2025-10-02",
     "relative_velocity_kps":4.6391294296,
     "miss_distance_km":26318432.3218297027,
-    "diameter":56.6659343353,
-    "asteroid_mass":1.756859749e+17,
+    "diameter":40.7178094864,
+    "asteroid_mass":6.834168075e+16,
     "impact_velocity_kps":12.1098355837,
-    "impact_energy_mt":3078873990.6231927872,
-    "impact_lat":-85.6026127699,
-    "impact_lon":56.1731738804
+    "impact_energy_mt":1197679117.2332310677,
+    "impact_lat":48.5350583102,
+    "impact_lon":-85.4537561114
   },
   {
     "id":54545769,
@@ -640,12 +640,12 @@
     "close_approach_date":"2025-10-02",
     "relative_velocity_kps":3.7297175659,
     "miss_distance_km":1393391.526813677,
-    "diameter":9.7728755573,
-    "asteroid_mass":1099962291998911.625,
+    "diameter":12.2363598451,
+    "asteroid_mass":2230063662513515.75,
     "impact_velocity_kps":11.7914116679,
-    "impact_energy_mt":18276276.9134202935,
-    "impact_lat":-80.3942823704,
-    "impact_lon":119.2930272834
+    "impact_energy_mt":37053325.670452714,
+    "impact_lat":45.4021002332,
+    "impact_lon":95.1508111042
   },
   {
     "id":54546465,
@@ -658,12 +658,12 @@
     "close_approach_date":"2025-10-02",
     "relative_velocity_kps":9.5854976818,
     "miss_distance_km":20374562.0292691737,
-    "diameter":53.0948771592,
-    "asteroid_mass":1.212785717e+17,
+    "diameter":76.3244139498,
+    "asteroid_mass":4.075383926e+17,
     "impact_velocity_kps":14.7312036782,
-    "impact_energy_mt":3145131952.056166172,
-    "impact_lat":-65.2843353127,
-    "impact_lon":166.920437966
+    "impact_energy_mt":10568742704.258140564,
+    "impact_lat":79.1470946027,
+    "impact_lon":-174.7825834764
   },
   {
     "id":54549111,
@@ -676,12 +676,12 @@
     "close_approach_date":"2025-10-02",
     "relative_velocity_kps":7.2152478505,
     "miss_distance_km":9128731.3933247216,
-    "diameter":34.8676489803,
-    "asteroid_mass":3.504273722e+16,
+    "diameter":31.656708414,
+    "asteroid_mass":2.875300469e+16,
     "impact_velocity_kps":13.311138101,
-    "impact_energy_mt":742004824.066003561,
-    "impact_lat":20.2199222218,
-    "impact_lon":-135.5718191007
+    "impact_energy_mt":608824249.4345760345,
+    "impact_lat":-51.1905270864,
+    "impact_lon":58.910701118
   },
   {
     "id":54549696,
@@ -694,12 +694,12 @@
     "close_approach_date":"2025-10-02",
     "relative_velocity_kps":6.0634960089,
     "miss_distance_km":1996332.5921959041,
-    "diameter":11.8198425214,
-    "asteroid_mass":2284427532577699.0,
+    "diameter":11.9861704533,
+    "asteroid_mass":1439609232341634.25,
     "impact_velocity_kps":12.7237014996,
-    "impact_energy_mt":44195968.7773961276,
-    "impact_lat":82.1490340874,
-    "impact_lon":177.0101161144
+    "impact_energy_mt":27851583.7236601152,
+    "impact_lat":49.5245350683,
+    "impact_lon":62.9611091391
   },
   {
     "id":54549117,
@@ -712,12 +712,12 @@
     "close_approach_date":"2025-10-02",
     "relative_velocity_kps":11.9995883073,
     "miss_distance_km":11673450.2531833723,
-    "diameter":57.3041020559,
-    "asteroid_mass":1.44606118e+17,
+    "diameter":38.7555314293,
+    "asteroid_mass":6.413035462e+16,
     "impact_velocity_kps":16.4047772172,
-    "impact_energy_mt":4650564474.1533899307,
-    "impact_lat":76.9253971885,
-    "impact_lon":-146.4467681186
+    "impact_energy_mt":2062446271.7248215675,
+    "impact_lat":8.0906187328,
+    "impact_lon":-91.9870042312
   },
   {
     "id":54550575,
@@ -730,12 +730,12 @@
     "close_approach_date":"2025-10-02",
     "relative_velocity_kps":12.6265620355,
     "miss_distance_km":225395.176305019,
-    "diameter":15.0999956892,
-    "asteroid_mass":4937194719091973.0,
+    "diameter":15.0398764066,
+    "asteroid_mass":3248362358559772.5,
     "impact_velocity_kps":16.8688074515,
-    "impact_energy_mt":167890973.1013805866,
-    "impact_lat":15.8770544375,
-    "impact_lon":-143.2933785188
+    "impact_energy_mt":110461658.5721371472,
+    "impact_lat":-36.0506363295,
+    "impact_lon":86.6577303558
   },
   {
     "id":2152664,
@@ -748,12 +748,12 @@
     "close_approach_date":"2025-09-29",
     "relative_velocity_kps":18.6064298526,
     "miss_distance_km":3852719.3540044208,
-    "diameter":313.5814431718,
-    "asteroid_mass":3.016323342e+19,
+    "diameter":328.9824368054,
+    "asteroid_mass":2.978606151e+19,
     "impact_velocity_kps":21.7100397941,
-    "impact_energy_mt":1698937734599.7595214844,
-    "impact_lat":47.932018059,
-    "impact_lon":-110.5262054927
+    "impact_energy_mt":1677693606601.8720703125,
+    "impact_lat":67.7646934331,
+    "impact_lon":135.8131999394
   },
   {
     "id":2418198,
@@ -766,12 +766,12 @@
     "close_approach_date":"2025-09-29",
     "relative_velocity_kps":17.9454671326,
     "miss_distance_km":45709341.6513938606,
-    "diameter":558.5081689483,
-    "asteroid_mass":2.399548054e+20,
+    "diameter":750.7552728935,
+    "asteroid_mass":3.877404741e+20,
     "impact_velocity_kps":21.146309054,
-    "impact_energy_mt":12822624675665.587890625,
-    "impact_lat":33.8730562519,
-    "impact_lon":124.0914021786
+    "impact_energy_mt":20719945836034.71484375,
+    "impact_lat":-34.07276812,
+    "impact_lon":-76.4652834274
   },
   {
     "id":54214066,
@@ -784,12 +784,12 @@
     "close_approach_date":"2025-09-29",
     "relative_velocity_kps":19.8101233592,
     "miss_distance_km":60303062.1548711061,
-    "diameter":38.5289854432,
-    "asteroid_mass":4.647154113e+16,
+    "diameter":37.7564121884,
+    "asteroid_mass":4.681375132e+16,
     "impact_velocity_kps":22.7501117251,
-    "impact_energy_mt":2874302490.8427090645,
-    "impact_lat":-29.2291094127,
-    "impact_lon":-113.3824636193
+    "impact_energy_mt":2895468468.7320780754,
+    "impact_lat":-17.2537317426,
+    "impact_lon":125.2415169389
   },
   {
     "id":54248647,
@@ -802,12 +802,12 @@
     "close_approach_date":"2025-09-29",
     "relative_velocity_kps":18.9965913989,
     "miss_distance_km":46809179.8509899005,
-    "diameter":12.2073459482,
-    "asteroid_mass":1527090057238226.5,
+    "diameter":13.9956474968,
+    "asteroid_mass":2802688474463104.5,
     "impact_velocity_kps":22.0453414756,
-    "impact_energy_mt":88690405.1028914452,
-    "impact_lat":50.7312298788,
-    "impact_lon":174.7785303531
+    "impact_energy_mt":162774667.4134493172,
+    "impact_lat":-12.2520811947,
+    "impact_lon":-120.8007793857
   },
   {
     "id":54305651,
@@ -820,12 +820,12 @@
     "close_approach_date":"2025-09-29",
     "relative_velocity_kps":22.3193519743,
     "miss_distance_km":61662023.3279900327,
-    "diameter":2.4019997965,
-    "asteroid_mass":14129903318360.654296875,
+    "diameter":3.9755214909,
+    "asteroid_mass":70071054613732.2890625,
     "impact_velocity_kps":24.9655776731,
-    "impact_energy_mt":1052448.2682732677,
-    "impact_lat":-14.5735057581,
-    "impact_lon":68.8881610637
+    "impact_energy_mt":5219155.3206508486,
+    "impact_lat":76.0530926035,
+    "impact_lon":156.7100841328
   },
   {
     "id":54308051,
@@ -838,12 +838,12 @@
     "close_approach_date":"2025-09-29",
     "relative_velocity_kps":12.6889256195,
     "miss_distance_km":15564775.0579167977,
-    "diameter":48.066026286,
-    "asteroid_mass":1.030319167e+17,
+    "diameter":58.1835354962,
+    "asteroid_mass":2.519650005e+17,
     "impact_velocity_kps":16.9155381049,
-    "impact_energy_mt":3523073820.5100669861,
-    "impact_lat":-4.146811625,
-    "impact_lon":166.5552220499
+    "impact_energy_mt":8615692354.2313365936,
+    "impact_lat":-48.3650100157,
+    "impact_lon":-138.7890846178
   },
   {
     "id":54381677,
@@ -856,12 +856,12 @@
     "close_approach_date":"2025-09-29",
     "relative_velocity_kps":27.9292957548,
     "miss_distance_km":59121618.4069487825,
-    "diameter":222.3322562354,
-    "asteroid_mass":1.035237684e+19,
+    "diameter":250.9923319781,
+    "asteroid_mass":1.22043976e+19,
     "impact_velocity_kps":30.086079129,
-    "impact_energy_mt":1119823527790.8200683594,
-    "impact_lat":44.6229730041,
-    "impact_lon":-132.0259724897
+    "impact_energy_mt":1320157851550.0842285156,
+    "impact_lat":31.7559085913,
+    "impact_lon":-165.7311006813
   },
   {
     "id":54391018,
@@ -874,12 +874,12 @@
     "close_approach_date":"2025-09-29",
     "relative_velocity_kps":15.545616905,
     "miss_distance_km":19072140.1743337847,
-    "diameter":54.1010915057,
-    "asteroid_mass":1.645136606e+17,
+    "diameter":35.3873529877,
+    "asteroid_mass":4.25513999e+16,
     "impact_velocity_kps":19.1518354462,
-    "impact_energy_mt":7211093016.1175403595,
-    "impact_lat":-30.0779052006,
-    "impact_lon":80.599544205
+    "impact_energy_mt":1865146648.4091989994,
+    "impact_lat":-51.611421888,
+    "impact_lon":-161.0744875942
   },
   {
     "id":54539479,
@@ -892,12 +892,12 @@
     "close_approach_date":"2025-09-29",
     "relative_velocity_kps":10.2319380069,
     "miss_distance_km":28011515.6402205117,
-    "diameter":218.3053244385,
-    "asteroid_mass":8.41574948e+18,
+    "diameter":193.6544043021,
+    "asteroid_mass":5.950835115e+18,
     "impact_velocity_kps":15.1597873131,
-    "impact_energy_mt":231130545367.137512207,
-    "impact_lat":-10.0754319404,
-    "impact_lon":119.6024573874
+    "impact_energy_mt":163434019611.0006103516,
+    "impact_lat":-5.9501225932,
+    "impact_lon":-128.6149116694
   },
   {
     "id":54539493,
@@ -910,12 +910,12 @@
     "close_approach_date":"2025-09-29",
     "relative_velocity_kps":10.396784491,
     "miss_distance_km":7839287.811842462,
-    "diameter":229.5217370418,
-    "asteroid_mass":1.263933014e+19,
+    "diameter":189.4836066819,
+    "asteroid_mass":7.958138135e+18,
     "impact_velocity_kps":15.2715331173,
-    "impact_energy_mt":352263513896.6936645508,
-    "impact_lat":-18.3977653116,
-    "impact_lon":-40.0920780155
+    "impact_energy_mt":221796699017.5672302246,
+    "impact_lat":-88.5749838791,
+    "impact_lon":-138.4595010293
   },
   {
     "id":54545425,
@@ -928,12 +928,12 @@
     "close_approach_date":"2025-09-29",
     "relative_velocity_kps":6.892048742,
     "miss_distance_km":21600970.7231329195,
-    "diameter":82.6281832734,
-    "asteroid_mass":5.449002273e+17,
+    "diameter":51.9460212953,
+    "asteroid_mass":1.000287674e+17,
     "impact_velocity_kps":13.1387568614,
-    "impact_energy_mt":11240972084.7968845367,
-    "impact_lat":-29.5993739943,
-    "impact_lon":25.8131384186
+    "impact_energy_mt":2063534800.2784047127,
+    "impact_lat":41.4232400065,
+    "impact_lon":100.2489955999
   },
   {
     "id":54545420,
@@ -946,12 +946,12 @@
     "close_approach_date":"2025-09-29",
     "relative_velocity_kps":17.2410914392,
     "miss_distance_km":6820969.9945053076,
-    "diameter":77.2066908698,
-    "asteroid_mass":4.879173171e+17,
+    "diameter":67.37886108,
+    "asteroid_mass":2.805642479e+17,
     "impact_velocity_kps":20.55193008,
-    "impact_energy_mt":24628036483.1574020386,
-    "impact_lat":-85.6166970742,
-    "impact_lon":-118.9087428797
+    "impact_energy_mt":14161716117.8856658936,
+    "impact_lat":-16.7796225934,
+    "impact_lon":156.2173477468
   },
   {
     "id":54545775,
@@ -964,12 +964,12 @@
     "close_approach_date":"2025-09-29",
     "relative_velocity_kps":9.497976556,
     "miss_distance_km":7863982.2912782496,
-    "diameter":48.1474407932,
-    "asteroid_mass":8.834054264e+16,
+    "diameter":36.7039664864,
+    "asteroid_mass":4.343543735e+16,
     "impact_velocity_kps":14.6744047463,
-    "impact_energy_mt":2273313746.7382435799,
-    "impact_lat":-69.612104836,
-    "impact_lon":-21.8232973332
+    "impact_energy_mt":1117747003.4660551548,
+    "impact_lat":-19.2396637292,
+    "impact_lon":-64.9711589887
   },
   {
     "id":54546842,
@@ -982,12 +982,12 @@
     "close_approach_date":"2025-09-29",
     "relative_velocity_kps":5.4670438719,
     "miss_distance_km":7372775.7254011529,
-    "diameter":34.5979937879,
-    "asteroid_mass":3.064036615e+16,
+    "diameter":32.5707617835,
+    "asteroid_mass":2.813025382e+16,
     "impact_velocity_kps":12.450508612,
-    "impact_energy_mt":567605330.4389591217,
-    "impact_lat":64.2357042245,
-    "impact_lon":108.1247019288
+    "impact_energy_mt":521106110.1164378524,
+    "impact_lat":89.3826281447,
+    "impact_lon":114.3719201943
   },
   {
     "id":54549677,
@@ -1000,12 +1000,12 @@
     "close_approach_date":"2025-09-29",
     "relative_velocity_kps":8.6200780155,
     "miss_distance_km":2610822.284026817,
-    "diameter":27.8691181384,
-    "asteroid_mass":2.628892766e+16,
+    "diameter":24.6554379971,
+    "asteroid_mass":2.027812592e+16,
     "impact_velocity_kps":14.1220515858,
-    "impact_energy_mt":626537092.0413132906,
-    "impact_lat":30.1908989456,
-    "impact_lon":-163.7512115803
+    "impact_energy_mt":483283236.6070344448,
+    "impact_lat":52.625492715,
+    "impact_lon":-85.2209206728
   },
   {
     "id":54548705,
@@ -1018,12 +1018,12 @@
     "close_approach_date":"2025-09-29",
     "relative_velocity_kps":10.9027172586,
     "miss_distance_km":1912928.653075421,
-    "diameter":16.1708545157,
-    "asteroid_mass":4195322856050847.0,
+    "diameter":18.5153853938,
+    "asteroid_mass":4882477008631216.0,
     "impact_velocity_kps":15.6203661808,
-    "impact_energy_mt":122328073.9415858239,
-    "impact_lat":-16.520095531,
-    "impact_lon":19.4129747242
+    "impact_energy_mt":142364253.9616487026,
+    "impact_lat":-56.9485372597,
+    "impact_lon":-96.9417107555
   },
   {
     "id":54550501,
@@ -1036,12 +1036,12 @@
     "close_approach_date":"2025-09-29",
     "relative_velocity_kps":11.7603045314,
     "miss_distance_km":1461418.0166409069,
-    "diameter":25.0825490862,
-    "asteroid_mass":1.165300018e+16,
+    "diameter":16.8203536296,
+    "asteroid_mass":4237552468614772.0,
     "impact_velocity_kps":16.230568649,
-    "impact_energy_mt":366845801.7616876364,
-    "impact_lat":-25.9428657211,
-    "impact_lon":-7.0774462436
+    "impact_energy_mt":133401554.0449297577,
+    "impact_lat":-6.4764173273,
+    "impact_lon":-119.8886580402
   },
   {
     "id":54550515,
@@ -1054,12 +1054,12 @@
     "close_approach_date":"2025-09-29",
     "relative_velocity_kps":13.4059243964,
     "miss_distance_km":10635137.4986975435,
-    "diameter":18.3963771723,
-    "asteroid_mass":5420916806528601.0,
+    "diameter":28.3165410174,
+    "asteroid_mass":2.350243439e+16,
     "impact_velocity_kps":17.4598225914,
-    "impact_energy_mt":197483458.2856891453,
-    "impact_lat":-72.1654665841,
-    "impact_lon":63.0103023622
+    "impact_energy_mt":856191339.5124257803,
+    "impact_lat":71.7537790459,
+    "impact_lon":144.0696868947
   },
   {
     "id":54550512,
@@ -1072,12 +1072,12 @@
     "close_approach_date":"2025-09-29",
     "relative_velocity_kps":13.5429772912,
     "miss_distance_km":1094714.6670257719,
-    "diameter":11.6005992885,
-    "asteroid_mass":1300604206849343.75,
+    "diameter":5.6763363235,
+    "asteroid_mass":213469557141204.9375,
     "impact_velocity_kps":17.5652734083,
-    "impact_energy_mt":47954935.4872450605,
-    "impact_lat":-26.9894967471,
-    "impact_lon":-7.8886320156
+    "impact_energy_mt":7870894.7635927917,
+    "impact_lat":46.1295019536,
+    "impact_lon":-69.837174662
   },
   {
     "id":54550503,
@@ -1090,12 +1090,12 @@
     "close_approach_date":"2025-09-29",
     "relative_velocity_kps":19.678598997,
     "miss_distance_km":18357559.1702600569,
-    "diameter":94.8012608045,
-    "asteroid_mass":6.493455168e+17,
+    "diameter":62.0349109315,
+    "asteroid_mass":1.574903276e+17,
     "impact_velocity_kps":22.6356765855,
-    "impact_energy_mt":39759520234.8490524292,
-    "impact_lat":3.7503371219,
-    "impact_lon":-99.8115838193
+    "impact_energy_mt":9643155615.4069519043,
+    "impact_lat":88.329190927,
+    "impact_lon":-125.4004232976
   },
   {
     "id":3388395,
@@ -1108,12 +1108,12 @@
     "close_approach_date":"2025-09-28",
     "relative_velocity_kps":7.1167756541,
     "miss_distance_km":17557806.1896794587,
-    "diameter":22.7121478175,
-    "asteroid_mass":6545280135823905.0,
+    "diameter":28.2580494188,
+    "asteroid_mass":3.114015624e+16,
     "impact_velocity_kps":13.2580199016,
-    "impact_energy_mt":137487717.0348066688,
-    "impact_lat":-52.4900811418,
-    "impact_lon":78.2143557893
+    "impact_energy_mt":654118525.2363375425,
+    "impact_lat":-12.3850130521,
+    "impact_lon":77.0980083973
   },
   {
     "id":3557843,
@@ -1126,12 +1126,12 @@
     "close_approach_date":"2025-09-28",
     "relative_velocity_kps":6.1112915121,
     "miss_distance_km":22164403.0508872904,
-    "diameter":218.7029351035,
-    "asteroid_mass":1.08669991e+19,
+    "diameter":264.6981751579,
+    "asteroid_mass":1.451456861e+19,
     "impact_velocity_kps":12.7465477658,
-    "impact_energy_mt":210995462180.9533691406,
-    "impact_lat":24.6092396455,
-    "impact_lon":-58.1727462296
+    "impact_energy_mt":281817278503.8714599609,
+    "impact_lat":53.2517573905,
+    "impact_lon":65.9659445449
   },
   {
     "id":3648537,
@@ -1144,12 +1144,12 @@
     "close_approach_date":"2025-09-28",
     "relative_velocity_kps":11.9697248861,
     "miss_distance_km":18915604.3141580708,
-    "diameter":100.0178839496,
-    "asteroid_mass":9.263879914e+17,
+    "diameter":127.2933822622,
+    "asteroid_mass":2.328615728e+18,
     "impact_velocity_kps":16.3829457012,
-    "impact_energy_mt":29713597007.8275260925,
-    "impact_lat":-57.4133408003,
-    "impact_lon":40.1605528391
+    "impact_energy_mt":74689600882.1767730713,
+    "impact_lat":-36.8120422145,
+    "impact_lon":147.1401034682
   },
   {
     "id":3767014,
@@ -1162,12 +1162,12 @@
     "close_approach_date":"2025-09-28",
     "relative_velocity_kps":10.0309393629,
     "miss_distance_km":20337921.9803964384,
-    "diameter":7.5292463468,
-    "asteroid_mass":350530339631415.6875,
+    "diameter":11.8319096515,
+    "asteroid_mass":2035606887662263.0,
     "impact_velocity_kps":15.0248574204,
-    "impact_energy_mt":9456374.4510967005,
-    "impact_lat":-4.5181684707,
-    "impact_lon":-21.1246521964
+    "impact_energy_mt":54915249.2340799794,
+    "impact_lat":68.1548498642,
+    "impact_lon":136.7692362514
   },
   {
     "id":3840718,
@@ -1180,12 +1180,12 @@
     "close_approach_date":"2025-09-28",
     "relative_velocity_kps":3.9657292228,
     "miss_distance_km":29419143.6333729513,
-    "diameter":6.3766017219,
-    "asteroid_mass":356582177820634.625,
+    "diameter":12.3381812047,
+    "asteroid_mass":1830147345281573.0,
     "impact_velocity_kps":11.8681761138,
-    "impact_energy_mt":6002137.3044900205,
-    "impact_lat":-77.9259045654,
-    "impact_lon":-128.8329171324
+    "impact_energy_mt":30805789.9050507173,
+    "impact_lat":62.9019396156,
+    "impact_lon":-35.6303697962
   },
   {
     "id":3869336,
@@ -1198,12 +1198,12 @@
     "close_approach_date":"2025-09-28",
     "relative_velocity_kps":8.4440185378,
     "miss_distance_km":7655214.7835856481,
-    "diameter":26.5683719844,
-    "asteroid_mass":1.700627058e+16,
+    "diameter":27.2092634622,
+    "asteroid_mass":1.325707579e+16,
     "impact_velocity_kps":14.0152789864,
-    "impact_energy_mt":399200344.5858875513,
-    "impact_lat":25.9710777148,
-    "impact_lon":-93.138907721
+    "impact_energy_mt":311192815.6593204141,
+    "impact_lat":45.7046051889,
+    "impact_lon":-104.966312269
   },
   {
     "id":54054711,
@@ -1216,12 +1216,12 @@
     "close_approach_date":"2025-09-28",
     "relative_velocity_kps":19.7374476889,
     "miss_distance_km":67962783.1853360385,
-    "diameter":23.7289893985,
-    "asteroid_mass":1.983552384e+16,
+    "diameter":26.5039572054,
+    "asteroid_mass":2.186319958e+16,
     "impact_velocity_kps":22.6868560464,
-    "impact_energy_mt":1220030347.4891264439,
-    "impact_lat":-29.6852413813,
-    "impact_lon":-178.6245940531
+    "impact_energy_mt":1344747292.4039859772,
+    "impact_lat":9.8937112584,
+    "impact_lon":-16.4713243558
   },
   {
     "id":54076927,
@@ -1234,12 +1234,12 @@
     "close_approach_date":"2025-09-28",
     "relative_velocity_kps":18.9854314559,
     "miss_distance_km":31208526.6012729183,
-    "diameter":28.405500282,
-    "asteroid_mass":1.711988342e+16,
+    "diameter":30.5722345688,
+    "asteroid_mass":1.838981255e+16,
     "impact_velocity_kps":22.0357256192,
-    "impact_energy_mt":993422160.3912883997,
-    "impact_lat":-8.1614528573,
-    "impact_lon":149.9254846864
+    "impact_energy_mt":1067112833.5142269135,
+    "impact_lat":47.7120676918,
+    "impact_lon":-31.6952202175
   },
   {
     "id":54209492,
@@ -1252,12 +1252,12 @@
     "close_approach_date":"2025-09-28",
     "relative_velocity_kps":12.0039490832,
     "miss_distance_km":35503766.7021914348,
-    "diameter":15.4822379057,
-    "asteroid_mass":2459816573310475.5,
+    "diameter":17.8680637205,
+    "asteroid_mass":4977393655498539.0,
     "impact_velocity_kps":16.4079672596,
-    "impact_energy_mt":79139010.039223358,
-    "impact_lat":-80.7079226723,
-    "impact_lon":21.8721751573
+    "impact_energy_mt":160136333.2313588262,
+    "impact_lat":-51.6466725091,
+    "impact_lon":-9.4282470484
   },
   {
     "id":54293660,
@@ -1270,12 +1270,12 @@
     "close_approach_date":"2025-09-28",
     "relative_velocity_kps":17.1053566555,
     "miss_distance_km":56960345.5612003505,
-    "diameter":53.4369177072,
-    "asteroid_mass":1.500700811e+17,
+    "diameter":48.1737059308,
+    "asteroid_mass":8.847010166e+16,
     "impact_velocity_kps":20.4381951824,
-    "impact_energy_mt":7491305879.9604682922,
-    "impact_lat":25.3639521013,
-    "impact_lon":-17.9607877541
+    "impact_energy_mt":4416313951.1934757233,
+    "impact_lat":-15.7497639478,
+    "impact_lon":-175.0645344299
   },
   {
     "id":54312925,
@@ -1288,12 +1288,12 @@
     "close_approach_date":"2025-09-28",
     "relative_velocity_kps":9.7632390281,
     "miss_distance_km":15221666.9575484786,
-    "diameter":49.1571395971,
-    "asteroid_mass":1.205414909e+17,
+    "diameter":32.7001189272,
+    "asteroid_mass":3.448476255e+16,
     "impact_velocity_kps":14.8474722535,
-    "impact_energy_mt":3175557141.7085962296,
-    "impact_lat":-79.021971116,
-    "impact_lon":112.4098632358
+    "impact_energy_mt":908470047.6278482676,
+    "impact_lat":40.6105867385,
+    "impact_lon":123.0670106058
   },
   {
     "id":54360101,
@@ -1306,12 +1306,12 @@
     "close_approach_date":"2025-09-28",
     "relative_velocity_kps":16.8157392275,
     "miss_distance_km":51742746.2691493928,
-    "diameter":22.8645233645,
-    "asteroid_mass":1.050454082e+16,
+    "diameter":21.6576382273,
+    "asteroid_mass":1.369398472e+16,
     "impact_velocity_kps":20.1964274506,
-    "impact_energy_mt":512040731.1236459613,
-    "impact_lat":-16.9732277432,
-    "impact_lon":127.9135996614
+    "impact_energy_mt":667509229.7079246044,
+    "impact_lat":-43.9638011027,
+    "impact_lon":96.8032220592
   },
   {
     "id":54403822,
@@ -1324,12 +1324,12 @@
     "close_approach_date":"2025-09-28",
     "relative_velocity_kps":24.6207726552,
     "miss_distance_km":65646598.7382854223,
-    "diameter":38.7529704632,
-    "asteroid_mass":4.939076751e+16,
+    "diameter":51.9332775549,
+    "asteroid_mass":8.59882627e+16,
     "impact_velocity_kps":27.0427262335,
-    "impact_energy_mt":4316433421.9890041351,
-    "impact_lat":-72.0638758986,
-    "impact_lon":-17.2217572331
+    "impact_energy_mt":7514817641.9922361374,
+    "impact_lat":-32.4951537303,
+    "impact_lon":154.7168695503
   },
   {
     "id":54487286,
@@ -1342,12 +1342,12 @@
     "close_approach_date":"2025-09-28",
     "relative_velocity_kps":12.1330570509,
     "miss_distance_km":62466904.942428261,
-    "diameter":45.7899973907,
-    "asteroid_mass":7.557211797e+16,
+    "diameter":50.1660671443,
+    "asteroid_mass":1.403300372e+17,
     "impact_velocity_kps":16.5026564347,
-    "impact_energy_mt":2459504598.5570979118,
-    "impact_lat":13.4846049572,
-    "impact_lon":-42.5854530921
+    "impact_energy_mt":4567059664.1575870514,
+    "impact_lat":-52.8582700191,
+    "impact_lon":77.3280526481
   },
   {
     "id":54537922,
@@ -1360,12 +1360,12 @@
     "close_approach_date":"2025-09-28",
     "relative_velocity_kps":7.3513969856,
     "miss_distance_km":10021434.6019041091,
-    "diameter":239.6497308448,
-    "asteroid_mass":1.055043713e+19,
+    "diameter":346.0862838252,
+    "asteroid_mass":3.671342128e+19,
     "impact_velocity_kps":13.3854261658,
-    "impact_energy_mt":225898417225.9395141602,
-    "impact_lat":19.1627716992,
-    "impact_lon":139.3595060169
+    "impact_energy_mt":786081529731.4260253906,
+    "impact_lat":82.934278087,
+    "impact_lon":-24.7885224451
   },
   {
     "id":54546122,
@@ -1378,12 +1378,12 @@
     "close_approach_date":"2025-09-28",
     "relative_velocity_kps":8.6454676166,
     "miss_distance_km":7920819.2493839422,
-    "diameter":32.9985129025,
-    "asteroid_mass":4.45477776e+16,
+    "diameter":25.3606641141,
+    "asteroid_mass":1.788305108e+16,
     "impact_velocity_kps":14.1375636624,
-    "impact_energy_mt":1064029131.5774958134,
-    "impact_lat":39.3806087188,
-    "impact_lon":-101.8542470301
+    "impact_energy_mt":427138868.3775861859,
+    "impact_lat":59.5807513717,
+    "impact_lon":100.0544120995
   },
   {
     "id":54546124,
@@ -1396,12 +1396,12 @@
     "close_approach_date":"2025-09-28",
     "relative_velocity_kps":8.7158238445,
     "miss_distance_km":1930173.6522581801,
-    "diameter":16.2044208378,
-    "asteroid_mass":3930735712209661.0,
+    "diameter":33.348632463,
+    "asteroid_mass":3.157452245e+16,
     "impact_velocity_kps":14.1806974895,
-    "impact_energy_mt":94459873.1400902867,
-    "impact_lat":37.0590858776,
-    "impact_lon":42.7425655059
+    "impact_energy_mt":758770266.8479186296,
+    "impact_lat":-85.0358225986,
+    "impact_lon":-136.6480796017
   },
   {
     "id":54547356,
@@ -1414,12 +1414,12 @@
     "close_approach_date":"2025-09-28",
     "relative_velocity_kps":7.9558733027,
     "miss_distance_km":104351.605264038,
-    "diameter":9.7513393694,
-    "asteroid_mass":545553915712061.375,
+    "diameter":13.6331355918,
+    "asteroid_mass":2595419561685987.0,
     "impact_velocity_kps":13.7267081272,
-    "impact_energy_mt":12284254.4714170955,
-    "impact_lat":84.5553033197,
-    "impact_lon":144.9802593405
+    "impact_energy_mt":58441142.9147764444,
+    "impact_lat":-51.4072057759,
+    "impact_lon":-165.7502924911
   },
   {
     "id":54547368,
@@ -1432,12 +1432,12 @@
     "close_approach_date":"2025-09-28",
     "relative_velocity_kps":20.5100027816,
     "miss_distance_km":2816369.921964474,
-    "diameter":33.348751249,
-    "asteroid_mass":4.248908316e+16,
+    "diameter":22.8274495949,
+    "asteroid_mass":7428968424039932.0,
     "impact_velocity_kps":23.362080603,
-    "impact_energy_mt":2771269259.6047272682,
-    "impact_lat":29.9790034,
-    "impact_lon":-46.9245883405
+    "impact_energy_mt":484540269.8971784115,
+    "impact_lat":-8.5211549697,
+    "impact_lon":41.4386550257
   },
   {
     "id":54549106,
@@ -1450,12 +1450,12 @@
     "close_approach_date":"2025-09-28",
     "relative_velocity_kps":8.1291812919,
     "miss_distance_km":233993.523320287,
-    "diameter":2.7198109467,
-    "asteroid_mass":14258834720284.546875,
+    "diameter":3.1877401819,
+    "asteroid_mass":32771629057057.2265625,
     "impact_velocity_kps":13.8278770777,
-    "impact_energy_mt":325816.7324673313,
-    "impact_lat":-23.0975060114,
-    "impact_lon":-46.2799942769
+    "impact_energy_mt":748837.1459844479,
+    "impact_lat":-76.0337480588,
+    "impact_lon":68.1794782664
   },
   {
     "id":54548706,
@@ -1468,12 +1468,12 @@
     "close_approach_date":"2025-09-28",
     "relative_velocity_kps":9.563510987,
     "miss_distance_km":136891.071801561,
-    "diameter":6.849886507,
-    "asteroid_mass":284120591817460.75,
+    "diameter":11.1429905479,
+    "asteroid_mass":1440523090228764.25,
     "impact_velocity_kps":14.7169065499,
-    "impact_energy_mt":7353838.7626603562,
-    "impact_lat":-60.0422910957,
-    "impact_lon":-160.8482443917
+    "impact_energy_mt":37284782.745481208,
+    "impact_lat":61.7992599353,
+    "impact_lon":27.9945106151
   },
   {
     "id":54548204,
@@ -1486,12 +1486,12 @@
     "close_approach_date":"2025-09-28",
     "relative_velocity_kps":16.5467930261,
     "miss_distance_km":17578818.4821028523,
-    "diameter":71.2061103331,
-    "asteroid_mass":2.918010493e+17,
+    "diameter":53.9628783972,
+    "asteroid_mass":2.261433005e+17,
     "impact_velocity_kps":19.9730557364,
-    "impact_energy_mt":13910867232.9381980896,
-    "impact_lat":12.3133809876,
-    "impact_lon":52.1058931901
+    "impact_energy_mt":10780802315.0836963654,
+    "impact_lat":51.7255307607,
+    "impact_lon":-72.2652019907
   },
   {
     "id":3002856,
@@ -1504,12 +1504,12 @@
     "close_approach_date":"2025-10-01",
     "relative_velocity_kps":32.2956242356,
     "miss_distance_km":70011871.9899799824,
-    "diameter":370.7675345847,
-    "asteroid_mass":3.424283361e+19,
+    "diameter":292.4703543054,
+    "asteroid_mass":2.878794821e+19,
     "impact_velocity_kps":34.1779744977,
-    "impact_energy_mt":4780140555281.5625,
-    "impact_lat":39.8350486349,
-    "impact_lon":-36.4192559938
+    "impact_energy_mt":4018663884337.4853515625,
+    "impact_lat":-68.0073098118,
+    "impact_lon":73.0718835578
   },
   {
     "id":3346460,
@@ -1522,12 +1522,12 @@
     "close_approach_date":"2025-10-01",
     "relative_velocity_kps":18.9653044315,
     "miss_distance_km":12154759.4539008439,
-    "diameter":238.0505867601,
-    "asteroid_mass":1.637473551e+19,
+    "diameter":136.6818777016,
+    "asteroid_mass":3.523161152e+18,
     "impact_velocity_kps":22.0183870476,
-    "impact_energy_mt":948688477164.5950927734,
-    "impact_lat":-35.1869582684,
-    "impact_lon":-35.2794852778
+    "impact_energy_mt":204118251895.1538391113,
+    "impact_lat":-61.0914570314,
+    "impact_lon":56.4685477499
   },
   {
     "id":3471356,
@@ -1540,12 +1540,12 @@
     "close_approach_date":"2025-10-01",
     "relative_velocity_kps":16.3944524722,
     "miss_distance_km":65592452.1781933829,
-    "diameter":26.1250197082,
-    "asteroid_mass":1.254265778e+16,
+    "diameter":30.0983964294,
+    "asteroid_mass":3.291394858e+16,
     "impact_velocity_kps":19.8470317142,
-    "impact_energy_mt":590417237.8060467243,
-    "impact_lat":-68.3788883948,
-    "impact_lon":-160.9925233657
+    "impact_energy_mt":1549349663.4864840508,
+    "impact_lat":-25.9884861431,
+    "impact_lon":-12.1348241451
   },
   {
     "id":3730802,
@@ -1558,12 +1558,12 @@
     "close_approach_date":"2025-10-01",
     "relative_velocity_kps":7.1652318372,
     "miss_distance_km":13734683.7121096607,
-    "diameter":46.7082422773,
-    "asteroid_mass":9.599177976e+16,
+    "diameter":70.8316774143,
+    "asteroid_mass":3.186226632e+17,
     "impact_velocity_kps":13.2840936191,
-    "impact_energy_mt":2024306304.02739501,
-    "impact_lat":-9.817600967,
-    "impact_lon":-150.8270852796
+    "impact_energy_mt":6719219785.5619115829,
+    "impact_lat":-74.4091190031,
+    "impact_lon":-86.31565695
   },
   {
     "id":3856710,
@@ -1576,12 +1576,12 @@
     "close_approach_date":"2025-10-01",
     "relative_velocity_kps":13.4401664173,
     "miss_distance_km":8333127.4947087904,
-    "diameter":44.2722424785,
-    "asteroid_mass":8.619137194e+16,
+    "diameter":57.7937754429,
+    "asteroid_mass":1.500667744e+17,
     "impact_velocity_kps":17.4861279111,
-    "impact_energy_mt":3149411608.523147583,
-    "impact_lat":86.693748984,
-    "impact_lon":179.0978704961
+    "impact_energy_mt":5483403159.4017915726,
+    "impact_lat":-66.5072372358,
+    "impact_lon":-77.099310439
   },
   {
     "id":3994621,
@@ -1594,12 +1594,12 @@
     "close_approach_date":"2025-10-01",
     "relative_velocity_kps":8.3918231939,
     "miss_distance_km":20014314.8599698395,
-    "diameter":8.1885337328,
-    "asteroid_mass":588220634478594.375,
+    "diameter":8.3779755946,
+    "asteroid_mass":524087250474065.5,
     "impact_velocity_kps":13.9838940398,
-    "impact_energy_mt":13745952.3083877601,
-    "impact_lat":32.7414200547,
-    "impact_lon":72.5207623779
+    "impact_energy_mt":12247238.4139266964,
+    "impact_lat":43.8097987618,
+    "impact_lon":-73.1717993872
   },
   {
     "id":54054367,
@@ -1612,12 +1612,12 @@
     "close_approach_date":"2025-10-01",
     "relative_velocity_kps":12.4891405545,
     "miss_distance_km":8378998.4951096587,
-    "diameter":60.5268255859,
-    "asteroid_mass":2.709422145e+17,
+    "diameter":64.0649889618,
+    "asteroid_mass":2.364606692e+17,
     "impact_velocity_kps":16.7661930023,
-    "impact_energy_mt":9101729556.5576629639,
-    "impact_lat":-48.5824267007,
-    "impact_lon":70.8209182525
+    "impact_energy_mt":7943395108.660317421,
+    "impact_lat":-71.7790585768,
+    "impact_lon":-145.6434664011
   },
   {
     "id":54157355,
@@ -1630,12 +1630,12 @@
     "close_approach_date":"2025-10-01",
     "relative_velocity_kps":19.4060797909,
     "miss_distance_km":61892989.9628076702,
-    "diameter":37.3683238964,
-    "asteroid_mass":5.43907721e+16,
+    "diameter":32.4926200572,
+    "asteroid_mass":2.588224241e+16,
     "impact_velocity_kps":22.3991635748,
-    "impact_energy_mt":3261122816.2442722321,
-    "impact_lat":-63.3667904926,
-    "impact_lon":41.2418117821
+    "impact_energy_mt":1551828885.750733614,
+    "impact_lat":70.929581597,
+    "impact_lon":150.7774675791
   },
   {
     "id":54235406,
@@ -1648,12 +1648,12 @@
     "close_approach_date":"2025-10-01",
     "relative_velocity_kps":3.2461444272,
     "miss_distance_km":28616186.3112963215,
-    "diameter":25.2887289897,
-    "asteroid_mass":1.502147585e+16,
+    "diameter":36.7567174428,
+    "asteroid_mass":4.791815773e+16,
     "impact_velocity_kps":11.6474911308,
-    "impact_energy_mt":243531817.1098817587,
-    "impact_lat":-15.6138048335,
-    "impact_lon":128.2522010883
+    "impact_energy_mt":776860818.4272555113,
+    "impact_lat":83.8188526744,
+    "impact_lon":-126.6583447241
   },
   {
     "id":54253542,
@@ -1666,12 +1666,12 @@
     "close_approach_date":"2025-10-01",
     "relative_velocity_kps":15.4244882247,
     "miss_distance_km":50251557.7677457258,
-    "diameter":54.884105248,
-    "asteroid_mass":1.250347589e+17,
+    "diameter":42.2796290045,
+    "asteroid_mass":8.508052458e+16,
     "impact_velocity_kps":19.0536461863,
-    "impact_energy_mt":5424569556.0238513947,
-    "impact_lat":34.8925697042,
-    "impact_lon":166.0094113045
+    "impact_energy_mt":3691175378.2466850281,
+    "impact_lat":20.6188152368,
+    "impact_lon":-179.6219176834
   },
   {
     "id":54391010,
@@ -1684,12 +1684,12 @@
     "close_approach_date":"2025-10-01",
     "relative_velocity_kps":10.5182170538,
     "miss_distance_km":17827604.6616827771,
-    "diameter":52.7275602143,
-    "asteroid_mass":1.297321463e+17,
+    "diameter":54.5025546455,
+    "asteroid_mass":1.417375445e+17,
     "impact_velocity_kps":15.354461436,
-    "impact_energy_mt":3655065024.7226734161,
-    "impact_lat":81.3371094686,
-    "impact_lon":-9.6689473186
+    "impact_energy_mt":3993304330.7685866356,
+    "impact_lat":-19.0454646677,
+    "impact_lon":118.9055016551
   },
   {
     "id":54395903,
@@ -1702,12 +1702,12 @@
     "close_approach_date":"2025-10-01",
     "relative_velocity_kps":17.3404565887,
     "miss_distance_km":42520024.3891172558,
-    "diameter":23.7916057041,
-    "asteroid_mass":1.144523189e+16,
+    "diameter":32.0251720931,
+    "asteroid_mass":2.939432226e+16,
     "impact_velocity_kps":20.6353587491,
-    "impact_energy_mt":582407517.3355566263,
-    "impact_lat":62.0282351325,
-    "impact_lon":150.8643029566
+    "impact_energy_mt":1495773472.7499792576,
+    "impact_lat":26.6355538893,
+    "impact_lon":29.004779065
   },
   {
     "id":54415896,
@@ -1720,12 +1720,12 @@
     "close_approach_date":"2025-10-01",
     "relative_velocity_kps":8.3011856102,
     "miss_distance_km":12062148.4689918477,
-    "diameter":13.0248438039,
-    "asteroid_mass":1355217926452363.5,
+    "diameter":13.5674960003,
+    "asteroid_mass":2385113116406368.5,
     "impact_velocity_kps":13.9296905398,
-    "impact_energy_mt":31424646.6363198496,
-    "impact_lat":-15.0815584391,
-    "impact_lon":-55.2456829016
+    "impact_energy_mt":55305744.8604789451,
+    "impact_lat":-78.8572774441,
+    "impact_lon":-18.0514485837
   },
   {
     "id":54543546,
@@ -1738,12 +1738,12 @@
     "close_approach_date":"2025-10-01",
     "relative_velocity_kps":9.9557897302,
     "miss_distance_km":2729884.2068828428,
-    "diameter":105.9280190623,
-    "asteroid_mass":1.163699799e+18,
+    "diameter":72.6742446418,
+    "asteroid_mass":3.514819594e+17,
     "impact_velocity_kps":14.9747903208,
-    "impact_energy_mt":31184643810.2065658569,
-    "impact_lat":-5.8999131867,
-    "impact_lon":164.966316395
+    "impact_energy_mt":9418958151.6345252991,
+    "impact_lat":77.6487406379,
+    "impact_lon":177.430328624
   },
   {
     "id":54546120,
@@ -1756,12 +1756,12 @@
     "close_approach_date":"2025-10-01",
     "relative_velocity_kps":1.9895768752,
     "miss_distance_km":3464848.3844974702,
-    "diameter":10.4168902781,
-    "asteroid_mass":1584220140627721.5,
+    "diameter":11.7058363364,
+    "asteroid_mass":1948450320290751.75,
     "impact_velocity_kps":11.3615585261,
-    "impact_energy_mt":24438226.1100686006,
-    "impact_lat":-68.5094463209,
-    "impact_lon":11.4369169325
+    "impact_energy_mt":30056851.4882241338,
+    "impact_lat":8.2134113569,
+    "impact_lon":136.0135595893
   },
   {
     "id":54549109,
@@ -1774,12 +1774,12 @@
     "close_approach_date":"2025-10-01",
     "relative_velocity_kps":20.5382519481,
     "miss_distance_km":1707958.13380065,
-    "diameter":11.5682773652,
-    "asteroid_mass":940732199851872.625,
+    "diameter":16.7258111413,
+    "asteroid_mass":3283303536573963.0,
     "impact_velocity_kps":23.3868849803,
-    "impact_energy_mt":61487820.2442261726,
-    "impact_lat":76.893388429,
-    "impact_lon":113.7744947892
+    "impact_energy_mt":214602176.576798737,
+    "impact_lat":-13.5208254841,
+    "impact_lon":71.4012252069
   },
   {
     "id":54549128,
@@ -1792,12 +1792,12 @@
     "close_approach_date":"2025-10-01",
     "relative_velocity_kps":7.4810273762,
     "miss_distance_km":11092754.5855473764,
-    "diameter":50.3591287171,
-    "asteroid_mass":1.574747749e+17,
+    "diameter":48.6991584714,
+    "asteroid_mass":1.366730495e+17,
     "impact_velocity_kps":13.457056387,
-    "impact_energy_mt":3407920611.2743725777,
-    "impact_lat":-22.050168349,
-    "impact_lon":135.12329078
+    "impact_energy_mt":2957749281.0394501686,
+    "impact_lat":-83.7901342385,
+    "impact_lon":37.1361518475
   },
   {
     "id":54548206,
@@ -1810,12 +1810,12 @@
     "close_approach_date":"2025-10-01",
     "relative_velocity_kps":12.8515520845,
     "miss_distance_km":6546238.9516127761,
-    "diameter":49.0117876121,
-    "asteroid_mass":1.203716663e+17,
+    "diameter":51.7754036781,
+    "asteroid_mass":1.3578407e+17,
     "impact_velocity_kps":17.0378692031,
-    "impact_energy_mt":4175737223.2726612091,
-    "impact_lat":4.5404981138,
-    "impact_lon":39.1358447239
+    "impact_energy_mt":4710399156.501625061,
+    "impact_lat":61.9618784956,
+    "impact_lon":-77.6216495428
   },
   {
     "id":54550509,
@@ -1828,12 +1828,12 @@
     "close_approach_date":"2025-10-01",
     "relative_velocity_kps":14.7102960698,
     "miss_distance_km":107633.498295885,
-    "diameter":4.5835722897,
-    "asteroid_mass":134683313917230.078125,
+    "diameter":6.4747352934,
+    "asteroid_mass":158510085491159.1875,
     "impact_velocity_kps":18.4802436797,
-    "impact_energy_mt":5496769.2912567277,
-    "impact_lat":-74.5248187271,
-    "impact_lon":-57.3421159069
+    "impact_energy_mt":6469200.5634620609,
+    "impact_lat":-11.2135213725,
+    "impact_lon":-65.8074576157
   },
   {
     "id":54550511,
@@ -1846,12 +1846,12 @@
     "close_approach_date":"2025-10-01",
     "relative_velocity_kps":10.076224703,
     "miss_distance_km":310790.188276267,
-    "diameter":9.1269522316,
-    "asteroid_mass":773234871453996.0,
+    "diameter":6.0340397289,
+    "asteroid_mass":259928210299774.0625,
     "impact_velocity_kps":15.055128703,
-    "impact_energy_mt":20943955.4422606491,
-    "impact_lat":-51.1662198343,
-    "impact_lon":-76.8073208797
+    "impact_energy_mt":7040454.4022545572,
+    "impact_lat":-29.0195072119,
+    "impact_lon":81.0239399828
   },
   {
     "id":54550518,
@@ -1864,12 +1864,12 @@
     "close_approach_date":"2025-10-01",
     "relative_velocity_kps":12.4735360388,
     "miss_distance_km":10501167.6394632608,
-    "diameter":56.2975884997,
-    "asteroid_mass":1.506397375e+17,
+    "diameter":56.6687766682,
+    "asteroid_mass":1.055393858e+17,
     "impact_velocity_kps":16.75457243,
-    "impact_energy_mt":5053410486.2197170258,
-    "impact_lat":-10.9593127091,
-    "impact_lon":-168.3156493452
+    "impact_energy_mt":3540459163.9852056503,
+    "impact_lat":76.1452119733,
+    "impact_lon":-66.266176321
   },
   {
     "id":54549684,
@@ -1882,12 +1882,12 @@
     "close_approach_date":"2025-10-01",
     "relative_velocity_kps":11.8540669258,
     "miss_distance_km":1363936.5140391749,
-    "diameter":21.5355587132,
-    "asteroid_mass":1.027456168e+16,
+    "diameter":20.1034095973,
+    "asteroid_mass":9376834620351452.0,
     "impact_velocity_kps":16.2986348717,
-    "impact_energy_mt":326170060.0084770918,
-    "impact_lat":14.0933649767,
-    "impact_lon":19.0366342597
+    "impact_energy_mt":297671356.2112531066,
+    "impact_lat":45.8824757881,
+    "impact_lon":-129.5544733579
   },
   {
     "id":54549695,
@@ -1900,12 +1900,12 @@
     "close_approach_date":"2025-10-01",
     "relative_velocity_kps":20.8761143007,
     "miss_distance_km":6780.463618602,
-    "diameter":2.4722377746,
-    "asteroid_mass":20989138513079.6640625,
+    "diameter":2.5975445811,
+    "asteroid_mass":17640934957228.53515625,
     "impact_velocity_kps":23.6841454204,
-    "impact_energy_mt":1406981.4772202955,
-    "impact_lat":50.5723605289,
-    "impact_lon":41.0244882506
+    "impact_energy_mt":1182538.7073510115,
+    "impact_lat":-40.0162943191,
+    "impact_lon":98.6112476635
   },
   {
     "id":3137735,
@@ -1918,12 +1918,12 @@
     "close_approach_date":"2025-09-27",
     "relative_velocity_kps":13.4527055857,
     "miss_distance_km":49723079.5059093907,
-    "diameter":51.2027490591,
-    "asteroid_mass":1.506290465e+17,
+    "diameter":50.9790885522,
+    "asteroid_mass":1.475451925e+17,
     "impact_velocity_kps":17.4957675903,
-    "impact_energy_mt":5510018503.8670492172,
-    "impact_lat":-78.991034766,
-    "impact_lon":-35.452403178
+    "impact_energy_mt":5397210963.9545888901,
+    "impact_lat":-42.2547336058,
+    "impact_lon":-76.8334460051
   },
   {
     "id":3137864,
@@ -1936,12 +1936,12 @@
     "close_approach_date":"2025-09-27",
     "relative_velocity_kps":9.7017607768,
     "miss_distance_km":40253357.2559106722,
-    "diameter":57.2744661925,
-    "asteroid_mass":2.115057762e+17,
+    "diameter":58.7204041663,
+    "asteroid_mass":1.913874144e+17,
     "impact_velocity_kps":14.8071184965,
-    "impact_energy_mt":5541682813.5852203369,
-    "impact_lat":-68.1040827943,
-    "impact_lon":-23.3252447176
+    "impact_energy_mt":5014559716.2068281174,
+    "impact_lat":-54.1856012366,
+    "impact_lon":42.2824514315
   },
   {
     "id":3449749,
@@ -1954,12 +1954,12 @@
     "close_approach_date":"2025-09-27",
     "relative_velocity_kps":5.472990777,
     "miss_distance_km":18849693.8862019926,
-    "diameter":158.8350714659,
-    "asteroid_mass":3.539041715e+18,
+    "diameter":97.7674556906,
+    "asteroid_mass":8.227131743e+17,
     "impact_velocity_kps":12.4531210564,
-    "impact_energy_mt":65587402250.89112854,
-    "impact_lat":-69.4012695362,
-    "impact_lon":-179.5153235722
+    "impact_energy_mt":15246957863.1476764679,
+    "impact_lat":-34.5660207177,
+    "impact_lon":-27.5316191097
   },
   {
     "id":3465534,
@@ -1972,12 +1972,12 @@
     "close_approach_date":"2025-09-27",
     "relative_velocity_kps":9.0363840001,
     "miss_distance_km":52643192.1698070094,
-    "diameter":69.7726935013,
-    "asteroid_mass":3.553244274e+17,
+    "diameter":110.9425502397,
+    "asteroid_mass":1.341615109e+18,
     "impact_velocity_kps":14.3799454727,
-    "impact_energy_mt":8780472193.3546905518,
-    "impact_lat":-79.317308675,
-    "impact_lon":179.0776702568
+    "impact_energy_mt":33152840749.9695358276,
+    "impact_lat":46.6734913242,
+    "impact_lon":40.8871755372
   },
   {
     "id":3752783,
@@ -1990,12 +1990,12 @@
     "close_approach_date":"2025-09-27",
     "relative_velocity_kps":19.8909520992,
     "miss_distance_km":20866923.1466275677,
-    "diameter":3.082637123,
-    "asteroid_mass":25200091650546.71875,
+    "diameter":4.1945910036,
+    "asteroid_mass":62648008031509.1328125,
     "impact_velocity_kps":22.8205296041,
-    "impact_energy_mt":1568309.9102601272,
-    "impact_lat":-77.228895894,
-    "impact_lon":-68.7034118794
+    "impact_energy_mt":3898854.5445127469,
+    "impact_lat":-45.0272378439,
+    "impact_lon":157.936636967
   },
   {
     "id":54137511,
@@ -2008,12 +2008,12 @@
     "close_approach_date":"2025-09-27",
     "relative_velocity_kps":21.1992858078,
     "miss_distance_km":61771128.6449299082,
-    "diameter":15.6201379054,
-    "asteroid_mass":3224015361589339.0,
+    "diameter":11.3049124315,
+    "asteroid_mass":1417017823920886.25,
     "impact_velocity_kps":23.969487161,
-    "impact_energy_mt":221356824.1610559523,
-    "impact_lat":17.7180611381,
-    "impact_lon":-158.1758134009
+    "impact_energy_mt":97290654.6971630752,
+    "impact_lat":-52.0850531423,
+    "impact_lon":-174.6379311578
   },
   {
     "id":54209488,
@@ -2026,12 +2026,12 @@
     "close_approach_date":"2025-09-27",
     "relative_velocity_kps":9.3794720352,
     "miss_distance_km":50938434.7422741503,
-    "diameter":42.2909865826,
-    "asteroid_mass":7.819649305e+16,
+    "diameter":45.6483893755,
+    "asteroid_mass":9.319097971e+16,
     "impact_velocity_kps":14.5979824517,
-    "impact_energy_mt":1991366877.7709209919,
-    "impact_lat":86.1270142482,
-    "impact_lon":-47.0554814657
+    "impact_energy_mt":2373219348.6370091438,
+    "impact_lat":88.7628947779,
+    "impact_lon":33.2252558244
   },
   {
     "id":54289177,
@@ -2044,12 +2044,12 @@
     "close_approach_date":"2025-09-27",
     "relative_velocity_kps":4.2900607428,
     "miss_distance_km":20823968.1228685267,
-    "diameter":23.4870354424,
-    "asteroid_mass":1.567499216e+16,
+    "diameter":36.9264252606,
+    "asteroid_mass":4.405301589e+16,
     "impact_velocity_kps":11.9804514596,
-    "impact_energy_mt":268863611.7842868567,
-    "impact_lat":-75.6833852237,
-    "impact_lon":61.7979635375
+    "impact_energy_mt":755614602.1632517576,
+    "impact_lat":1.1549984164,
+    "impact_lon":19.2485323823
   },
   {
     "id":54356834,
@@ -2062,12 +2062,12 @@
     "close_approach_date":"2025-09-27",
     "relative_velocity_kps":17.1491602586,
     "miss_distance_km":13058879.4782456607,
-    "diameter":4.3860196834,
-    "asteroid_mass":91618234852166.625,
+    "diameter":6.6386969242,
+    "asteroid_mass":405636742007229.375,
     "impact_velocity_kps":20.4748698061,
-    "impact_energy_mt":4589892.8431598861,
-    "impact_lat":-44.4484685791,
-    "impact_lon":150.6777025598
+    "impact_energy_mt":20321600.6296768971,
+    "impact_lat":-79.034792144,
+    "impact_lon":-103.6351362381
   },
   {
     "id":54423831,
@@ -2080,12 +2080,12 @@
     "close_approach_date":"2025-09-27",
     "relative_velocity_kps":12.5944649109,
     "miss_distance_km":69111569.2245643884,
-    "diameter":22.143876125,
-    "asteroid_mass":9698192642803500.0,
+    "diameter":44.6280588969,
+    "asteroid_mass":8.936612749e+16,
     "impact_velocity_kps":16.8447957064,
-    "impact_energy_mt":328852109.0776239038,
-    "impact_lat":54.0883731665,
-    "impact_lon":177.1028583473
+    "impact_energy_mt":3030280031.2202606201,
+    "impact_lat":81.8342839385,
+    "impact_lon":63.4886593227
   },
   {
     "id":54545784,
@@ -2098,12 +2098,12 @@
     "close_approach_date":"2025-09-27",
     "relative_velocity_kps":25.4924167197,
     "miss_distance_km":11044393.6781982277,
-    "diameter":118.170610698,
-    "asteroid_mass":2.38934731e+18,
+    "diameter":155.1902400284,
+    "asteroid_mass":3.244937119e+18,
     "impact_velocity_kps":27.8386405238,
-    "impact_energy_mt":221285856577.6711425781,
-    "impact_lat":42.1679689242,
-    "impact_lon":12.7750496432
+    "impact_energy_mt":300525037447.6962280273,
+    "impact_lat":-31.0598988357,
+    "impact_lon":126.8709389707
   },
   {
     "id":54547369,
@@ -2116,12 +2116,12 @@
     "close_approach_date":"2025-09-27",
     "relative_velocity_kps":5.7194115323,
     "miss_distance_km":941732.9979248811,
-    "diameter":9.222157616,
-    "asteroid_mass":441622014733987.0,
+    "diameter":8.6729419168,
+    "asteroid_mass":465855560193008.5,
     "impact_velocity_kps":12.5633699411,
-    "impact_energy_mt":8329929.7647702023,
-    "impact_lat":-13.3850504831,
-    "impact_lon":-160.4965947909
+    "impact_energy_mt":8787025.9350021333,
+    "impact_lat":39.4512625879,
+    "impact_lon":-57.3181086432
   },
   {
     "id":54549694,
@@ -2134,12 +2134,12 @@
     "close_approach_date":"2025-09-27",
     "relative_velocity_kps":7.2092858659,
     "miss_distance_km":826504.326010374,
-    "diameter":15.3091144445,
-    "asteroid_mass":3245922156821726.0,
+    "diameter":11.1608190168,
+    "asteroid_mass":1184666051539834.25,
     "impact_velocity_kps":13.3079073748,
-    "impact_energy_mt":68696714.6403166354,
-    "impact_lat":79.5460586365,
-    "impact_lon":163.3329479169
+    "impact_energy_mt":25072278.9256256297,
+    "impact_lat":62.5523959411,
+    "impact_lon":-97.3456123316
   },
   {
     "id":54548707,
@@ -2152,12 +2152,12 @@
     "close_approach_date":"2025-09-27",
     "relative_velocity_kps":8.7298457579,
     "miss_distance_km":2575477.6180702019,
-    "diameter":27.6123153211,
-    "asteroid_mass":1.73769232e+16,
+    "diameter":25.0017549648,
+    "asteroid_mass":1.2360002e+16,
     "impact_velocity_kps":14.1893200315,
-    "impact_energy_mt":418094426.6249237061,
-    "impact_lat":-57.049810054,
-    "impact_lon":78.1910747675
+    "impact_energy_mt":297385670.1729839444,
+    "impact_lat":-39.5469442129,
+    "impact_lon":-23.7802497363
   },
   {
     "id":54550497,
@@ -2170,12 +2170,12 @@
     "close_approach_date":"2025-09-27",
     "relative_velocity_kps":13.8060402243,
     "miss_distance_km":3756515.4770516371,
-    "diameter":36.5420830723,
-    "asteroid_mass":4.158282109e+16,
+    "diameter":39.1563020597,
+    "asteroid_mass":4.360492998e+16,
     "impact_velocity_kps":17.7688869284,
-    "impact_energy_mt":1568963085.7344944477,
-    "impact_lat":16.7226757237,
-    "impact_lon":-69.3898953775
+    "impact_energy_mt":1645259356.9857962132,
+    "impact_lat":-23.4612191453,
+    "impact_lon":-17.6536161882
   },
   {
     "id":54550506,
@@ -2188,12 +2188,12 @@
     "close_approach_date":"2025-09-27",
     "relative_velocity_kps":9.2924017907,
     "miss_distance_km":1211662.5625416799,
-    "diameter":21.5074743173,
-    "asteroid_mass":8189275120967581.0,
+    "diameter":25.9516271672,
+    "asteroid_mass":1.233513275e+16,
     "impact_velocity_kps":14.5421912737,
-    "impact_energy_mt":206958608.3204534054,
-    "impact_lat":-39.1541910486,
-    "impact_lon":-2.958340653
+    "impact_energy_mt":311732341.4088377357,
+    "impact_lat":61.2379728265,
+    "impact_lon":-4.5375531654
   },
   {
     "id":54548500,
@@ -2206,12 +2206,12 @@
     "close_approach_date":"2025-09-27",
     "relative_velocity_kps":7.7206258928,
     "miss_distance_km":350925.112668365,
-    "diameter":26.8388405625,
-    "asteroid_mass":2.099979886e+16,
+    "diameter":33.1447707842,
+    "asteroid_mass":3.404651649e+16,
     "impact_velocity_kps":13.5917129228,
-    "impact_energy_mt":463598315.8060224056,
-    "impact_lat":67.9111806299,
-    "impact_lon":-151.4629748125
+    "impact_energy_mt":751621851.683645606,
+    "impact_lat":83.8313850235,
+    "impact_lon":10.1417671168
   },
   {
     "id":54550570,
@@ -2224,12 +2224,12 @@
     "close_approach_date":"2025-09-27",
     "relative_velocity_kps":10.9639274576,
     "miss_distance_km":4603453.2115676543,
-    "diameter":53.1310157081,
-    "asteroid_mass":1.263099005e+17,
+    "diameter":53.9073643917,
+    "asteroid_mass":2.162653527e+17,
     "impact_velocity_kps":15.6631510653,
-    "impact_energy_mt":3703172942.3104953766,
-    "impact_lat":-24.8483026553,
-    "impact_lon":144.3292295912
+    "impact_energy_mt":6340500620.7115535736,
+    "impact_lat":-88.1964136897,
+    "impact_lon":55.5143190464
   },
   {
     "id":54550572,
@@ -2242,12 +2242,12 @@
     "close_approach_date":"2025-09-27",
     "relative_velocity_kps":9.3846898583,
     "miss_distance_km":20717976.9249492884,
-    "diameter":27.9053729344,
-    "asteroid_mass":2.123213543e+16,
+    "diameter":47.563731421,
+    "asteroid_mass":1.27203255e+17,
     "impact_velocity_kps":14.6013355463,
-    "impact_energy_mt":540950052.1748784781,
-    "impact_lat":-40.7740665563,
-    "impact_lon":13.4807352042
+    "impact_energy_mt":3240870784.6010460854,
+    "impact_lat":-57.7004264934,
+    "impact_lon":-24.2293888609
   },
   {
     "id":3789115,
@@ -2260,12 +2260,12 @@
     "close_approach_date":"2025-09-30",
     "relative_velocity_kps":21.5089392584,
     "miss_distance_km":29445959.3058868311,
-    "diameter":333.9365306855,
-    "asteroid_mass":2.88386943e+19,
+    "diameter":375.5232333702,
+    "asteroid_mass":5.095749586e+19,
     "impact_velocity_kps":24.2437840285,
-    "impact_energy_mt":2025604881435.1115722656,
-    "impact_lat":71.103012307,
-    "impact_lon":88.8186923693
+    "impact_energy_mt":3579210323670.6176757812,
+    "impact_lat":6.6278718587,
+    "impact_lon":7.4376115271
   },
   {
     "id":3840725,
@@ -2278,12 +2278,12 @@
     "close_approach_date":"2025-09-30",
     "relative_velocity_kps":26.5509255762,
     "miss_distance_km":71678586.1256597191,
-    "diameter":11.1715444544,
-    "asteroid_mass":1503350161755265.5,
+    "diameter":20.9050824111,
+    "asteroid_mass":7985143256781659.0,
     "impact_velocity_kps":28.8110785108,
-    "impact_energy_mt":149127421.5845465958,
-    "impact_lat":-60.2241782339,
-    "impact_lon":-72.7332684428
+    "impact_energy_mt":792100107.5868657827,
+    "impact_lat":-37.6100452798,
+    "impact_lon":-42.0351490859
   },
   {
     "id":54073368,
@@ -2296,12 +2296,12 @@
     "close_approach_date":"2025-09-30",
     "relative_velocity_kps":14.0812231707,
     "miss_distance_km":27925414.6459811591,
-    "diameter":9.7650912593,
-    "asteroid_mass":699111552762682.375,
+    "diameter":15.4612503977,
+    "asteroid_mass":2426766909166083.0,
     "impact_velocity_kps":17.9835325224,
-    "impact_energy_mt":27019344.9975840338,
-    "impact_lat":68.5141024216,
-    "impact_lon":34.3182699592
+    "impact_energy_mt":93789971.1260201186,
+    "impact_lat":83.8463522608,
+    "impact_lon":36.8307582445
   },
   {
     "id":54307195,
@@ -2314,12 +2314,12 @@
     "close_approach_date":"2025-09-30",
     "relative_velocity_kps":31.5089657323,
     "miss_distance_km":55832162.3351056427,
-    "diameter":197.7530094353,
-    "asteroid_mass":8.962356317e+18,
+    "diameter":104.9313678252,
+    "asteroid_mass":1.437016557e+18,
     "impact_velocity_kps":33.4356324528,
-    "impact_energy_mt":1197345867789.5258789062,
-    "impact_lat":-77.0474140754,
-    "impact_lon":-86.6430854953
+    "impact_energy_mt":191981413760.1561584473,
+    "impact_lat":63.2392682057,
+    "impact_lon":139.5646419594
   },
   {
     "id":54347989,
@@ -2332,12 +2332,12 @@
     "close_approach_date":"2025-09-30",
     "relative_velocity_kps":17.8479387621,
     "miss_distance_km":7589014.5396760171,
-    "diameter":83.8811156833,
-    "asteroid_mass":3.947617819e+17,
+    "diameter":66.7068316944,
+    "asteroid_mass":1.730785607e+17,
     "impact_velocity_kps":21.0636063877,
-    "impact_energy_mt":20930465647.0198402405,
-    "impact_lat":58.1805988372,
-    "impact_lon":-167.1688178698
+    "impact_energy_mt":9176711208.015455246,
+    "impact_lat":-37.4722257278,
+    "impact_lon":51.5128464414
   },
   {
     "id":54398529,
@@ -2350,12 +2350,12 @@
     "close_approach_date":"2025-09-30",
     "relative_velocity_kps":16.7242676581,
     "miss_distance_km":55145661.8385768458,
-    "diameter":32.3406942681,
-    "asteroid_mass":2.317483774e+16,
+    "diameter":35.4395489364,
+    "asteroid_mass":3.848595066e+16,
     "impact_velocity_kps":20.120331128,
-    "impact_energy_mt":1121154019.1131842136,
-    "impact_lat":-34.6649448339,
-    "impact_lon":-115.6072723556
+    "impact_energy_mt":1861876175.8715372086,
+    "impact_lat":-18.469752833,
+    "impact_lon":-179.8161257215
   },
   {
     "id":54486547,
@@ -2368,12 +2368,12 @@
     "close_approach_date":"2025-09-30",
     "relative_velocity_kps":17.2855060151,
     "miss_distance_km":50148941.4977736846,
-    "diameter":63.3741649731,
-    "asteroid_mass":1.647763506e+17,
+    "diameter":52.9063447357,
+    "asteroid_mass":1.378917428e+17,
     "impact_velocity_kps":20.5892038262,
-    "impact_energy_mt":8347420939.9323263168,
-    "impact_lat":39.5966106905,
-    "impact_lon":32.4682489455
+    "impact_energy_mt":6985471015.95175457,
+    "impact_lat":-5.8415882708,
+    "impact_lon":-38.8266866229
   },
   {
     "id":54546473,
@@ -2386,12 +2386,12 @@
     "close_approach_date":"2025-09-30",
     "relative_velocity_kps":7.2120774082,
     "miss_distance_km":2681697.1920977822,
-    "diameter":28.7458329156,
-    "asteroid_mass":1.508089102e+16,
+    "diameter":25.8395693069,
+    "asteroid_mass":2.026367179e+16,
     "impact_velocity_kps":13.3094198424,
-    "impact_energy_mt":319244614.7609088421,
-    "impact_lat":63.1182809382,
-    "impact_lon":118.4961268456
+    "impact_energy_mt":428957949.8482408524,
+    "impact_lat":-39.2355696869,
+    "impact_lon":-109.151828843
   },
   {
     "id":54547734,
@@ -2404,12 +2404,12 @@
     "close_approach_date":"2025-09-30",
     "relative_velocity_kps":3.2670845434,
     "miss_distance_km":2534747.6980697531,
-    "diameter":12.1464321735,
-    "asteroid_mass":1186796810177632.25,
+    "diameter":15.0463509009,
+    "asteroid_mass":4577923899227892.0,
     "impact_velocity_kps":11.6533444733,
-    "impact_energy_mt":19259981.5897865482,
-    "impact_lat":25.6399051554,
-    "impact_lon":-49.2697169192
+    "impact_energy_mt":74293029.1541449428,
+    "impact_lat":57.5870413486,
+    "impact_lon":94.9905374975
   },
   {
     "id":54549129,
@@ -2422,12 +2422,12 @@
     "close_approach_date":"2025-09-30",
     "relative_velocity_kps":10.8206148218,
     "miss_distance_km":8846125.2642390113,
-    "diameter":36.0802269742,
-    "asteroid_mass":3.113626264e+16,
+    "diameter":72.8075879572,
+    "asteroid_mass":2.315742067e+17,
     "impact_velocity_kps":15.5631713067,
-    "impact_energy_mt":901241135.580198884,
-    "impact_lat":34.8989413992,
-    "impact_lon":82.6786631594
+    "impact_energy_mt":6702930387.3527193069,
+    "impact_lat":-39.952623714,
+    "impact_lon":-88.6878415868
   },
   {
     "id":54549693,
@@ -2440,12 +2440,12 @@
     "close_approach_date":"2025-09-30",
     "relative_velocity_kps":14.8708828224,
     "miss_distance_km":279945.246731808,
-    "diameter":11.6832570103,
-    "asteroid_mass":1244871439487768.25,
+    "diameter":9.2131295882,
+    "asteroid_mass":1071484117037017.25,
     "impact_velocity_kps":18.6083248015,
-    "impact_energy_mt":51513064.5937708616,
-    "impact_lat":-22.3829410645,
-    "impact_lon":152.3444032821
+    "impact_energy_mt":44338257.5752873495,
+    "impact_lat":50.9086113432,
+    "impact_lon":-150.1917130835
   },
   {
     "id":54549125,
@@ -2458,12 +2458,12 @@
     "close_approach_date":"2025-09-30",
     "relative_velocity_kps":7.9198289874,
     "miss_distance_km":11095183.6809615009,
-    "diameter":24.322346251,
-    "asteroid_mass":1.972186057e+16,
+    "diameter":20.7846918055,
+    "asteroid_mass":6046354716123979.0,
     "impact_velocity_kps":13.705848649,
-    "impact_energy_mt":442729107.5572345853,
-    "impact_lat":-79.5944898133,
-    "impact_lon":148.8510639883
+    "impact_energy_mt":135732489.2297385931,
+    "impact_lat":-87.0456757146,
+    "impact_lon":-35.3545625649
   },
   {
     "id":54549126,
@@ -2476,12 +2476,12 @@
     "close_approach_date":"2025-09-30",
     "relative_velocity_kps":7.8499711093,
     "miss_distance_km":4611839.6681598537,
-    "diameter":35.7969744253,
-    "asteroid_mass":4.602813226e+16,
+    "diameter":20.9987361865,
+    "asteroid_mass":1.421853687e+16,
     "impact_velocity_kps":13.6656006973,
-    "impact_energy_mt":1027209752.9142237902,
-    "impact_lat":15.5565166214,
-    "impact_lon":81.2129045697
+    "impact_energy_mt":317315064.2546131611,
+    "impact_lat":15.2155528679,
+    "impact_lon":139.2045238143
   },
   {
     "id":54550571,
@@ -2494,12 +2494,12 @@
     "close_approach_date":"2025-09-30",
     "relative_velocity_kps":9.7508039956,
     "miss_distance_km":6032457.4089220511,
-    "diameter":39.216630944,
-    "asteroid_mass":4.172872391e+16,
+    "diameter":58.7285632291,
+    "asteroid_mass":1.501353662e+17,
     "impact_velocity_kps":14.8392983177,
-    "impact_energy_mt":1098095631.0128259659,
-    "impact_lat":-39.124766797,
-    "impact_lon":123.3011310834
+    "impact_energy_mt":3950827493.5052194595,
+    "impact_lat":33.5118092731,
+    "impact_lon":-2.9161710861
   },
   {
     "id":54550573,
@@ -2512,11 +2512,11 @@
     "close_approach_date":"2025-09-30",
     "relative_velocity_kps":7.521290186,
     "miss_distance_km":3349879.0704101818,
-    "diameter":13.813453089,
-    "asteroid_mass":3153243106200660.5,
+    "diameter":14.8452778958,
+    "asteroid_mass":3725089105581768.0,
     "impact_velocity_kps":13.4794807787,
-    "impact_energy_mt":68467128.0142839253,
-    "impact_lat":11.8419530361,
-    "impact_lon":119.3192379908
+    "impact_energy_mt":80883758.1076284796,
+    "impact_lat":57.5672238671,
+    "impact_lon":-94.6532700982
   }
 ]

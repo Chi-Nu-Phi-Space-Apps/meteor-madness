@@ -9,7 +9,7 @@ RAD_EARTH = 6371            # km
 V_ESCAPE_EARTH = 11.186     # km/s
 DENS_AST = 3e12             # kg/km³ 
 JOULES_PER_MT = 4.184e15    # joules/mt
-ENTRY_ALT = 100          # km
+ENTRY_ALT = 100             # km
 
 # Calculate asteroid mass
 def calculate_asteroid_mass(df):
@@ -93,26 +93,4 @@ def simulate_impact():
     df.to_csv("data/simulated_asteroid_data.csv", index=False)
     df.to_json("data/simulated_asteroid_data.json", orient="records", indent=2)
 
-    plot_impact_map(df)
-
     return df
-
-
-#
-def plot_impact_map(df, sample_size=50):
-    impact_map_path = r"data/impact_map.png"  # fixed filename — add .png extension
-
-    # Take a sample of impacts (optional, to keep map uncluttered)
-    sim_df = df.head(sample_size).copy()
-
-    # Plot
-    plt.figure(figsize=(10, 5))
-    plt.scatter(sim_df['impact_lon'], sim_df['impact_lat'], s=20, color='red', alpha=0.7)
-    plt.title("Simulated Asteroid Impact Locations")
-    plt.xlabel("Longitude")
-    plt.ylabel("Latitude")
-    plt.grid(True)
-
-    # Save map image
-    plt.savefig(impact_map_path, dpi=300)
-    plt.close()
