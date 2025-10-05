@@ -1,3 +1,26 @@
+/* Import custom pixel font */
+@font-face {
+  font-family: 'PixelGame';
+  src: url('./fonts/PixelGame-R9AZe.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PixelGameExtrude';
+  src: url('./fonts/PixelGameExtrude-BLqwn.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Set the default font */
+body {
+  background-color: #2f4f4f;
+  color: #f0ffff;
+  font-family: 'PixelGame', sans-serif;
+}
+
+
 .center-div {
   display: flex;
   justify-content: center;
