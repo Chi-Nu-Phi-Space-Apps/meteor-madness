@@ -6,15 +6,14 @@ function Dropdown({ data }: { data: Data }) {
 
   // Remove parentheses from names and sort alphabetically
   const cleanedNames = allObjects
-    .map((obj) => obj.name) // TODO: trim the name to e.x. "1991 GO"
+    // This is a digusting regex but it matches the parentheses and leading digits
+    .map((obj) => obj.name.replace(/(\d+\ )(?=\()|(\(|\))/g, ""))
     .sort((a, b) => a.localeCompare(b));
 
   // Initialize selected to the first object's name when data changes.
-  const [selected, setSelected] = React.useState(
-    () => cleanedNames[0] || ""
-  );
+  const [selected, setSelected] = React.useState(() => cleanedNames[0] || "");
 
-  // TODO: set to a random asteroid every time
+  // TODO: set to a random asteroid every time?
   React.useEffect(() => {
     setSelected(cleanedNames[0] || "");
   }, [data]);
@@ -28,7 +27,11 @@ function Dropdown({ data }: { data: Data }) {
           </option>
         ))}
       </select>
-      <button onClick={() => alert(`Selected: ${selected.replace(/^\(|\)$/g, "")}`)}>Submit</button>
+      <button
+        onClick={() => alert(`Selected: ${selected.replace(/^\(|\)$/g, "")}`)}
+      >
+        Submit
+      </button>
     </div>
   );
 }
@@ -37,7 +40,7 @@ export default function Picker({ data }: { data: Data }) {
   return (
     <div className="center-div" id="game">
       <p>Pick an asteroid to guess!</p>
-      
+
       <Dropdown data={data} />
     </div>
   );

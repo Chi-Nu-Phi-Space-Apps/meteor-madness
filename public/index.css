@@ -14,11 +14,12 @@
 }
 
 body {
-  background-color: #2F4F4F;
-  color: #F0FFFF;
+  background-color: #2f4f4f;
+  color: #f0ffff;
 }
 
-h1, h2 {
+h1,
+h2 {
   text-align: center;
   text-transform: uppercase;
 }

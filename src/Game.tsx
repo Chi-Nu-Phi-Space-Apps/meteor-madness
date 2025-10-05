@@ -8,7 +8,7 @@ export const enum GameState {
   PICK,
   GUESS,
   ANIMATE,
-  DATA
+  DATA,
 }
 
 export default function Game({ data }: { data: Data | null }) {

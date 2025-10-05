@@ -6,7 +6,7 @@ import type { Data } from "./data";
 export default function App() {
   const [data, setData] = React.useState<Data | null>(null);
   const [loading, setLoading] = React.useState<boolean>(false);
-  const [error, setError] = React.useState(null);
+  const [error, setError] = React.useState<unknown>(null);
 
   React.useEffect(() => {
     let mounted = true;
@@ -24,7 +24,7 @@ export default function App() {
       })
       .catch((err) => {
         if (!mounted) return;
-        setError(err.message);
+        setError(err);
         setLoading(false);
       });
 
@@ -34,14 +34,14 @@ export default function App() {
   }, []);
 
   if (loading) return <p>Loading...</p>;
-  if (error) return <p style={{ color: "red" }}>Error: {error}</p>;
+  if (error) return <p style={{ color: "red" }}>{error.toString()}</p>;
 
   return (
     <div>
       <h1>Chi Nu Phi Meteor Madness!</h1>
       <p>
-        Have you wondered what asteroid impacts could actually result in?
-        Try your hand at a GeoGuessr-style game complete with real data!
+        Have you wondered what asteroid impacts could actually result in? Try
+        your hand at a GeoGuessr-style game complete with real data!
       </p>
       <Game data={data} />
       <Instructions />
