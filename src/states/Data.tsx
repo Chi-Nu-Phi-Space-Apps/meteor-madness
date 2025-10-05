@@ -9,7 +9,7 @@ export default function DataViewer({ data, selectedAsteroid }: { data: Data, sel
   }, []);
 
   return (
-    <div id="game">
+    <div id="gameData">
       <img src="./worldMap.jpg" alt="a world map" ref={ref} />
     </div>
   );

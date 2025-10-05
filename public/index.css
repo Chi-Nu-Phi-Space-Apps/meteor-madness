@@ -71,7 +71,17 @@ div#game {
   background: linear-gradient(to bottom,#ffea29, rgb(215, 144, 11), #7d1982);
 }
 
-div#game img {
+div#gameData {
+  border: 2px solid #ccc;
+  border-radius: 12px;
+  padding: 10px;
+  margin: 40px auto;
+  width: 80%;
+  box-sizing: border-box;
+  background-color: rgb(78, 17, 117);
+}
+
+:is(div#game, div#gameData) img {
   width: 100%;
   height: auto;
   display: block;
