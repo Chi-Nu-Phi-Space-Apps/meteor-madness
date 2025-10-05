@@ -1,7 +1,7 @@
 import React from "react";
 import Game from "./Game";
 import Instructions from "./Instructions";
-import type { Data } from "./data";
+import type { Data } from "./types";
 
 export default function App() {
   const [data, setData] = React.useState<Data | null>(null);
