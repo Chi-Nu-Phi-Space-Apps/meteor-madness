@@ -137,9 +137,15 @@ body {
   color: #f0ffff;
 }
 
+a {
+  color: white;
+}
+
 h2 {
   text-align: center;
+  font-size: 60px;
   text-transform: uppercase;
+  margin: 0%;
 }
 
 h3 {
@@ -164,7 +170,7 @@ p {
 
 .dataContainer {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 3%;
 }
 
@@ -173,4 +179,16 @@ p {
   border: 1px solid #ccc;
   border-radius: 6px;
   text-align: center;
+}
+
+div.dataBox h3 {
+  margin: 0%;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+div.dataBox p {
+  text-align: left;
+  font-size: 20px;
+  margin: 0%;
 }
