@@ -68,7 +68,7 @@ div#game {
   margin: 40px auto;
   width: 80%;
   box-sizing: border-box;
-  background-color: rgb(78, 17, 117);
+  background: linear-gradient(to bottom,#ffea29, rgb(215, 144, 11), #7d1982);
 }
 
 div#game img {
