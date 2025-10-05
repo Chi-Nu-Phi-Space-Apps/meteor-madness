@@ -1,7 +1,18 @@
 import React from "react";
-import type { Data } from "../data";
+import type { Data, StateSetter } from "../types";
+import { GameState } from "../Game";
 
-function Dropdown({ data }: { data: Data }) {
+export default function Picker({
+  data,
+  setGameState,
+  selectedAsteroid,
+  setSelectedAsteroid,
+}: {
+  data: Data;
+  setGameState: StateSetter<GameState>;
+  selectedAsteroid: string;
+  setSelectedAsteroid: StateSetter<string>;
+}) {
   const allObjects = Object.values(data.near_earth_objects).flat();
 
   // Remove parentheses from names and sort alphabetically
@@ -10,38 +21,28 @@ function Dropdown({ data }: { data: Data }) {
     .map((obj) => obj.name.replace(/(\d+\ )(?=\()|(\(|\))/g, ""))
     .sort((a, b) => a.localeCompare(b));
 
-  // Initialize selected to the first object's name when data changes.
-  const [selected, setSelected] = React.useState(() => cleanedNames[0] || "");
-
   // TODO: set to a random asteroid every time?
   React.useEffect(() => {
-    setSelected(cleanedNames[0] || "");
-  }, [data]);
+    setSelectedAsteroid(cleanedNames[0] || "");
+  }, []);
 
   return (
-    <div>
-      <select value={selected} onChange={(e) => setSelected(e.target.value)}>
+    <div className="center-div" id="game">
+      <p>Pick an asteroid to guess!</p>
+
+      <select
+        value={selectedAsteroid}
+        onChange={(e) => setSelectedAsteroid(e.target.value)}
+      >
         {cleanedNames.map((name) => (
           <option key={name} value={name}>
             {name}
           </option>
         ))}
       </select>
-      <button
-        onClick={() => alert(`Selected: ${selected.replace(/^\(|\)$/g, "")}`)}
-      >
+      <button onClick={() => setGameState(GameState.DATA)}>
         Submit
       </button>
-    </div>
-  );
-}
-
-export default function Picker({ data }: { data: Data }) {
-  return (
-    <div className="center-div" id="game">
-      <p>Pick an asteroid to guess!</p>
-
-      <Dropdown data={data} />
     </div>
   );
 }

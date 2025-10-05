@@ -1,3 +1,7 @@
+import type React from "react";
+
+export type StateSetter<T> = React.Dispatch<React.SetStateAction<T>>;
+
 export type EstimatedDiameter = {
   estimated_diameter_min: number;
   estimated_diameter_max: number;

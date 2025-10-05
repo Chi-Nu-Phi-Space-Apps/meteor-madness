@@ -1,6 +1,6 @@
 import React from "react";
-import type { Data } from "../data";
+import type { Data } from "../types";
 
 export default function DataViewer({ data }: { data: Data }) {
-  return <div>TODO</div>;
+  return <div id="game">TODO</div>;
 }
