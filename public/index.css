@@ -81,6 +81,10 @@ div#gameData {
   background-color: rgb(78, 17, 117);
 }
 
+#game p {
+  margin-right: 20px; /* adds space between text and dropdown */
+}
+
 :is(div#game, div#gameData) img {
   width: 100%;
   height: auto;
