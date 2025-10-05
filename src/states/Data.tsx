@@ -1,16 +1,18 @@
 import React, { useEffect } from "react";
-import type { Data } from "../types";
+import type { NEODescriptor } from "../types";
 
 function OverlayOnImage({
   src,
   x,
   y,
   children,
+  ref,
 }: {
   src: string;
   x: number;
   y: number;
   children?: React.ReactNode;
+  ref?: React.RefObject<HTMLImageElement | null>
 }) {
   return (
     <div
@@ -28,6 +30,7 @@ function OverlayOnImage({
           height: "auto",
           display: "block",
         }}
+        ref={ref || undefined}
       />
       <div
         style={{
@@ -45,11 +48,9 @@ function OverlayOnImage({
 }
 
 export default function DataViewer({
-  data,
-  selectedAsteroid,
+  asteroid
 }: {
-  data: Data;
-  selectedAsteroid: string;
+  asteroid: NEODescriptor;
 }) {
   const ref = React.useRef<HTMLImageElement>(null);
   const [xPercent, setXPercent] = React.useState<number>(0);
@@ -59,12 +60,13 @@ export default function DataViewer({
 
   useEffect(() => {
     console.log(ref);
+    console.log(asteroid);
     console.log(`width: ${ref.current?.width}, height ${ref.current?.height}`);
   }, []);
 
   return (
     <div id="gameData">
-      <OverlayOnImage src="./worldMap.jpg" x={xPercent} y={yPercent}>
+      <OverlayOnImage src="./photos/worldMap.jpg" x={xPercent} y={yPercent} ref={ref}>
         <p style={{ font: "caption", fontSize: "1.5rem", color: "red" }}>x</p>
       </OverlayOnImage>
     </div>
