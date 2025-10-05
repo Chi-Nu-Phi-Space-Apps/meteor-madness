@@ -52,18 +52,13 @@ h1 {
   100% { background-position: 50% 100%; }
 }
 
-
-
-
-
-
 .center-div {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-#game {
+div#game {
   border: 2px solid #ccc;
   border-radius: 12px;
   padding: 24px;
@@ -72,12 +67,17 @@ h1 {
   box-sizing: border-box;
 }
 
+div#game img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 body {
   background-color: #2f4f4f;
   color: #f0ffff;
 }
 
-h1,
 h2 {
   text-align: center;
   text-transform: uppercase;

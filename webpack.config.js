@@ -9,6 +9,16 @@ module.exports = {
   module: {
     rules: [
       {
+        test: /\.(png|jpe?g|gif|svg|webp)$/i,
+        use: {
+          loader: 'file-loader', // Or 'url-loader' for inlining small images
+          options: {
+            name: '[name].[hash].[ext]',
+            outputPath: 'images/', // Output directory for images
+          }
+        }
+      },
+      {
         test: /\.tsx?$/,
         exclude: /node_modules/,
         use: 'ts-loader'

@@ -23,7 +23,7 @@ export default function Game({ data }: { data: Data | null }) {
     case GameState.GUESS:
       return <Guesser data={data} />;
     case GameState.DATA:
-      return <DataViewer data={data} />;
+      return <DataViewer data={data} selectedAsteroid={selectedAsteroid} />;
     default:
       throw new Error("Unhandled gamestate value");
   }
